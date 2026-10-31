@@ -1295,7 +1295,7 @@
   "id": 39,
   "title": "Water-moon Avalokiteshvara",
   "artistId": null,
-  "artistDisplay": "Unidentified artist",
+  "artistDisplay": "Korea",
   "museumId": 1,
   "departmentId": 3,
   "classification": "Painting",
@@ -1363,7 +1363,7 @@
   "id": 41,
   "title": "Illustrated manuscript of the Lotus Sutra, Volume 2",
   "artistId": null,
-  "artistDisplay": "Unidentified artist",
+  "artistDisplay": "Korea",
   "museumId": 1,
   "departmentId": 3,
   "classification": "Painting",
@@ -1397,7 +1397,7 @@
   "id": 42,
   "title": "Grapevine in the Wind",
   "artistId": null,
-  "artistDisplay": "Unidentified artist",
+  "artistDisplay": "Korea",
   "museumId": 1,
   "departmentId": 3,
   "classification": "Painting",
@@ -6394,8 +6394,8 @@
  {
   "id": 189,
   "title": "A Bishop Saint",
-  "artistId": 98,
-  "artistDisplay": "Ubekendt",
+  "artistId": null,
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 13,
   "classification": "Sculpture",
@@ -6428,8 +6428,8 @@
  {
   "id": 190,
   "title": "Saint Catherine of Alexandria",
-  "artistId": 99,
-  "artistDisplay": "Ubekendt fransk begyndelsen af 1500-tallet",
+  "artistId": null,
+  "artistDisplay": "French",
   "museumId": 2,
   "departmentId": 13,
   "classification": "Sculpture",
@@ -6462,7 +6462,7 @@
  {
   "id": 191,
   "title": "The Slave Girl",
-  "artistId": 100,
+  "artistId": 98,
   "artistDisplay": "J.A. Jerichau (I)",
   "museumId": 2,
   "departmentId": 13,
@@ -6496,7 +6496,7 @@
  {
   "id": 192,
   "title": "Susanna before the Elders",
-  "artistId": 101,
+  "artistId": 99,
   "artistDisplay": "August Saabye",
   "museumId": 2,
   "departmentId": 13,
@@ -6530,7 +6530,7 @@
  {
   "id": 193,
   "title": "Bust of Camilla Barbadori (dead 1609). Mother of Pope Urban VIII Barberini",
-  "artistId": 102,
+  "artistId": 100,
   "artistDisplay": "Giovanni Lorenzo Bernini",
   "museumId": 2,
   "departmentId": 13,
@@ -6564,7 +6564,7 @@
  {
   "id": 194,
   "title": "Bust of Pope Paul V Borghese (1552; Pope 1605-1621)",
-  "artistId": 102,
+  "artistId": 100,
   "artistDisplay": "Giovanni Lorenzo Bernini",
   "museumId": 2,
   "departmentId": 13,
@@ -6598,7 +6598,7 @@
  {
   "id": 195,
   "title": "Bust of Marcantonio Ruzzini",
-  "artistId": 103,
+  "artistId": 101,
   "artistDisplay": "Domenico da Salò",
   "museumId": 2,
   "departmentId": 13,
@@ -6632,7 +6632,7 @@
  {
   "id": 196,
   "title": "Bust of Ottavio Farnese. Duke of Camerino, Parma and Piacenza",
-  "artistId": 104,
+  "artistId": 102,
   "artistDisplay": "Alessandro Vittoria",
   "museumId": 2,
   "departmentId": 13,
@@ -6666,8 +6666,8 @@
  {
   "id": 197,
   "title": "A Saint with a Book",
-  "artistId": 105,
-  "artistDisplay": "Ubekendt italiensk",
+  "artistId": null,
+  "artistDisplay": "Italian",
   "museumId": 2,
   "departmentId": 13,
   "classification": "Sculpture",
@@ -6700,7 +6700,7 @@
  {
   "id": 198,
   "title": "Bust of a Cardinal",
-  "artistId": 106,
+  "artistId": 103,
   "artistDisplay": "Lorenzo Ottoni",
   "museumId": 2,
   "departmentId": 13,
@@ -6734,7 +6734,7 @@
  {
   "id": 199,
   "title": "Unknown Lady",
-  "artistId": 107,
+  "artistId": 104,
   "artistDisplay": "Georg Saleman",
   "museumId": 2,
   "departmentId": 13,
@@ -6768,8 +6768,8 @@
  {
   "id": 200,
   "title": "Portrait of a Man in Roman Dress",
-  "artistId": 108,
-  "artistDisplay": "Ubekendt omkring 1700",
+  "artistId": null,
+  "artistDisplay": "French",
   "museumId": 2,
   "departmentId": 13,
   "classification": "Painting",
@@ -6802,7 +6802,7 @@
  {
   "id": 201,
   "title": "Portræt af Jean Labadie",
-  "artistId": 109,
+  "artistId": 105,
   "artistDisplay": "Anna Maria van Schurman",
   "museumId": 2,
   "departmentId": 13,
@@ -6836,7 +6836,7 @@
  {
   "id": 202,
   "title": "Venus and Cupid",
-  "artistId": 110,
+  "artistId": 106,
   "artistDisplay": "Rosalba Carriera",
   "museumId": 2,
   "departmentId": 13,
@@ -6870,7 +6870,7 @@
  {
   "id": 203,
   "title": "Saint Cecilia",
-  "artistId": 111,
+  "artistId": 107,
   "artistDisplay": "Cornelius Høyer",
   "museumId": 2,
   "departmentId": 13,
@@ -6905,7 +6905,7 @@
   "id": 204,
   "title": "Discobolus, Roman Copy with Modern Head",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -6939,7 +6939,7 @@
   "id": 205,
   "title": "The Wrestlers",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -6973,7 +6973,7 @@
   "id": 206,
   "title": "THe Farnese Diadoumenos, Athlete binding victor's fillet around his head",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -7007,7 +7007,7 @@
   "id": 207,
   "title": "Minverva Giustiniani",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -7041,7 +7041,7 @@
   "id": 208,
   "title": "Crouching Venus",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -7075,7 +7075,7 @@
   "id": 209,
   "title": "Knælende mand, niobide eller bryder, med løftet h. arm",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -7109,7 +7109,7 @@
   "id": 210,
   "title": "Apostlen Jacob den Yngre med hænderne samlet foran",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -7143,7 +7143,7 @@
   "id": 211,
   "title": "Apostlen Thomas med åben bog",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -7177,7 +7177,7 @@
   "id": 212,
   "title": "Apostlen Bartholomæus med åben skriftrulle",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -7211,7 +7211,7 @@
   "id": 213,
   "title": "Gravrelief. Mands- og kvindebuste i niche. Publius Aiedius Amphio & Aiedia Fausta Melior",
   "artistId": null,
-  "artistDisplay": "Unknown",
+  "artistDisplay": "Unknown maker",
   "museumId": 2,
   "departmentId": 14,
   "classification": "Sculpture",
@@ -7244,7 +7244,7 @@
  {
   "id": 214,
   "title": "En sommerfugl",
-  "artistId": 112,
+  "artistId": 108,
   "artistDisplay": "Pieter Holsteyn (I)",
   "museumId": 2,
   "departmentId": 15,
@@ -7278,7 +7278,7 @@
  {
   "id": 215,
   "title": "Torso. Belvedere. Front view of the antique sculpture.",
-  "artistId": 113,
+  "artistId": 109,
   "artistDisplay": "Willem Panneels",
   "museumId": 2,
   "departmentId": 15,
@@ -7312,7 +7312,7 @@
  {
   "id": 216,
   "title": "Laocoon. Front view of Laocoon and his younger son turmed to the left.",
-  "artistId": 113,
+  "artistId": 109,
   "artistDisplay": "Willem Panneels",
   "museumId": 2,
   "departmentId": 15,
@@ -7346,7 +7346,7 @@
  {
   "id": 217,
   "title": "Triumphal Chariot. Humilitas (Humility)",
-  "artistId": 114,
+  "artistId": 110,
   "artistDisplay": "Maarten van Heemskerck",
   "museumId": 2,
   "departmentId": 15,
@@ -7414,7 +7414,7 @@
  {
   "id": 219,
   "title": "En rudel hjorte og en stork",
-  "artistId": 115,
+  "artistId": 111,
   "artistDisplay": "P.C. Skovgaard",
   "museumId": 2,
   "departmentId": 15,
@@ -7448,7 +7448,7 @@
  {
   "id": 220,
   "title": "Abekatten. T.h. studier af abeho-veder m.m.",
-  "artistId": 116,
+  "artistId": 112,
   "artistDisplay": "Johan Thomas Lundbye",
   "museumId": 2,
   "departmentId": 15,
@@ -7482,7 +7482,7 @@
  {
   "id": 221,
   "title": "Grisene",
-  "artistId": 116,
+  "artistId": 112,
   "artistDisplay": "Johan Thomas Lundbye",
   "museumId": 2,
   "departmentId": 15,
@@ -7516,7 +7516,7 @@
  {
   "id": 222,
   "title": "De to venner",
-  "artistId": 116,
+  "artistId": 112,
   "artistDisplay": "Johan Thomas Lundbye",
   "museumId": 2,
   "departmentId": 15,
@@ -7550,8 +7550,8 @@
  {
   "id": 223,
   "title": "Juno med sin vogn og Saturn(?) på vej henover skyerne",
-  "artistId": 117,
-  "artistDisplay": "Ubekendt KKS",
+  "artistId": null,
+  "artistDisplay": "unknown",
   "museumId": 2,
   "departmentId": 15,
   "classification": "Drawing",
@@ -7584,7 +7584,7 @@
  {
   "id": 224,
   "title": "Landskab, som en hær drager igennem",
-  "artistId": 118,
+  "artistId": 113,
   "artistDisplay": "A. Wolf",
   "museumId": 2,
   "departmentId": 15,
@@ -7618,7 +7618,7 @@
  {
   "id": 225,
   "title": "Kirkelig ceremoni",
-  "artistId": 119,
+  "artistId": 114,
   "artistDisplay": "A. Burg",
   "museumId": 2,
   "departmentId": 15,
@@ -7652,7 +7652,7 @@
  {
   "id": 226,
   "title": "En mandlig helgen vaskes og plejes af engle, mens han lytter til en kvindelig helgen, der sidder foran en læsepult og peger opad. Den Hl.Sebastian hos den Hl.Irene?",
-  "artistId": 120,
+  "artistId": 115,
   "artistDisplay": "Bartolommeo Letterini",
   "museumId": 2,
   "departmentId": 15,
@@ -7686,7 +7686,7 @@
  {
   "id": 227,
   "title": "Valdemar Atterdag marches into Visby in 1361",
-  "artistId": 121,
+  "artistId": 116,
   "artistDisplay": "Gerard van Honthorst",
   "museumId": 2,
   "departmentId": 15,
@@ -7720,7 +7720,7 @@
  {
   "id": 228,
   "title": "Scenebillede",
-  "artistId": 122,
+  "artistId": 117,
   "artistDisplay": "Peter Cramer",
   "museumId": 2,
   "departmentId": 15,
@@ -7754,7 +7754,7 @@
  {
   "id": 229,
   "title": "Udsigt fra Rundetårn over København til Frederiksberg Slot",
-  "artistId": 123,
+  "artistId": 118,
   "artistDisplay": "H.G.F. Holm",
   "museumId": 2,
   "departmentId": 15,
@@ -7788,7 +7788,7 @@
  {
   "id": 230,
   "title": "Liljekonval",
-  "artistId": 124,
+  "artistId": 119,
   "artistDisplay": "Niels Larsen Stevns",
   "museumId": 2,
   "departmentId": 15,
@@ -7822,7 +7822,7 @@
  {
   "id": 231,
   "title": "Dansk Ingefær",
-  "artistId": 124,
+  "artistId": 119,
   "artistDisplay": "Niels Larsen Stevns",
   "museumId": 2,
   "departmentId": 15,
@@ -7856,7 +7856,7 @@
  {
   "id": 232,
   "title": "Mand med slæde",
-  "artistId": 125,
+  "artistId": 120,
   "artistDisplay": "Sigmund Ferdinand Ritter von Perger",
   "museumId": 2,
   "departmentId": 15,
@@ -7890,8 +7890,8 @@
  {
   "id": 233,
   "title": "Abondantia",
-  "artistId": 117,
-  "artistDisplay": "Ubekendt KKS",
+  "artistId": null,
+  "artistDisplay": "unknown",
   "museumId": 2,
   "departmentId": 15,
   "classification": "Drawing",
@@ -7924,7 +7924,7 @@
  {
   "id": 234,
   "title": "Rembrandt bareheaded and open-mouthed, as if shouting: bust",
-  "artistId": 126,
+  "artistId": 121,
   "artistDisplay": "Rembrandt van Rijn",
   "museumId": 2,
   "departmentId": 15,
@@ -7958,7 +7958,7 @@
  {
   "id": 235,
   "title": "Portræt af hærfører, Nikola IV Zrinski (Miklós IV Zrínyi)",
-  "artistId": 127,
+  "artistId": 122,
   "artistDisplay": "Matthias Zündt",
   "museumId": 2,
   "departmentId": 15,
@@ -7992,7 +7992,7 @@
  {
   "id": 236,
   "title": "Portræt af Joannes de Valeta",
-  "artistId": 127,
+  "artistId": 122,
   "artistDisplay": "Matthias Zündt",
   "museumId": 2,
   "departmentId": 15,
@@ -8026,7 +8026,7 @@
  {
   "id": 237,
   "title": "Louis III de Bourbon, prins af Condé",
-  "artistId": 127,
+  "artistId": 122,
   "artistDisplay": "Matthias Zündt",
   "museumId": 2,
   "departmentId": 15,
@@ -8060,7 +8060,7 @@
  {
   "id": 238,
   "title": "Louis III de Bourbon, prins af Condé",
-  "artistId": 127,
+  "artistId": 122,
   "artistDisplay": "Matthias Zündt",
   "museumId": 2,
   "departmentId": 15,
@@ -8094,7 +8094,7 @@
  {
   "id": 239,
   "title": "Stående ko",
-  "artistId": 128,
+  "artistId": 123,
   "artistDisplay": "Marcus de Bye",
   "museumId": 2,
   "departmentId": 15,
@@ -8128,7 +8128,7 @@
  {
   "id": 240,
   "title": "Liggende ko",
-  "artistId": 128,
+  "artistId": 123,
   "artistDisplay": "Marcus de Bye",
   "museumId": 2,
   "departmentId": 15,
@@ -8196,7 +8196,7 @@
  {
   "id": 242,
   "title": "Christ carrying the cross",
-  "artistId": 129,
+  "artistId": 124,
   "artistDisplay": "Albrecht Dürer",
   "museumId": 2,
   "departmentId": 15,
@@ -8230,7 +8230,7 @@
  {
   "id": 243,
   "title": "Fortællingen om Akigssiak: Sælhundeboldspillet, hvor bedstefaderen overvindes",
-  "artistId": 130,
+  "artistId": 125,
   "artistDisplay": "Markus Lynge",
   "museumId": 2,
   "departmentId": 15,
@@ -8264,7 +8264,7 @@
  {
   "id": 244,
   "title": "Fortællingen om Akigssiak: Akigssiak kaster indlandsboen ned fra et fjeld",
-  "artistId": 130,
+  "artistId": 125,
   "artistDisplay": "Markus Lynge",
   "museumId": 2,
   "departmentId": 15,
@@ -8298,7 +8298,7 @@
  {
   "id": 245,
   "title": "Nordbosagaerne. Fortællingen om Oungortok: Kasape dræber høvdingen Oungortok.",
-  "artistId": 131,
+  "artistId": 126,
   "artistDisplay": "Aron fra Kangeq",
   "museumId": 2,
   "departmentId": 15,
@@ -8332,7 +8332,7 @@
  {
   "id": 246,
   "title": "The triumph of humility",
-  "artistId": 132,
+  "artistId": 127,
   "artistDisplay": "Cornelis Cort",
   "museumId": 2,
   "departmentId": 15,
@@ -8366,7 +8366,7 @@
  {
   "id": 247,
   "title": "Andromeda",
-  "artistId": 133,
+  "artistId": 128,
   "artistDisplay": "Willem van Swanenburgh",
   "museumId": 2,
   "departmentId": 15,
@@ -8400,7 +8400,7 @@
  {
   "id": 248,
   "title": "Deborah",
-  "artistId": 134,
+  "artistId": 129,
   "artistDisplay": "Jan Saenredam",
   "museumId": 2,
   "departmentId": 15,
@@ -8434,7 +8434,7 @@
  {
   "id": 249,
   "title": "Bakkus serverer for et ældre par. Vinter",
-  "artistId": 134,
+  "artistId": 129,
   "artistDisplay": "Jan Saenredam",
   "museumId": 2,
   "departmentId": 15,
@@ -8468,7 +8468,7 @@
  {
   "id": 250,
   "title": "Høst og vinsmagning. Efterår",
-  "artistId": 134,
+  "artistId": 129,
   "artistDisplay": "Jan Saenredam",
   "museumId": 2,
   "departmentId": 15,
@@ -8502,7 +8502,7 @@
  {
   "id": 251,
   "title": "En mand vander heste ved en brønd, mens en kvinde henter vand og en dreng hjælper hende",
-  "artistId": 135,
+  "artistId": 130,
   "artistDisplay": "Fortuné Ferogio",
   "museumId": 2,
   "departmentId": 15,
@@ -8535,8 +8535,8 @@
  },
  {
   "id": 252,
-  "title": "\"\"Hjortetakken\", seet fra Dalen ved Kobbefjorden Grönland\"",
-  "artistId": 136,
+  "title": "\"Hjortetakken\", seet fra Dalen ved Kobbefjorden Grönland\"",
+  "artistId": 131,
   "artistDisplay": "Lars Møller",
   "museumId": 2,
   "departmentId": 15,
@@ -8570,7 +8570,7 @@
  {
   "id": 253,
   "title": "Civil War",
-  "artistId": 137,
+  "artistId": 132,
   "artistDisplay": "Édouard Manet",
   "museumId": 2,
   "departmentId": 15,
@@ -8604,7 +8604,7 @@
  {
   "id": 254,
   "title": "The Barricade",
-  "artistId": 137,
+  "artistId": 132,
   "artistDisplay": "Édouard Manet",
   "museumId": 2,
   "departmentId": 15,
@@ -8638,7 +8638,7 @@
  {
   "id": 255,
   "title": "Portrait of a Man, Possibly Girolamo Rosati",
-  "artistId": 138,
+  "artistId": 133,
   "artistDisplay": "Lorenzo Lotto",
   "museumId": 3,
   "departmentId": 16,
@@ -8672,7 +8672,7 @@
  {
   "id": 256,
   "title": "Portrait of Tieleman Roosterman",
-  "artistId": 139,
+  "artistId": 134,
   "artistDisplay": "Frans Hals",
   "museumId": 3,
   "departmentId": 16,
@@ -8706,7 +8706,7 @@
  {
   "id": 257,
   "title": "The Sacrifice of Isaac",
-  "artistId": 140,
+  "artistId": 135,
   "artistDisplay": "Andrea del Sarto",
   "museumId": 3,
   "departmentId": 16,
@@ -8774,7 +8774,7 @@
  {
   "id": 259,
   "title": "The Holy Family on the Steps",
-  "artistId": 141,
+  "artistId": 136,
   "artistDisplay": "Nicolas Poussin",
   "museumId": 3,
   "departmentId": 16,
@@ -8842,7 +8842,7 @@
  {
   "id": 261,
   "title": "Saint Peter Repentant",
-  "artistId": 142,
+  "artistId": 137,
   "artistDisplay": "Georges de La Tour",
   "museumId": 3,
   "departmentId": 16,
@@ -8876,7 +8876,7 @@
  {
   "id": 262,
   "title": "Danaë",
-  "artistId": 143,
+  "artistId": 138,
   "artistDisplay": "Orazio Gentileschi",
   "museumId": 3,
   "departmentId": 16,
@@ -8910,7 +8910,7 @@
  {
   "id": 263,
   "title": "Christ and the Virgin in the House at Nazareth",
-  "artistId": 144,
+  "artistId": 139,
   "artistDisplay": "Francisco de Zurbarán",
   "museumId": 3,
   "departmentId": 16,
@@ -8944,7 +8944,7 @@
  {
   "id": 264,
   "title": "Portrait of Isabella Brant",
-  "artistId": 145,
+  "artistId": 140,
   "artistDisplay": "Peter Paul Rubens",
   "museumId": 3,
   "departmentId": 16,
@@ -8978,7 +8978,7 @@
  {
   "id": 265,
   "title": "Portrait of the Jester Calabazas",
-  "artistId": 146,
+  "artistId": 141,
   "artistDisplay": "Diego Velázquez",
   "museumId": 3,
   "departmentId": 16,
@@ -9012,7 +9012,7 @@
  {
   "id": 266,
   "title": "Julius Caesar",
-  "artistId": 147,
+  "artistId": 142,
   "artistDisplay": "Mino da Fiesole",
   "museumId": 3,
   "departmentId": 16,
@@ -9046,7 +9046,7 @@
  {
   "id": 267,
   "title": "Portrait of Catherine Grey, Lady Manners",
-  "artistId": 148,
+  "artistId": 143,
   "artistDisplay": "Thomas Lawrence",
   "museumId": 3,
   "departmentId": 16,
@@ -9080,7 +9080,7 @@
  {
   "id": 268,
   "title": "The Dutton Family in the Drawing Room of Sherborne Park, Gloucestershire",
-  "artistId": 149,
+  "artistId": 144,
   "artistDisplay": "Johann Zoffany",
   "museumId": 3,
   "departmentId": 16,
@@ -9148,7 +9148,7 @@
  {
   "id": 270,
   "title": "Sir Anthony Mildmay, Knight of Apethorpe, Northamptonshire",
-  "artistId": 150,
+  "artistId": 145,
   "artistDisplay": "Nicholas Hilliard",
   "museumId": 3,
   "departmentId": 16,
@@ -9182,7 +9182,7 @@
  {
   "id": 271,
   "title": "The Red Kerchief",
-  "artistId": 151,
+  "artistId": 146,
   "artistDisplay": "Claude Monet",
   "museumId": 3,
   "departmentId": 17,
@@ -9216,7 +9216,7 @@
  {
   "id": 272,
   "title": "Cupid and Psyche",
-  "artistId": 152,
+  "artistId": 147,
   "artistDisplay": "Jacques-Louis David",
   "museumId": 3,
   "departmentId": 17,
@@ -9250,7 +9250,7 @@
  {
   "id": 273,
   "title": "The Burning of the Houses of Lords and Commons, 16 October 1834",
-  "artistId": 153,
+  "artistId": 148,
   "artistDisplay": "Joseph Mallord William Turner",
   "museumId": 3,
   "departmentId": 17,
@@ -9284,7 +9284,7 @@
  {
   "id": 274,
   "title": "The Large Plane Trees (Road Menders at Saint-Rémy)",
-  "artistId": 154,
+  "artistId": 149,
   "artistDisplay": "Vincent van Gogh",
   "museumId": 3,
   "departmentId": 17,
@@ -9318,7 +9318,7 @@
  {
   "id": 275,
   "title": "Water Lilies (Agapanthus)",
-  "artistId": 151,
+  "artistId": 146,
   "artistDisplay": "Claude Monet",
   "museumId": 3,
   "departmentId": 17,
@@ -9352,7 +9352,7 @@
  {
   "id": 276,
   "title": "Wrestlers in a Circus",
-  "artistId": 155,
+  "artistId": 150,
   "artistDisplay": "Ernst Ludwig Kirchner",
   "museumId": 3,
   "departmentId": 17,
@@ -9386,7 +9386,7 @@
  {
   "id": 277,
   "title": "La Cervara, the Roman Campagna",
-  "artistId": 156,
+  "artistId": 151,
   "artistDisplay": "Jean Baptiste Camille Corot",
   "museumId": 3,
   "departmentId": 17,
@@ -9454,7 +9454,7 @@
  {
   "id": 279,
   "title": "Mount Sainte-Victoire",
-  "artistId": 157,
+  "artistId": 152,
   "artistDisplay": "Paul Cezanne",
   "museumId": 3,
   "departmentId": 17,
@@ -9488,7 +9488,7 @@
  {
   "id": 280,
   "title": "Romaine Lacaux",
-  "artistId": 158,
+  "artistId": 153,
   "artistDisplay": "Pierre-Auguste Renoir",
   "museumId": 3,
   "departmentId": 17,
@@ -9556,7 +9556,7 @@
  {
   "id": 282,
   "title": "Stag at Sharkey's",
-  "artistId": 159,
+  "artistId": 154,
   "artistDisplay": "George Bellows",
   "museumId": 3,
   "departmentId": 18,
@@ -9590,7 +9590,7 @@
  {
   "id": 283,
   "title": "The Biglin Brothers Turning the Stake",
-  "artistId": 160,
+  "artistId": 155,
   "artistDisplay": "Thomas Eakins",
   "museumId": 3,
   "departmentId": 18,
@@ -9624,7 +9624,7 @@
  {
   "id": 284,
   "title": "The Race Track (Death on a Pale Horse)",
-  "artistId": 161,
+  "artistId": 156,
   "artistDisplay": "Albert Pinkham Ryder",
   "museumId": 3,
   "departmentId": 18,
@@ -9692,7 +9692,7 @@
  {
   "id": 286,
   "title": "Elizabeth Shewell West and Her Son, Raphael",
-  "artistId": 162,
+  "artistId": 157,
   "artistDisplay": "Benjamin West",
   "museumId": 3,
   "departmentId": 18,
@@ -9726,7 +9726,7 @@
  {
   "id": 287,
   "title": "The Power of Music",
-  "artistId": 163,
+  "artistId": 158,
   "artistDisplay": "William Sidney Mount",
   "museumId": 3,
   "departmentId": 18,
@@ -9760,7 +9760,7 @@
  {
   "id": 288,
   "title": "Indian Combat",
-  "artistId": 164,
+  "artistId": 159,
   "artistDisplay": "Edmonia Lewis",
   "museumId": 3,
   "departmentId": 18,
@@ -10066,7 +10066,7 @@
  {
   "id": 297,
   "title": "Operating on Guan Yu's Arm",
-  "artistId": 165,
+  "artistId": 160,
   "artistDisplay": "Katsushika Ōi",
   "museumId": 3,
   "departmentId": 19,
@@ -10100,7 +10100,7 @@
  {
   "id": 298,
   "title": "Dragon and Tiger",
-  "artistId": 166,
+  "artistId": 161,
   "artistDisplay": "Sesson Shūkei",
   "museumId": 3,
   "departmentId": 19,
@@ -10134,7 +10134,7 @@
  {
   "id": 299,
   "title": "Raft Cup",
-  "artistId": 167,
+  "artistId": 162,
   "artistDisplay": "Zhu Bishan",
   "museumId": 3,
   "departmentId": 20,
@@ -10576,7 +10576,7 @@
  {
   "id": 312,
   "title": "Books and Scholars’ Accoutrements",
-  "artistId": 168,
+  "artistId": 163,
   "artistDisplay": "Yi Taek-gyun",
   "museumId": 3,
   "departmentId": 21,
@@ -10712,7 +10712,7 @@
  {
   "id": 316,
   "title": "Green Tara",
-  "artistId": 169,
+  "artistId": 164,
   "artistDisplay": "Aniko",
   "museumId": 3,
   "departmentId": 22,
@@ -11154,7 +11154,7 @@
  {
   "id": 329,
   "title": "Red-Figure Calyx-Krater (Mixing Vessel): Medea in Chariot (A); Telephos with Baby Orestes (B)",
-  "artistId": 170,
+  "artistId": 165,
   "artistDisplay": "Policoro Painter",
   "museumId": 3,
   "departmentId": 24,
@@ -11256,7 +11256,7 @@
  {
   "id": 332,
   "title": "Black-Figure Dinos (Mixing Vessel): Warships (Int.); Heroic Scenes (Top)",
-  "artistId": 171,
+  "artistId": 166,
   "artistDisplay": "Antimenes Painter",
   "museumId": 3,
   "departmentId": 24,
@@ -11290,7 +11290,7 @@
  {
   "id": 333,
   "title": "White-Ground Lekythos (Oil Vessel): Atalanta and Erotes",
-  "artistId": 172,
+  "artistId": 167,
   "artistDisplay": "Douris",
   "museumId": 3,
   "departmentId": 24,
@@ -11392,7 +11392,7 @@
  {
   "id": 336,
   "title": "Red-Figure Lekythos (Oil Vessel): Athena Slaying Giant (body); Satyr between Maenads (shoulder)",
-  "artistId": 173,
+  "artistId": 168,
   "artistDisplay": "Berlin Painter",
   "museumId": 3,
   "departmentId": 24,
@@ -11460,7 +11460,7 @@
  {
   "id": 338,
   "title": "Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364–1404)",
-  "artistId": 174,
+  "artistId": 169,
   "artistDisplay": "Claus de Werve",
   "museumId": 3,
   "departmentId": 25,
@@ -11494,7 +11494,7 @@
  {
   "id": 339,
   "title": "Mourner from the Tomb of John the Fearless and Margaret of Bavaria",
-  "artistId": 175,
+  "artistId": 170,
   "artistDisplay": "Jean de la Huerta",
   "museumId": 3,
   "departmentId": 25,
@@ -11528,7 +11528,7 @@
  {
   "id": 340,
   "title": "Hours of Queen Isabella the Catholic, Queen of Spain",
-  "artistId": 176,
+  "artistId": 171,
   "artistDisplay": "Master of the First Prayerbook of Maximillian",
   "museumId": 3,
   "departmentId": 25,
@@ -11562,7 +11562,7 @@
  {
   "id": 341,
   "title": "The Holy Family with Saint John the Baptist and Saint Margaret",
-  "artistId": 177,
+  "artistId": 172,
   "artistDisplay": "Filippino Lippi",
   "museumId": 3,
   "departmentId": 25,
@@ -11630,7 +11630,7 @@
  {
   "id": 343,
   "title": "Icon of the Mother of God and Infant Christ (Virgin Eleousa)",
-  "artistId": 178,
+  "artistId": 173,
   "artistDisplay": "Angelos Akotantos",
   "museumId": 3,
   "departmentId": 25,
@@ -11664,7 +11664,7 @@
  {
   "id": 344,
   "title": "Saint Jerome and the Lion (From the former Church of St. Peter in Erfurt)",
-  "artistId": 179,
+  "artistId": 174,
   "artistDisplay": "Tilman Riemenschneider",
   "museumId": 3,
   "departmentId": 25,
@@ -11698,7 +11698,7 @@
  {
   "id": 345,
   "title": "The Birth and Naming of John the Baptist",
-  "artistId": 180,
+  "artistId": 175,
   "artistDisplay": "Juan de Flandes",
   "museumId": 3,
   "departmentId": 25,
@@ -11766,7 +11766,7 @@
  {
   "id": 347,
   "title": "Tea Table",
-  "artistId": 181,
+  "artistId": 176,
   "artistDisplay": "Carlo Bugatti",
   "museumId": 3,
   "departmentId": 26,
@@ -11800,7 +11800,7 @@
  {
   "id": 348,
   "title": "Sideboard",
-  "artistId": 182,
+  "artistId": 177,
   "artistDisplay": "Joseph Alexis Bailly",
   "museumId": 3,
   "departmentId": 26,
@@ -11834,7 +11834,7 @@
  {
   "id": 349,
   "title": "Covered Tureen on Stand (Pot-à-oille)",
-  "artistId": 183,
+  "artistId": 178,
   "artistDisplay": "Pierre-François Bonnestrenne",
   "museumId": 3,
   "departmentId": 26,
@@ -11868,7 +11868,7 @@
  {
   "id": 350,
   "title": "Hinds House Window",
-  "artistId": 184,
+  "artistId": 179,
   "artistDisplay": "Tiffany Glass & Decorating Company",
   "museumId": 3,
   "departmentId": 26,
@@ -11902,7 +11902,7 @@
  {
   "id": 351,
   "title": "Frogs and Lily Pads (Grenouilles et Nénuphars) Vase",
-  "artistId": 185,
+  "artistId": 180,
   "artistDisplay": "René Lalique",
   "museumId": 3,
   "departmentId": 26,
@@ -11970,7 +11970,7 @@
  {
   "id": 353,
   "title": "Imperial Red Cross Easter Egg",
-  "artistId": 186,
+  "artistId": 181,
   "artistDisplay": "House of Fabergé",
   "museumId": 3,
   "departmentId": 26,
@@ -12004,7 +12004,7 @@
  {
   "id": 354,
   "title": "Desk and Bookcase",
-  "artistId": 187,
+  "artistId": 182,
   "artistDisplay": "John Townsend",
   "museumId": 3,
   "departmentId": 26,
@@ -12038,7 +12038,7 @@
  {
   "id": 355,
   "title": "Orpheus",
-  "artistId": 188,
+  "artistId": 183,
   "artistDisplay": "Odilon Redon",
   "museumId": 3,
   "departmentId": 27,
@@ -12072,7 +12072,7 @@
  {
   "id": 356,
   "title": "Church Bells Ringing, Rainy Winter Night",
-  "artistId": 189,
+  "artistId": 184,
   "artistDisplay": "Charles Burchfield",
   "museumId": 3,
   "departmentId": 27,
@@ -12106,7 +12106,7 @@
  {
   "id": 357,
   "title": "Standing Officer Holding a Boar's Spear",
-  "artistId": 190,
+  "artistId": 185,
   "artistDisplay": "Hendrick Goltzius",
   "museumId": 3,
   "departmentId": 27,
@@ -12174,7 +12174,7 @@
  {
   "id": 359,
   "title": "Boy with Anchor",
-  "artistId": 191,
+  "artistId": 186,
   "artistDisplay": "Winslow Homer",
   "museumId": 3,
   "departmentId": 27,
@@ -12208,7 +12208,7 @@
  {
   "id": 360,
   "title": "Study for the Nude Youth over the Prophet Daniel (recto); Figure Studies for the Sistine Ceiling (verso)",
-  "artistId": 192,
+  "artistId": 187,
   "artistDisplay": "Michelangelo Buonarroti",
   "museumId": 3,
   "departmentId": 27,
@@ -12242,7 +12242,7 @@
  {
   "id": 361,
   "title": "Venus Reclining in a Landscape",
-  "artistId": 193,
+  "artistId": 188,
   "artistDisplay": "Giulio Campagnola",
   "museumId": 3,
   "departmentId": 28,
@@ -12276,7 +12276,7 @@
  {
   "id": 362,
   "title": "Battle of the Nudes",
-  "artistId": 194,
+  "artistId": 189,
   "artistDisplay": "Antonio del Pollaiuolo",
   "museumId": 3,
   "departmentId": 28,
@@ -12310,7 +12310,7 @@
  {
   "id": 363,
   "title": "Equestrian Portrait of the Emperor Maximilian",
-  "artistId": 195,
+  "artistId": 190,
   "artistDisplay": "Hans Burgkmair",
   "museumId": 3,
   "departmentId": 28,
@@ -12378,7 +12378,7 @@
  {
   "id": 365,
   "title": "Evening, Melancholy I",
-  "artistId": 196,
+  "artistId": 191,
   "artistDisplay": "Edvard Munch",
   "museumId": 3,
   "departmentId": 28,
@@ -12718,7 +12718,7 @@
  {
   "id": 375,
   "title": "Panel with Royal Woman",
-  "artistId": 197,
+  "artistId": 192,
   "artistDisplay": "K’in Lakam Chahk",
   "museumId": 3,
   "departmentId": 30,
@@ -12956,7 +12956,7 @@
  {
   "id": 382,
   "title": "Dragon in foliage with lion and phoenix heads",
-  "artistId": 198,
+  "artistId": 193,
   "artistDisplay": "Sahkulu",
   "museumId": 3,
   "departmentId": 32,
@@ -12990,7 +12990,7 @@
  {
   "id": 383,
   "title": "Rustam's seventh course: He kills the White Div, folio 124 from a Shah-nama (Book of Kings) of Firdausi (Persian, about 934–1020)",
-  "artistId": 199,
+  "artistId": 194,
   "artistDisplay": "Mir Musavvir",
   "museumId": 3,
   "departmentId": 32,
@@ -13092,7 +13092,7 @@
  {
   "id": 386,
   "title": "Figure 45: Contraction électrique forte des triangulaires des lèvres et des sourciliers: douleur et déspoir",
-  "artistId": 200,
+  "artistId": 195,
   "artistDisplay": "Guillaume-Benjamin-Amand Duchenne",
   "museumId": 3,
   "departmentId": 33,
@@ -13126,7 +13126,7 @@
  {
   "id": 387,
   "title": "Winter Trees Reflected in a Pond",
-  "artistId": 201,
+  "artistId": 196,
   "artistDisplay": "William Henry Fox Talbot",
   "museumId": 3,
   "departmentId": 33,
@@ -13262,7 +13262,7 @@
  {
   "id": 391,
   "title": "War Hat (or Kettle Hat)",
-  "artistId": 202,
+  "artistId": 197,
   "artistDisplay": "Antonio Missaglia",
   "museumId": 3,
   "departmentId": 25,
@@ -13330,7 +13330,7 @@
  {
   "id": 393,
   "title": "Hanger (Hunting Sword)",
-  "artistId": 203,
+  "artistId": 198,
   "artistDisplay": "Jaspar Bongen the Younger",
   "museumId": 3,
   "departmentId": 25,
@@ -13466,7 +13466,7 @@
  {
   "id": 397,
   "title": "Alexandre Dumas père (1802–1870)",
-  "artistId": 204,
+  "artistId": 199,
   "artistDisplay": "Nadar",
   "museumId": 3,
   "departmentId": 33,
@@ -13500,7 +13500,7 @@
  {
   "id": 398,
   "title": "Rue de la Ferronnerie",
-  "artistId": 205,
+  "artistId": 200,
   "artistDisplay": "Charles Marville",
   "museumId": 3,
   "departmentId": 33,

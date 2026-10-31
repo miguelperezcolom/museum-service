@@ -94,6 +94,10 @@ public class Artwork {
   @Column(length = 1000)
   private String sourceUrl;
 
+  /** The exhibitions showing it — owned by Exhibition, read here to filter by. */
+  @ManyToMany(mappedBy = "artworks")
+  private java.util.Set<Exhibition> exhibitions = new java.util.LinkedHashSet<>();
+
   /** The museum's own id for the work, so a record can always be traced back to its source. */
   private String sourceId;
 }

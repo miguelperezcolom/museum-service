@@ -971,26 +971,6 @@
  },
  {
   "id": 98,
-  "name": "Ubekendt",
-  "nationality": null,
-  "birthYear": 1498,
-  "deathYear": 1513,
-  "bio": "Artist (1498–1513). Represented here by 1 work (statue) in the collection of SMK.",
-  "image": "https://iip.smk.dk/iiif/jp2/jd473213r_kms5487.tif.jp2/full/!400,/0/default.jpg",
-  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
- },
- {
-  "id": 99,
-  "name": "Ubekendt fransk begyndelsen af 1500-tallet",
-  "nationality": "French",
-  "birthYear": 1450,
-  "deathYear": 1515,
-  "bio": "French artist (1450–1515). Represented here by 1 work (statue) in the collection of SMK.",
-  "image": "https://iip.smk.dk/iiif/jp2/6w924h28p_kms6344.tif.jp2/full/!400,/0/default.jpg",
-  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
- },
- {
-  "id": 100,
   "name": "J.A. Jerichau (I)",
   "nationality": "Danish",
   "birthYear": 1816,
@@ -1000,7 +980,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 101,
+  "id": 99,
   "name": "August Saabye",
   "nationality": "Danish",
   "birthYear": 1823,
@@ -1010,7 +990,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 102,
+  "id": 100,
   "name": "Giovanni Lorenzo Bernini",
   "nationality": "Italian",
   "birthYear": 1598,
@@ -1020,7 +1000,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 103,
+  "id": 101,
   "name": "Domenico da Salò",
   "nationality": "Italian",
   "birthYear": 1552,
@@ -1030,7 +1010,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 104,
+  "id": 102,
   "name": "Alessandro Vittoria",
   "nationality": "Italian",
   "birthYear": 1525,
@@ -1040,17 +1020,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 105,
-  "name": "Ubekendt italiensk",
-  "nationality": "Italian",
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Italian artist. Represented here by 1 work (bust) in the collection of SMK.",
-  "image": "https://iip.smk.dk/iiif/jp2/ht24wq232_DEP45.tif.jp2/full/!400,/0/default.jpg",
-  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
- },
- {
-  "id": 106,
+  "id": 103,
   "name": "Lorenzo Ottoni",
   "nationality": "Italian",
   "birthYear": 1648,
@@ -1060,7 +1030,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 107,
+  "id": 104,
   "name": "Georg Saleman",
   "nationality": "Danish",
   "birthYear": 1670,
@@ -1070,17 +1040,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 108,
-  "name": "Ubekendt omkring 1700",
-  "nationality": "French",
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "French artist. Represented here by 1 work (miniature) in the collection of SMK.",
-  "image": "https://iip.smk.dk/iiif/jp2/2j62s9503_KMS4349.tif.jp2/full/!400,/0/default.jpg",
-  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
- },
- {
-  "id": 109,
+  "id": 105,
   "name": "Anna Maria van Schurman",
   "nationality": "German",
   "birthYear": 1607,
@@ -1090,7 +1050,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 110,
+  "id": 106,
   "name": "Rosalba Carriera",
   "nationality": "Italian",
   "birthYear": 1673,
@@ -1100,7 +1060,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 111,
+  "id": 107,
   "name": "Cornelius Høyer",
   "nationality": "Danish",
   "birthYear": 1741,
@@ -1110,7 +1070,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 112,
+  "id": 108,
   "name": "Pieter Holsteyn (I)",
   "nationality": "Netherlandish",
   "birthYear": 1580,
@@ -1120,7 +1080,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 113,
+  "id": 109,
   "name": "Willem Panneels",
   "nationality": "Flemish",
   "birthYear": 1600,
@@ -1130,7 +1090,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 114,
+  "id": 110,
   "name": "Maarten van Heemskerck",
   "nationality": "Netherlandish",
   "birthYear": 1498,
@@ -1140,7 +1100,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 115,
+  "id": 111,
   "name": "P.C. Skovgaard",
   "nationality": "Danish",
   "birthYear": 1817,
@@ -1150,7 +1110,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 116,
+  "id": 112,
   "name": "Johan Thomas Lundbye",
   "nationality": "Danish",
   "birthYear": 1818,
@@ -1160,17 +1120,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 117,
-  "name": "Ubekendt KKS",
-  "nationality": "unknown",
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "unknown artist. Represented here by 2 works (drawing, watercolour) in the collection of SMK.",
-  "image": "https://iip.smk.dk/iiif/jp2/pr76f8514_kksgb13594.tif.jp2/full/!400,/0/default.jpg",
-  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
- },
- {
-  "id": 118,
+  "id": 113,
   "name": "A. Wolf",
   "nationality": "German",
   "birthYear": null,
@@ -1180,7 +1130,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 119,
+  "id": 114,
   "name": "A. Burg",
   "nationality": "German",
   "birthYear": 1730,
@@ -1190,7 +1140,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 120,
+  "id": 115,
   "name": "Bartolommeo Letterini",
   "nationality": "Italian",
   "birthYear": 1669,
@@ -1200,7 +1150,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 121,
+  "id": 116,
   "name": "Gerard van Honthorst",
   "nationality": "Dutch",
   "birthYear": 1592,
@@ -1210,7 +1160,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 122,
+  "id": 117,
   "name": "Peter Cramer",
   "nationality": "Danish",
   "birthYear": 1726,
@@ -1220,7 +1170,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 123,
+  "id": 118,
   "name": "H.G.F. Holm",
   "nationality": "Danish",
   "birthYear": 1803,
@@ -1230,7 +1180,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 124,
+  "id": 119,
   "name": "Niels Larsen Stevns",
   "nationality": "Danish",
   "birthYear": 1864,
@@ -1240,7 +1190,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 125,
+  "id": 120,
   "name": "Sigmund Ferdinand Ritter von Perger",
   "nationality": "Austrian",
   "birthYear": 1778,
@@ -1250,7 +1200,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 126,
+  "id": 121,
   "name": "Rembrandt van Rijn",
   "nationality": "Dutch",
   "birthYear": 1606,
@@ -1260,7 +1210,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 127,
+  "id": 122,
   "name": "Matthias Zündt",
   "nationality": "German",
   "birthYear": 1498,
@@ -1270,7 +1220,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 128,
+  "id": 123,
   "name": "Marcus de Bye",
   "nationality": null,
   "birthYear": 1639,
@@ -1280,7 +1230,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 129,
+  "id": 124,
   "name": "Albrecht Dürer",
   "nationality": "German",
   "birthYear": 1471,
@@ -1290,7 +1240,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 130,
+  "id": 125,
   "name": "Markus Lynge",
   "nationality": "Greenland",
   "birthYear": 1816,
@@ -1300,7 +1250,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 131,
+  "id": 126,
   "name": "Aron fra Kangeq",
   "nationality": "Greenland",
   "birthYear": 1822,
@@ -1310,7 +1260,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 132,
+  "id": 127,
   "name": "Cornelis Cort",
   "nationality": "Netherlandish",
   "birthYear": 1533,
@@ -1320,7 +1270,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 133,
+  "id": 128,
   "name": "Willem van Swanenburgh",
   "nationality": "Netherlandish",
   "birthYear": 1610,
@@ -1330,7 +1280,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 134,
+  "id": 129,
   "name": "Jan Saenredam",
   "nationality": "Dutch",
   "birthYear": 1565,
@@ -1340,7 +1290,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 135,
+  "id": 130,
   "name": "Fortuné Ferogio",
   "nationality": "French",
   "birthYear": 1805,
@@ -1350,7 +1300,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 136,
+  "id": 131,
   "name": "Lars Møller",
   "nationality": "Greenland",
   "birthYear": 1842,
@@ -1360,7 +1310,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 137,
+  "id": 132,
   "name": "Édouard Manet",
   "nationality": "French",
   "birthYear": 1832,
@@ -1370,7 +1320,7 @@
   "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 138,
+  "id": 133,
   "name": "Lorenzo Lotto",
   "nationality": "Italian",
   "birthYear": 1480,
@@ -1380,7 +1330,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 139,
+  "id": 134,
   "name": "Frans Hals",
   "nationality": "Dutch",
   "birthYear": 1581,
@@ -1390,7 +1340,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 140,
+  "id": 135,
   "name": "Andrea del Sarto",
   "nationality": "Italian",
   "birthYear": 1486,
@@ -1400,7 +1350,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 141,
+  "id": 136,
   "name": "Nicolas Poussin",
   "nationality": "French",
   "birthYear": 1594,
@@ -1410,7 +1360,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 142,
+  "id": 137,
   "name": "Georges de La Tour",
   "nationality": "French",
   "birthYear": 1593,
@@ -1420,7 +1370,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 143,
+  "id": 138,
   "name": "Orazio Gentileschi",
   "nationality": "Italian",
   "birthYear": 1563,
@@ -1430,7 +1380,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 144,
+  "id": 139,
   "name": "Francisco de Zurbarán",
   "nationality": "Spanish",
   "birthYear": 1598,
@@ -1440,7 +1390,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 145,
+  "id": 140,
   "name": "Peter Paul Rubens",
   "nationality": "Flemish",
   "birthYear": 1577,
@@ -1450,7 +1400,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 146,
+  "id": 141,
   "name": "Diego Velázquez",
   "nationality": "Spanish",
   "birthYear": 1599,
@@ -1460,7 +1410,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 147,
+  "id": 142,
   "name": "Mino da Fiesole",
   "nationality": "Italian",
   "birthYear": 1430,
@@ -1470,7 +1420,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 148,
+  "id": 143,
   "name": "Thomas Lawrence",
   "nationality": "British",
   "birthYear": 1769,
@@ -1480,7 +1430,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 149,
+  "id": 144,
   "name": "Johann Zoffany",
   "nationality": "German",
   "birthYear": 1733,
@@ -1490,7 +1440,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 150,
+  "id": 145,
   "name": "Nicholas Hilliard",
   "nationality": "English",
   "birthYear": 1547,
@@ -1500,7 +1450,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 151,
+  "id": 146,
   "name": "Claude Monet",
   "nationality": "French",
   "birthYear": 1840,
@@ -1510,7 +1460,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 152,
+  "id": 147,
   "name": "Jacques-Louis David",
   "nationality": "French",
   "birthYear": 1748,
@@ -1520,7 +1470,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 153,
+  "id": 148,
   "name": "Joseph Mallord William Turner",
   "nationality": "British",
   "birthYear": 1775,
@@ -1530,7 +1480,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 154,
+  "id": 149,
   "name": "Vincent van Gogh",
   "nationality": "Dutch",
   "birthYear": 1853,
@@ -1540,7 +1490,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 155,
+  "id": 150,
   "name": "Ernst Ludwig Kirchner",
   "nationality": "German",
   "birthYear": 1880,
@@ -1550,7 +1500,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 156,
+  "id": 151,
   "name": "Jean Baptiste Camille Corot",
   "nationality": "French",
   "birthYear": 1796,
@@ -1560,7 +1510,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 157,
+  "id": 152,
   "name": "Paul Cezanne",
   "nationality": "French",
   "birthYear": 1839,
@@ -1570,7 +1520,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 158,
+  "id": 153,
   "name": "Pierre-Auguste Renoir",
   "nationality": "French",
   "birthYear": 1841,
@@ -1580,7 +1530,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 159,
+  "id": 154,
   "name": "George Bellows",
   "nationality": "American",
   "birthYear": 1882,
@@ -1590,7 +1540,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 160,
+  "id": 155,
   "name": "Thomas Eakins",
   "nationality": "American",
   "birthYear": 1844,
@@ -1600,7 +1550,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 161,
+  "id": 156,
   "name": "Albert Pinkham Ryder",
   "nationality": "American",
   "birthYear": 1847,
@@ -1610,7 +1560,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 162,
+  "id": 157,
   "name": "Benjamin West",
   "nationality": "American",
   "birthYear": 1738,
@@ -1620,7 +1570,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 163,
+  "id": 158,
   "name": "William Sidney Mount",
   "nationality": "American",
   "birthYear": 1807,
@@ -1630,7 +1580,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 164,
+  "id": 159,
   "name": "Edmonia Lewis",
   "nationality": "American",
   "birthYear": 1844,
@@ -1640,7 +1590,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 165,
+  "id": 160,
   "name": "Katsushika Ōi",
   "nationality": "Japanese",
   "birthYear": 1800,
@@ -1650,7 +1600,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 166,
+  "id": 161,
   "name": "Sesson Shūkei",
   "nationality": "Japanese",
   "birthYear": 1492,
@@ -1660,7 +1610,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 167,
+  "id": 162,
   "name": "Zhu Bishan",
   "nationality": "Chinese",
   "birthYear": 1300,
@@ -1670,7 +1620,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 168,
+  "id": 163,
   "name": "Yi Taek-gyun",
   "nationality": "Korean",
   "birthYear": 1808,
@@ -1680,7 +1630,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 169,
+  "id": 164,
   "name": "Aniko",
   "nationality": "Nepalese",
   "birthYear": 1200,
@@ -1690,7 +1640,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 170,
+  "id": 165,
   "name": "Policoro Painter",
   "nationality": "South Italian",
   "birthYear": 400,
@@ -1700,7 +1650,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 171,
+  "id": 166,
   "name": "Antimenes Painter",
   "nationality": "Greek",
   "birthYear": 530,
@@ -1710,7 +1660,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 172,
+  "id": 167,
   "name": "Douris",
   "nationality": "Greek",
   "birthYear": 500,
@@ -1720,7 +1670,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 173,
+  "id": 168,
   "name": "Berlin Painter",
   "nationality": "Greek",
   "birthYear": -540,
@@ -1730,7 +1680,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 174,
+  "id": 169,
   "name": "Claus de Werve",
   "nationality": "Netherlandish",
   "birthYear": 1380,
@@ -1740,7 +1690,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 175,
+  "id": 170,
   "name": "Jean de la Huerta",
   "nationality": "Spanish",
   "birthYear": 1431,
@@ -1750,7 +1700,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 176,
+  "id": 171,
   "name": "Master of the First Prayerbook of Maximillian",
   "nationality": "Flemish",
   "birthYear": 1444,
@@ -1760,7 +1710,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 177,
+  "id": 172,
   "name": "Filippino Lippi",
   "nationality": "Italian",
   "birthYear": 1457,
@@ -1770,7 +1720,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 178,
+  "id": 173,
   "name": "Angelos Akotantos",
   "nationality": "Cretan",
   "birthYear": 1450,
@@ -1780,7 +1730,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 179,
+  "id": 174,
   "name": "Tilman Riemenschneider",
   "nationality": "German",
   "birthYear": 1460,
@@ -1790,7 +1740,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 180,
+  "id": 175,
   "name": "Juan de Flandes",
   "nationality": "Netherlandish",
   "birthYear": 1460,
@@ -1800,7 +1750,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 181,
+  "id": 176,
   "name": "Carlo Bugatti",
   "nationality": "Italian",
   "birthYear": 1856,
@@ -1810,7 +1760,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 182,
+  "id": 177,
   "name": "Joseph Alexis Bailly",
   "nationality": "American",
   "birthYear": 1825,
@@ -1820,7 +1770,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 183,
+  "id": 178,
   "name": "Pierre-François Bonnestrenne",
   "nationality": "French",
   "birthYear": null,
@@ -1830,7 +1780,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 184,
+  "id": 179,
   "name": "Tiffany Glass & Decorating Company",
   "nationality": "America",
   "birthYear": 1892,
@@ -1840,7 +1790,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 185,
+  "id": 180,
   "name": "René Lalique",
   "nationality": "French",
   "birthYear": 1860,
@@ -1850,7 +1800,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 186,
+  "id": 181,
   "name": "House of Fabergé",
   "nationality": "Russian",
   "birthYear": 1842,
@@ -1860,7 +1810,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 187,
+  "id": 182,
   "name": "John Townsend",
   "nationality": "American",
   "birthYear": 1732,
@@ -1870,7 +1820,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 188,
+  "id": 183,
   "name": "Odilon Redon",
   "nationality": "French",
   "birthYear": 1840,
@@ -1880,7 +1830,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 189,
+  "id": 184,
   "name": "Charles Burchfield",
   "nationality": "American",
   "birthYear": 1893,
@@ -1890,7 +1840,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 190,
+  "id": 185,
   "name": "Hendrick Goltzius",
   "nationality": "Dutch",
   "birthYear": 1558,
@@ -1900,7 +1850,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 191,
+  "id": 186,
   "name": "Winslow Homer",
   "nationality": "American",
   "birthYear": 1836,
@@ -1910,7 +1860,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 192,
+  "id": 187,
   "name": "Michelangelo Buonarroti",
   "nationality": "Italian",
   "birthYear": 1475,
@@ -1920,7 +1870,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 193,
+  "id": 188,
   "name": "Giulio Campagnola",
   "nationality": "Italian",
   "birthYear": 1482,
@@ -1930,7 +1880,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 194,
+  "id": 189,
   "name": "Antonio del Pollaiuolo",
   "nationality": "Italian",
   "birthYear": 1431,
@@ -1940,7 +1890,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 195,
+  "id": 190,
   "name": "Hans Burgkmair",
   "nationality": "German",
   "birthYear": 1473,
@@ -1950,7 +1900,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 196,
+  "id": 191,
   "name": "Edvard Munch",
   "nationality": "Norwegian",
   "birthYear": 1863,
@@ -1960,7 +1910,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 197,
+  "id": 192,
   "name": "K’in Lakam Chahk",
   "nationality": null,
   "birthYear": null,
@@ -1970,7 +1920,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 198,
+  "id": 193,
   "name": "Sahkulu",
   "nationality": "Turkish",
   "birthYear": 1526,
@@ -1980,7 +1930,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 199,
+  "id": 194,
   "name": "Mir Musavvir",
   "nationality": "Iranian",
   "birthYear": 1510,
@@ -1990,7 +1940,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 200,
+  "id": 195,
   "name": "Guillaume-Benjamin-Amand Duchenne",
   "nationality": "de Boulogne",
   "birthYear": 1806,
@@ -2000,7 +1950,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 201,
+  "id": 196,
   "name": "William Henry Fox Talbot",
   "nationality": "British",
   "birthYear": 1800,
@@ -2010,7 +1960,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 202,
+  "id": 197,
   "name": "Antonio Missaglia",
   "nationality": "Italian",
   "birthYear": 1416,
@@ -2020,7 +1970,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 203,
+  "id": 198,
   "name": "Jaspar Bongen the Younger",
   "nationality": "German",
   "birthYear": 1600,
@@ -2030,7 +1980,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 204,
+  "id": 199,
   "name": "Nadar",
   "nationality": "French",
   "birthYear": 1820,
@@ -2040,7 +1990,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 205,
+  "id": 200,
   "name": "Charles Marville",
   "nationality": "French",
   "birthYear": 1813,

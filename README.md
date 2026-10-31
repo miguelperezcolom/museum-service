@@ -63,7 +63,7 @@ Museum ──1:N── Department ──1:N── Artwork ──N:1── Artist
 |---|---|---|
 | `/api/museums` | 3 | — |
 | `/api/departments` | 33 | `museum` |
-| `/api/artists` | 205 | — |
+| `/api/artists` | 200 | — |
 | `/api/artworks` | 399 (Met 132, SMK 122, Cleveland 145) | `artist`, `museum`, `department` |
 | `/api/exhibitions` | 18 | `museum`, `artworks` (M:N) |
 | `/api/loans` | 53 | `artwork`, `fromMuseum`, `toMuseum`, `exhibition` |
@@ -101,6 +101,7 @@ GET /api/artworks?classification=Painting,Photograph    # comma-joined (or repea
 GET /api/artworks?onView=true                           # a boolean filter
 GET /api/artworks?estimatedValue_from=1000000&estimatedValue_to=5000000   # inclusive range
 GET /api/artworks?museumId=1&departmentId=3             # by reference
+GET /api/artworks?exhibitionId=4                        # through a many-to-many: the works a show hangs
 GET /api/exhibitions?startDate_from=2026-01-01&sort=startDate,desc
 GET /api/conservation-tasks?museumId=2&status=review    # a reference reached through another one
 GET /api/artworks?sort=museumName&page=2&size=50        # sort by the name a row shows

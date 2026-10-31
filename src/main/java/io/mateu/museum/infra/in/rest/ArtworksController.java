@@ -50,6 +50,8 @@ public class ArtworksController extends CrudController<Artwork, ArtworkDto> {
         .filter("museumId", "museum.id", FilterKind.REF)
         .filter("museumCode", "museum.code", FilterKind.EXACT)
         .filter("departmentId", "department.id", FilterKind.REF)
+        // the works an exhibition shows: through the many-to-many it owns
+        .filter("exhibitionId", "exhibitions.id", FilterKind.REF)
         // the museums' own vocabulary (Painting, Sculpture, Photograph…): a pick, matched exactly
         .filter("classification", FilterKind.EXACT)
         .filter("culture", FilterKind.TEXT)

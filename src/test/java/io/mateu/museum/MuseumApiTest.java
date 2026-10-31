@@ -36,7 +36,7 @@ class MuseumApiTest {
   void seeded() throws Exception {
     mvc.perform(get("/api/museums")).andExpect(jsonPath("$.totalElements").value(3));
     mvc.perform(get("/api/departments")).andExpect(jsonPath("$.totalElements").value(33));
-    mvc.perform(get("/api/artists")).andExpect(jsonPath("$.totalElements").value(205));
+    mvc.perform(get("/api/artists")).andExpect(jsonPath("$.totalElements").value(200));
     mvc.perform(get("/api/artworks")).andExpect(jsonPath("$.totalElements").value(399));
     mvc.perform(get("/api/exhibitions")).andExpect(jsonPath("$.totalElements").value(18));
     mvc.perform(get("/api/loans")).andExpect(jsonPath("$.totalElements").value(53));
@@ -146,6 +146,9 @@ class MuseumApiTest {
         .andExpect(jsonPath("$.totalElements").value(132));
     mvc.perform(get("/api/visits").param("museumId", "1"))
         .andExpect(jsonPath("$.totalElements").value(261));
+    // the works an exhibition shows: a filter through the many-to-many it owns
+    mvc.perform(get("/api/artworks").param("exhibitionId", "1"))
+        .andExpect(jsonPath("$.totalElements").value(12));
     // a task belongs to a museum through its artwork
     mvc.perform(get("/api/conservation-tasks").param("museumId", "1"))
         .andExpect(jsonPath("$.totalElements").value(24));

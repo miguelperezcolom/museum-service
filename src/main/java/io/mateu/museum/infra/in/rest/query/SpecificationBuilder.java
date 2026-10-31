@@ -1,5 +1,7 @@
 package io.mateu.museum.infra.in.rest.query;
 
+import jakarta.persistence.criteria.From;
+import jakarta.persistence.criteria.JoinType;
 import jakarta.persistence.criteria.Path;
 import jakarta.persistence.criteria.Predicate;
 import java.math.BigDecimal;
@@ -7,6 +9,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.LinkedHashSet;
 import java.util.List;
 import java.util.Map;
@@ -73,6 +76,8 @@ public final class SpecificationBuilder {
         }
       }
 
+      // a filter through a to-many join may meet the same row twice
+      if (!root.getJoins().isEmpty() && query != null) query.distinct(true);
       return and.isEmpty() ? cb.conjunction() : cb.and(and.toArray(Predicate[]::new));
     };
   }
@@ -164,12 +169,20 @@ public final class SpecificationBuilder {
     }
   }
 
-  /** Walks a dotted property path, joining as it goes, so {@code museum.id} is filterable. */
+  /**
+   * Walks a dotted property path, joining as it goes, so {@code museum.id} is filterable — and so is
+   * {@code exhibitions.id}: a segment that names a COLLECTION (a many-to-many) is joined rather than
+   * navigated, which is what lets "the works in this exhibition" be a plain filter.
+   */
   @SuppressWarnings("unchecked")
   private static <Y> Path<Y> path(Path<?> root, String property) {
     Path<?> path = root;
     for (String segment : property.split("\\.")) {
-      path = path.get(segment);
+      Path<?> next = path.get(segment);
+      if (path instanceof From<?, ?> from && Collection.class.isAssignableFrom(next.getJavaType())) {
+        next = from.join(segment, JoinType.INNER);
+      }
+      path = next;
     }
     return (Path<Y>) path;
   }

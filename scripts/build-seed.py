@@ -118,6 +118,7 @@ def clean(text):
     if text is None:
         return None
     text = html.unescape(re.sub(r"<[^>]+>", "", str(text))).strip()
+    text = text.replace('""', '"')
     text = re.sub(r"\s+", " ", text)
     return text or None
 
@@ -186,7 +187,7 @@ def canonical_class(*terms):
     return "Other"
 
 
-UNKNOWN = re.compile(r"^(unknown|unidentified|anonymous|artist unknown|various|maker unknown)", re.I)
+UNKNOWN = re.compile(r"^(unknown|unidentified|anonymous|artist unknown|various|maker unknown|ubekendt)", re.I)
 
 
 # ── the three museums ──────────────────────────────────────────────────────────
@@ -495,6 +496,15 @@ def cma_row(a):
     }
 
 
+def display_name(r):
+    """How a work is attributed in a list: the artist, else the culture, else "Unknown maker" — and
+    SMK's Danish "Ubekendt …" (unknown, followed by a Danish note) counts as no name at all."""
+    name = r["artistName"]
+    if name and UNKNOWN.match(name):
+        name = None
+    return name or r["culture"] or "Unknown maker"
+
+
 # ── synthetic: values, exhibitions, loans, conservation, visits ───────────────
 
 VALUE_BANDS = [  # (pattern over classification/department, low, high) in USD — log-uniform
@@ -638,7 +648,7 @@ def main():
         r["estimatedValue"] = estimated_value(r)
         artworks.append({
             "id": i, "title": r["title"], "artistId": r["artistId"],
-            "artistDisplay": r["artistName"] or r["culture"] or "Unknown maker",
+            "artistDisplay": display_name(r),
             "museumId": museum_id[r["source"]], "departmentId": dept_id[(r["source"], r["department"] or "Other")],
             "classification": canonical_class(r["classification"], r["objectType"]),
             "objectType": r["classification"] or r["objectType"], "medium": r["medium"],

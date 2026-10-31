@@ -59,10 +59,10 @@ with or endorsed by any of them.
 | 36 | Presentation Sword and Scabbard of Brigadier General Daniel Davis (1777–1814) of the New York Militia | John Targee | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/22769) |
 | 37 | Sallet in the Shape of a Lion's Head | Italian | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/22860) |
 | 38 | Saber with Scabbard | grip, Indian; guard, scabbard, and decoration on blade, Turkish; blade, Iranian | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/22871) |
-| 39 | Water-moon Avalokiteshvara | Unidentified artist | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/36029) |
+| 39 | Water-moon Avalokiteshvara | Korea | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/36029) |
 | 40 | Landscapes with poems | Gong Xian | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/36131) |
-| 41 | Illustrated manuscript of the Lotus Sutra, Volume 2 | Unidentified artist | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/36451) |
-| 42 | Grapevine in the Wind | Unidentified artist | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/36457) |
+| 41 | Illustrated manuscript of the Lotus Sutra, Volume 2 | Korea | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/36451) |
+| 42 | Grapevine in the Wind | Korea | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/36457) |
 | 43 | Night Rain at the Double-Shelf Stand, from the series Eight Parlor Views (Zashiki hakkei) | Suzuki Harunobu | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/37145) |
 | 44 | Ganesha | India, Tamil Nadu | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/37397) |
 | 45 | Bottle with Waves and Auspicious Emblems | Vietnam | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/37450) |
@@ -209,31 +209,31 @@ with or endorsed by any of them.
 | 186 | The Painter Anna Ancher | Astrid Noack | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS6126) |
 | 187 | The Man | Svend Rathsack | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5742) |
 | 188 | Mermaid | Anne Marie Carl Nielsen | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5781) |
-| 189 | A Bishop Saint | Ubekendt | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5487) |
-| 190 | Saint Catherine of Alexandria | Ubekendt fransk begyndelsen af 1500-tallet | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS6344) |
+| 189 | A Bishop Saint | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5487) |
+| 190 | Saint Catherine of Alexandria | French | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS6344) |
 | 191 | The Slave Girl | J.A. Jerichau (I) | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5025) |
 | 192 | Susanna before the Elders | August Saabye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5263) |
 | 193 | Bust of Camilla Barbadori (dead 1609). Mother of Pope Urban VIII Barberini | Giovanni Lorenzo Bernini | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP44) |
 | 194 | Bust of Pope Paul V Borghese (1552; Pope 1605-1621) | Giovanni Lorenzo Bernini | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP47) |
 | 195 | Bust of Marcantonio Ruzzini | Domenico da Salò | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP42) |
 | 196 | Bust of Ottavio Farnese. Duke of Camerino, Parma and Piacenza | Alessandro Vittoria | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP61) |
-| 197 | A Saint with a Book | Ubekendt italiensk | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP45) |
+| 197 | A Saint with a Book | Italian | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP45) |
 | 198 | Bust of a Cardinal | Lorenzo Ottoni | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP46) |
 | 199 | Unknown Lady | Georg Saleman | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4652) |
-| 200 | Portrait of a Man in Roman Dress | Ubekendt omkring 1700 | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4349) |
+| 200 | Portrait of a Man in Roman Dress | French | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4349) |
 | 201 | Portræt af Jean Labadie | Anna Maria van Schurman | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS1988) |
 | 202 | Venus and Cupid | Rosalba Carriera | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4837) |
 | 203 | Saint Cecilia | Cornelius Høyer | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4819) |
-| 204 | Discobolus, Roman Copy with Modern Head | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS1549) |
-| 205 | The Wrestlers | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS403) |
-| 206 | THe Farnese Diadoumenos, Athlete binding victor's fillet around his head | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS79) |
-| 207 | Minverva Giustiniani | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS255) |
-| 208 | Crouching Venus | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS357) |
-| 209 | Knælende mand, niobide eller bryder, med løftet h. arm | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS193) |
-| 210 | Apostlen Jacob den Yngre med hænderne samlet foran | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/5) |
-| 211 | Apostlen Thomas med åben bog | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/4) |
-| 212 | Apostlen Bartholomæus med åben skriftrulle | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/3) |
-| 213 | Gravrelief. Mands- og kvindebuste i niche. Publius Aiedius Amphio & Aiedia Fausta Melior | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP457) |
+| 204 | Discobolus, Roman Copy with Modern Head | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS1549) |
+| 205 | The Wrestlers | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS403) |
+| 206 | THe Farnese Diadoumenos, Athlete binding victor's fillet around his head | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS79) |
+| 207 | Minverva Giustiniani | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS255) |
+| 208 | Crouching Venus | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS357) |
+| 209 | Knælende mand, niobide eller bryder, med løftet h. arm | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS193) |
+| 210 | Apostlen Jacob den Yngre med hænderne samlet foran | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/5) |
+| 211 | Apostlen Thomas med åben bog | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/4) |
+| 212 | Apostlen Bartholomæus med åben skriftrulle | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/3) |
+| 213 | Gravrelief. Mands- og kvindebuste i niche. Publius Aiedius Amphio & Aiedia Fausta Melior | Unknown maker | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP457) |
 | 214 | En sommerfugl | Pieter Holsteyn (I) | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb16521) |
 | 215 | Torso. Belvedere. Front view of the antique sculpture. | Willem Panneels | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb5315) |
 | 216 | Laocoon. Front view of Laocoon and his younger son turmed to the left. | Willem Panneels | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb4811) |
@@ -243,7 +243,7 @@ with or endorsed by any of them.
 | 220 | Abekatten. T.h. studier af abeho-veder m.m. | Johan Thomas Lundbye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb52) |
 | 221 | Grisene | Johan Thomas Lundbye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb49) |
 | 222 | De to venner | Johan Thomas Lundbye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb48) |
-| 223 | Juno med sin vogn og Saturn(?) på vej henover skyerne | Ubekendt KKS | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb13594) |
+| 223 | Juno med sin vogn og Saturn(?) på vej henover skyerne | unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb13594) |
 | 224 | Landskab, som en hær drager igennem | A. Wolf | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb16842) |
 | 225 | Kirkelig ceremoni | A. Burg | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb16841) |
 | 226 | En mandlig helgen vaskes og plejes af engle, mens han lytter til en kvindelig helgen, der sidder foran en læsepult og peger opad. Den Hl.Sebastian hos den Hl.Irene? | Bartolommeo Letterini | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS11137) |
@@ -253,7 +253,7 @@ with or endorsed by any of them.
 | 230 | Liljekonval | Niels Larsen Stevns | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS1971-373/9) |
 | 231 | Dansk Ingefær | Niels Larsen Stevns | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS1971-373/2) |
 | 232 | Mand med slæde | Sigmund Ferdinand Ritter von Perger | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb18206) |
-| 233 | Abondantia | Ubekendt KKS | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb4846) |
+| 233 | Abondantia | unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb4846) |
 | 234 | Rembrandt bareheaded and open-mouthed, as if shouting: bust | Rembrandt van Rijn | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb7380) |
 | 235 | Portræt af hærfører, Nikola IV Zrinski (Miklós IV Zrínyi) | Matthias Zündt | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22352) |
 | 236 | Portræt af Joannes de Valeta | Matthias Zündt | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22351) |
@@ -272,7 +272,7 @@ with or endorsed by any of them.
 | 249 | Bakkus serverer for et ældre par. Vinter | Jan Saenredam | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22234) |
 | 250 | Høst og vinsmagning. Efterår | Jan Saenredam | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22233) |
 | 251 | En mand vander heste ved en brønd, mens en kvinde henter vand og en dreng hjælper hende | Fortuné Ferogio | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb13549) |
-| 252 | ""Hjortetakken", seet fra Dalen ved Kobbefjorden Grönland" | Lars Møller | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS13404) |
+| 252 | "Hjortetakken", seet fra Dalen ved Kobbefjorden Grönland" | Lars Møller | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS13404) |
 | 253 | Civil War | Édouard Manet | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS20164) |
 | 254 | The Barricade | Édouard Manet | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS14655) |
 | 255 | Portrait of a Man, Possibly Girolamo Rosati | Lorenzo Lotto | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1950.250) |
