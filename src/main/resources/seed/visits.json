@@ -1,0 +1,5922 @@
+[
+ {
+  "id": 1,
+  "museumId": 1,
+  "date": "2026-01-01",
+  "visitors": 13343,
+  "members": 3075,
+  "revenue": 190984.8
+ },
+ {
+  "id": 2,
+  "museumId": 2,
+  "date": "2026-01-01",
+  "visitors": 3416,
+  "members": 693,
+  "revenue": 54024.32
+ },
+ {
+  "id": 3,
+  "museumId": 3,
+  "date": "2026-01-01",
+  "visitors": 1858,
+  "members": 428,
+  "revenue": 0.0
+ },
+ {
+  "id": 4,
+  "museumId": 1,
+  "date": "2026-01-02",
+  "visitors": 13887,
+  "members": 3046,
+  "revenue": 201642.6
+ },
+ {
+  "id": 5,
+  "museumId": 2,
+  "date": "2026-01-02",
+  "visitors": 3886,
+  "members": 896,
+  "revenue": 59321.6
+ },
+ {
+  "id": 6,
+  "museumId": 3,
+  "date": "2026-01-02",
+  "visitors": 1550,
+  "members": 350,
+  "revenue": 0.0
+ },
+ {
+  "id": 7,
+  "museumId": 1,
+  "date": "2026-01-03",
+  "visitors": 15099,
+  "members": 2733,
+  "revenue": 230007.6
+ },
+ {
+  "id": 8,
+  "museumId": 2,
+  "date": "2026-01-03",
+  "visitors": 5796,
+  "members": 1208,
+  "revenue": 91025.92
+ },
+ {
+  "id": 9,
+  "museumId": 3,
+  "date": "2026-01-03",
+  "visitors": 2402,
+  "members": 574,
+  "revenue": 0.0
+ },
+ {
+  "id": 10,
+  "museumId": 1,
+  "date": "2026-01-04",
+  "visitors": 17761,
+  "members": 4592,
+  "revenue": 244943.4
+ },
+ {
+  "id": 11,
+  "museumId": 2,
+  "date": "2026-01-04",
+  "visitors": 4525,
+  "members": 1144,
+  "revenue": 67079.04
+ },
+ {
+  "id": 12,
+  "museumId": 3,
+  "date": "2026-01-04",
+  "visitors": 2424,
+  "members": 619,
+  "revenue": 0.0
+ },
+ {
+  "id": 13,
+  "museumId": 1,
+  "date": "2026-01-05",
+  "visitors": 12831,
+  "members": 3178,
+  "revenue": 179545.8
+ },
+ {
+  "id": 14,
+  "museumId": 2,
+  "date": "2026-01-05",
+  "visitors": 4024,
+  "members": 853,
+  "revenue": 62912.64
+ },
+ {
+  "id": 15,
+  "museumId": 1,
+  "date": "2026-01-06",
+  "visitors": 11820,
+  "members": 2266,
+  "revenue": 177704.4
+ },
+ {
+  "id": 16,
+  "museumId": 3,
+  "date": "2026-01-06",
+  "visitors": 1591,
+  "members": 304,
+  "revenue": 0.0
+ },
+ {
+  "id": 17,
+  "museumId": 3,
+  "date": "2026-01-07",
+  "visitors": 1537,
+  "members": 330,
+  "revenue": 0.0
+ },
+ {
+  "id": 18,
+  "museumId": 1,
+  "date": "2026-01-08",
+  "visitors": 13033,
+  "members": 2989,
+  "revenue": 186818.4
+ },
+ {
+  "id": 19,
+  "museumId": 2,
+  "date": "2026-01-08",
+  "visitors": 3714,
+  "members": 940,
+  "revenue": 55036.16
+ },
+ {
+  "id": 20,
+  "museumId": 3,
+  "date": "2026-01-08",
+  "visitors": 1408,
+  "members": 295,
+  "revenue": 0.0
+ },
+ {
+  "id": 21,
+  "museumId": 1,
+  "date": "2026-01-09",
+  "visitors": 10530,
+  "members": 2733,
+  "revenue": 145024.2
+ },
+ {
+  "id": 22,
+  "museumId": 2,
+  "date": "2026-01-09",
+  "visitors": 4030,
+  "members": 1015,
+  "revenue": 59817.6
+ },
+ {
+  "id": 23,
+  "museumId": 3,
+  "date": "2026-01-09",
+  "visitors": 1747,
+  "members": 353,
+  "revenue": 0.0
+ },
+ {
+  "id": 24,
+  "museumId": 1,
+  "date": "2026-01-10",
+  "visitors": 18396,
+  "members": 4724,
+  "revenue": 254299.2
+ },
+ {
+  "id": 25,
+  "museumId": 2,
+  "date": "2026-01-10",
+  "visitors": 5177,
+  "members": 1254,
+  "revenue": 77832.32
+ },
+ {
+  "id": 26,
+  "museumId": 3,
+  "date": "2026-01-10",
+  "visitors": 1906,
+  "members": 366,
+  "revenue": 0.0
+ },
+ {
+  "id": 27,
+  "museumId": 1,
+  "date": "2026-01-11",
+  "visitors": 16302,
+  "members": 3482,
+  "revenue": 238452.0
+ },
+ {
+  "id": 28,
+  "museumId": 2,
+  "date": "2026-01-11",
+  "visitors": 5079,
+  "members": 1254,
+  "revenue": 75888.0
+ },
+ {
+  "id": 29,
+  "museumId": 3,
+  "date": "2026-01-11",
+  "visitors": 2143,
+  "members": 529,
+  "revenue": 0.0
+ },
+ {
+  "id": 30,
+  "museumId": 1,
+  "date": "2026-01-12",
+  "visitors": 11042,
+  "members": 2297,
+  "revenue": 162657.0
+ },
+ {
+  "id": 31,
+  "museumId": 2,
+  "date": "2026-01-12",
+  "visitors": 3650,
+  "members": 776,
+  "revenue": 57020.16
+ },
+ {
+  "id": 32,
+  "museumId": 1,
+  "date": "2026-01-13",
+  "visitors": 11002,
+  "members": 2257,
+  "revenue": 162657.0
+ },
+ {
+  "id": 33,
+  "museumId": 3,
+  "date": "2026-01-13",
+  "visitors": 1752,
+  "members": 335,
+  "revenue": 0.0
+ },
+ {
+  "id": 34,
+  "museumId": 3,
+  "date": "2026-01-14",
+  "visitors": 1439,
+  "members": 273,
+  "revenue": 0.0
+ },
+ {
+  "id": 35,
+  "museumId": 1,
+  "date": "2026-01-15",
+  "visitors": 11902,
+  "members": 2227,
+  "revenue": 179955.0
+ },
+ {
+  "id": 36,
+  "museumId": 2,
+  "date": "2026-01-15",
+  "visitors": 3278,
+  "members": 693,
+  "revenue": 51286.4
+ },
+ {
+  "id": 37,
+  "museumId": 3,
+  "date": "2026-01-15",
+  "visitors": 1687,
+  "members": 355,
+  "revenue": 0.0
+ },
+ {
+  "id": 38,
+  "museumId": 1,
+  "date": "2026-01-16",
+  "visitors": 10959,
+  "members": 2308,
+  "revenue": 160908.6
+ },
+ {
+  "id": 39,
+  "museumId": 2,
+  "date": "2026-01-16",
+  "visitors": 3885,
+  "members": 715,
+  "revenue": 62892.8
+ },
+ {
+  "id": 40,
+  "museumId": 3,
+  "date": "2026-01-16",
+  "visitors": 1429,
+  "members": 347,
+  "revenue": 0.0
+ },
+ {
+  "id": 41,
+  "museumId": 1,
+  "date": "2026-01-17",
+  "visitors": 14233,
+  "members": 2617,
+  "revenue": 216057.6
+ },
+ {
+  "id": 42,
+  "museumId": 2,
+  "date": "2026-01-17",
+  "visitors": 5531,
+  "members": 1378,
+  "revenue": 82395.52
+ },
+ {
+  "id": 43,
+  "museumId": 3,
+  "date": "2026-01-17",
+  "visitors": 2487,
+  "members": 532,
+  "revenue": 0.0
+ },
+ {
+  "id": 44,
+  "museumId": 1,
+  "date": "2026-01-18",
+  "visitors": 18792,
+  "members": 3792,
+  "revenue": 279000.0
+ },
+ {
+  "id": 45,
+  "museumId": 2,
+  "date": "2026-01-18",
+  "visitors": 5828,
+  "members": 1244,
+  "revenue": 90946.56
+ },
+ {
+  "id": 46,
+  "museumId": 3,
+  "date": "2026-01-18",
+  "visitors": 2330,
+  "members": 505,
+  "revenue": 0.0
+ },
+ {
+  "id": 47,
+  "museumId": 1,
+  "date": "2026-01-19",
+  "visitors": 12692,
+  "members": 3185,
+  "revenue": 176830.2
+ },
+ {
+  "id": 48,
+  "museumId": 2,
+  "date": "2026-01-19",
+  "visitors": 3884,
+  "members": 993,
+  "revenue": 57357.44
+ },
+ {
+  "id": 49,
+  "museumId": 1,
+  "date": "2026-01-20",
+  "visitors": 10520,
+  "members": 2291,
+  "revenue": 153059.4
+ },
+ {
+  "id": 50,
+  "museumId": 3,
+  "date": "2026-01-20",
+  "visitors": 1495,
+  "members": 377,
+  "revenue": 0.0
+ },
+ {
+  "id": 51,
+  "museumId": 3,
+  "date": "2026-01-21",
+  "visitors": 1657,
+  "members": 376,
+  "revenue": 0.0
+ },
+ {
+  "id": 52,
+  "museumId": 1,
+  "date": "2026-01-22",
+  "visitors": 12812,
+  "members": 2901,
+  "revenue": 184344.6
+ },
+ {
+  "id": 53,
+  "museumId": 2,
+  "date": "2026-01-22",
+  "visitors": 4101,
+  "members": 823,
+  "revenue": 65035.52
+ },
+ {
+  "id": 54,
+  "museumId": 3,
+  "date": "2026-01-22",
+  "visitors": 1891,
+  "members": 428,
+  "revenue": 0.0
+ },
+ {
+  "id": 55,
+  "museumId": 1,
+  "date": "2026-01-23",
+  "visitors": 12618,
+  "members": 2777,
+  "revenue": 183042.6
+ },
+ {
+  "id": 56,
+  "museumId": 2,
+  "date": "2026-01-23",
+  "visitors": 3521,
+  "members": 752,
+  "revenue": 54936.96
+ },
+ {
+  "id": 57,
+  "museumId": 3,
+  "date": "2026-01-23",
+  "visitors": 1713,
+  "members": 342,
+  "revenue": 0.0
+ },
+ {
+  "id": 58,
+  "museumId": 1,
+  "date": "2026-01-24",
+  "visitors": 16031,
+  "members": 3335,
+  "revenue": 236145.6
+ },
+ {
+  "id": 59,
+  "museumId": 2,
+  "date": "2026-01-24",
+  "visitors": 4537,
+  "members": 860,
+  "revenue": 72951.68
+ },
+ {
+  "id": 60,
+  "museumId": 3,
+  "date": "2026-01-24",
+  "visitors": 1936,
+  "members": 456,
+  "revenue": 0.0
+ },
+ {
+  "id": 61,
+  "museumId": 1,
+  "date": "2026-01-25",
+  "visitors": 17271,
+  "members": 3780,
+  "revenue": 250932.6
+ },
+ {
+  "id": 62,
+  "museumId": 2,
+  "date": "2026-01-25",
+  "visitors": 5797,
+  "members": 1348,
+  "revenue": 88268.16
+ },
+ {
+  "id": 63,
+  "museumId": 3,
+  "date": "2026-01-25",
+  "visitors": 2227,
+  "members": 528,
+  "revenue": 0.0
+ },
+ {
+  "id": 64,
+  "museumId": 1,
+  "date": "2026-01-26",
+  "visitors": 10743,
+  "members": 2575,
+  "revenue": 151924.8
+ },
+ {
+  "id": 65,
+  "museumId": 2,
+  "date": "2026-01-26",
+  "visitors": 4279,
+  "members": 1041,
+  "revenue": 64241.92
+ },
+ {
+  "id": 66,
+  "museumId": 1,
+  "date": "2026-01-27",
+  "visitors": 11551,
+  "members": 2585,
+  "revenue": 166767.6
+ },
+ {
+  "id": 67,
+  "museumId": 3,
+  "date": "2026-01-27",
+  "visitors": 1792,
+  "members": 331,
+  "revenue": 0.0
+ },
+ {
+  "id": 68,
+  "museumId": 3,
+  "date": "2026-01-28",
+  "visitors": 1631,
+  "members": 372,
+  "revenue": 0.0
+ },
+ {
+  "id": 69,
+  "museumId": 1,
+  "date": "2026-01-29",
+  "visitors": 11954,
+  "members": 2685,
+  "revenue": 172403.4
+ },
+ {
+  "id": 70,
+  "museumId": 2,
+  "date": "2026-01-29",
+  "visitors": 4160,
+  "members": 840,
+  "revenue": 65868.8
+ },
+ {
+  "id": 71,
+  "museumId": 3,
+  "date": "2026-01-29",
+  "visitors": 1461,
+  "members": 273,
+  "revenue": 0.0
+ },
+ {
+  "id": 72,
+  "museumId": 1,
+  "date": "2026-01-30",
+  "visitors": 14063,
+  "members": 3164,
+  "revenue": 202721.4
+ },
+ {
+  "id": 73,
+  "museumId": 2,
+  "date": "2026-01-30",
+  "visitors": 4236,
+  "members": 995,
+  "revenue": 64301.44
+ },
+ {
+  "id": 74,
+  "museumId": 3,
+  "date": "2026-01-30",
+  "visitors": 1649,
+  "members": 426,
+  "revenue": 0.0
+ },
+ {
+  "id": 75,
+  "museumId": 1,
+  "date": "2026-01-31",
+  "visitors": 15391,
+  "members": 3663,
+  "revenue": 218140.8
+ },
+ {
+  "id": 76,
+  "museumId": 2,
+  "date": "2026-01-31",
+  "visitors": 5068,
+  "members": 1233,
+  "revenue": 76086.4
+ },
+ {
+  "id": 77,
+  "museumId": 3,
+  "date": "2026-01-31",
+  "visitors": 2018,
+  "members": 374,
+  "revenue": 0.0
+ },
+ {
+  "id": 78,
+  "museumId": 1,
+  "date": "2026-02-01",
+  "visitors": 16534,
+  "members": 3326,
+  "revenue": 245668.8
+ },
+ {
+  "id": 79,
+  "museumId": 2,
+  "date": "2026-02-01",
+  "visitors": 4429,
+  "members": 1136,
+  "revenue": 65333.12
+ },
+ {
+  "id": 80,
+  "museumId": 3,
+  "date": "2026-02-01",
+  "visitors": 2274,
+  "members": 578,
+  "revenue": 0.0
+ },
+ {
+  "id": 81,
+  "museumId": 1,
+  "date": "2026-02-02",
+  "visitors": 10938,
+  "members": 2343,
+  "revenue": 159867.0
+ },
+ {
+  "id": 82,
+  "museumId": 2,
+  "date": "2026-02-02",
+  "visitors": 4402,
+  "members": 842,
+  "revenue": 70630.4
+ },
+ {
+  "id": 83,
+  "museumId": 1,
+  "date": "2026-02-03",
+  "visitors": 12150,
+  "members": 2377,
+  "revenue": 181777.8
+ },
+ {
+  "id": 84,
+  "museumId": 3,
+  "date": "2026-02-03",
+  "visitors": 1519,
+  "members": 278,
+  "revenue": 0.0
+ },
+ {
+  "id": 85,
+  "museumId": 3,
+  "date": "2026-02-04",
+  "visitors": 1740,
+  "members": 388,
+  "revenue": 0.0
+ },
+ {
+  "id": 86,
+  "museumId": 1,
+  "date": "2026-02-05",
+  "visitors": 13009,
+  "members": 2948,
+  "revenue": 187134.6
+ },
+ {
+  "id": 87,
+  "museumId": 2,
+  "date": "2026-02-05",
+  "visitors": 3820,
+  "members": 756,
+  "revenue": 60789.76
+ },
+ {
+  "id": 88,
+  "museumId": 3,
+  "date": "2026-02-05",
+  "visitors": 1678,
+  "members": 433,
+  "revenue": 0.0
+ },
+ {
+  "id": 89,
+  "museumId": 1,
+  "date": "2026-02-06",
+  "visitors": 13734,
+  "members": 2579,
+  "revenue": 207483.0
+ },
+ {
+  "id": 90,
+  "museumId": 2,
+  "date": "2026-02-06",
+  "visitors": 3457,
+  "members": 675,
+  "revenue": 55194.88
+ },
+ {
+  "id": 91,
+  "museumId": 3,
+  "date": "2026-02-06",
+  "visitors": 1459,
+  "members": 293,
+  "revenue": 0.0
+ },
+ {
+  "id": 92,
+  "museumId": 1,
+  "date": "2026-02-07",
+  "visitors": 14894,
+  "members": 3645,
+  "revenue": 209231.4
+ },
+ {
+  "id": 93,
+  "museumId": 2,
+  "date": "2026-02-07",
+  "visitors": 4725,
+  "members": 947,
+  "revenue": 74955.52
+ },
+ {
+  "id": 94,
+  "museumId": 3,
+  "date": "2026-02-07",
+  "visitors": 2122,
+  "members": 485,
+  "revenue": 0.0
+ },
+ {
+  "id": 95,
+  "museumId": 1,
+  "date": "2026-02-08",
+  "visitors": 15002,
+  "members": 3875,
+  "revenue": 206962.2
+ },
+ {
+  "id": 96,
+  "museumId": 2,
+  "date": "2026-02-08",
+  "visitors": 4556,
+  "members": 886,
+  "revenue": 72812.8
+ },
+ {
+  "id": 97,
+  "museumId": 3,
+  "date": "2026-02-08",
+  "visitors": 2322,
+  "members": 425,
+  "revenue": 0.0
+ },
+ {
+  "id": 98,
+  "museumId": 1,
+  "date": "2026-02-09",
+  "visitors": 12287,
+  "members": 2361,
+  "revenue": 184623.6
+ },
+ {
+  "id": 99,
+  "museumId": 2,
+  "date": "2026-02-09",
+  "visitors": 3362,
+  "members": 869,
+  "revenue": 49461.12
+ },
+ {
+  "id": 100,
+  "museumId": 1,
+  "date": "2026-02-10",
+  "visitors": 10999,
+  "members": 2085,
+  "revenue": 165800.4
+ },
+ {
+  "id": 101,
+  "museumId": 3,
+  "date": "2026-02-10",
+  "visitors": 1674,
+  "members": 375,
+  "revenue": 0.0
+ },
+ {
+  "id": 102,
+  "museumId": 3,
+  "date": "2026-02-11",
+  "visitors": 1471,
+  "members": 373,
+  "revenue": 0.0
+ },
+ {
+  "id": 103,
+  "museumId": 1,
+  "date": "2026-02-12",
+  "visitors": 10808,
+  "members": 2133,
+  "revenue": 161355.0
+ },
+ {
+  "id": 104,
+  "museumId": 2,
+  "date": "2026-02-12",
+  "visitors": 3522,
+  "members": 798,
+  "revenue": 54044.16
+ },
+ {
+  "id": 105,
+  "museumId": 3,
+  "date": "2026-02-12",
+  "visitors": 1775,
+  "members": 381,
+  "revenue": 0.0
+ },
+ {
+  "id": 106,
+  "museumId": 1,
+  "date": "2026-02-13",
+  "visitors": 13055,
+  "members": 2817,
+  "revenue": 190426.8
+ },
+ {
+  "id": 107,
+  "museumId": 2,
+  "date": "2026-02-13",
+  "visitors": 4309,
+  "members": 978,
+  "revenue": 66087.04
+ },
+ {
+  "id": 108,
+  "museumId": 3,
+  "date": "2026-02-13",
+  "visitors": 1573,
+  "members": 398,
+  "revenue": 0.0
+ },
+ {
+  "id": 109,
+  "museumId": 1,
+  "date": "2026-02-14",
+  "visitors": 19446,
+  "members": 4836,
+  "revenue": 271746.0
+ },
+ {
+  "id": 110,
+  "museumId": 2,
+  "date": "2026-02-14",
+  "visitors": 4844,
+  "members": 1047,
+  "revenue": 75332.48
+ },
+ {
+  "id": 111,
+  "museumId": 3,
+  "date": "2026-02-14",
+  "visitors": 2225,
+  "members": 450,
+  "revenue": 0.0
+ },
+ {
+  "id": 112,
+  "museumId": 1,
+  "date": "2026-02-15",
+  "visitors": 15277,
+  "members": 3118,
+  "revenue": 226157.4
+ },
+ {
+  "id": 113,
+  "museumId": 2,
+  "date": "2026-02-15",
+  "visitors": 4632,
+  "members": 864,
+  "revenue": 74757.12
+ },
+ {
+  "id": 114,
+  "museumId": 3,
+  "date": "2026-02-15",
+  "visitors": 2133,
+  "members": 411,
+  "revenue": 0.0
+ },
+ {
+  "id": 115,
+  "museumId": 1,
+  "date": "2026-02-16",
+  "visitors": 13751,
+  "members": 2708,
+  "revenue": 205399.8
+ },
+ {
+  "id": 116,
+  "museumId": 2,
+  "date": "2026-02-16",
+  "visitors": 3814,
+  "members": 776,
+  "revenue": 60273.92
+ },
+ {
+  "id": 117,
+  "museumId": 1,
+  "date": "2026-02-17",
+  "visitors": 13238,
+  "members": 2397,
+  "revenue": 201642.6
+ },
+ {
+  "id": 118,
+  "museumId": 3,
+  "date": "2026-02-17",
+  "visitors": 1969,
+  "members": 411,
+  "revenue": 0.0
+ },
+ {
+  "id": 119,
+  "museumId": 3,
+  "date": "2026-02-18",
+  "visitors": 1886,
+  "members": 463,
+  "revenue": 0.0
+ },
+ {
+  "id": 120,
+  "museumId": 1,
+  "date": "2026-02-19",
+  "visitors": 11674,
+  "members": 2608,
+  "revenue": 168627.6
+ },
+ {
+  "id": 121,
+  "museumId": 2,
+  "date": "2026-02-19",
+  "visitors": 4283,
+  "members": 890,
+  "revenue": 67317.12
+ },
+ {
+  "id": 122,
+  "museumId": 3,
+  "date": "2026-02-19",
+  "visitors": 1652,
+  "members": 396,
+  "revenue": 0.0
+ },
+ {
+  "id": 123,
+  "museumId": 1,
+  "date": "2026-02-20",
+  "visitors": 13387,
+  "members": 2958,
+  "revenue": 193979.4
+ },
+ {
+  "id": 124,
+  "museumId": 2,
+  "date": "2026-02-20",
+  "visitors": 4168,
+  "members": 877,
+  "revenue": 65293.44
+ },
+ {
+  "id": 125,
+  "museumId": 3,
+  "date": "2026-02-20",
+  "visitors": 1719,
+  "members": 416,
+  "revenue": 0.0
+ },
+ {
+  "id": 126,
+  "museumId": 1,
+  "date": "2026-02-21",
+  "visitors": 18035,
+  "members": 4322,
+  "revenue": 255061.8
+ },
+ {
+  "id": 127,
+  "museumId": 2,
+  "date": "2026-02-21",
+  "visitors": 5722,
+  "members": 1375,
+  "revenue": 86244.48
+ },
+ {
+  "id": 128,
+  "museumId": 3,
+  "date": "2026-02-21",
+  "visitors": 2290,
+  "members": 421,
+  "revenue": 0.0
+ },
+ {
+  "id": 129,
+  "museumId": 1,
+  "date": "2026-02-22",
+  "visitors": 18967,
+  "members": 3434,
+  "revenue": 288913.8
+ },
+ {
+  "id": 130,
+  "museumId": 2,
+  "date": "2026-02-22",
+  "visitors": 4937,
+  "members": 1257,
+  "revenue": 73011.2
+ },
+ {
+  "id": 131,
+  "museumId": 3,
+  "date": "2026-02-22",
+  "visitors": 2478,
+  "members": 498,
+  "revenue": 0.0
+ },
+ {
+  "id": 132,
+  "museumId": 1,
+  "date": "2026-02-23",
+  "visitors": 11149,
+  "members": 2557,
+  "revenue": 159811.2
+ },
+ {
+  "id": 133,
+  "museumId": 2,
+  "date": "2026-02-23",
+  "visitors": 4085,
+  "members": 823,
+  "revenue": 64718.08
+ },
+ {
+  "id": 134,
+  "museumId": 1,
+  "date": "2026-02-24",
+  "visitors": 12997,
+  "members": 3341,
+  "revenue": 179601.6
+ },
+ {
+  "id": 135,
+  "museumId": 3,
+  "date": "2026-02-24",
+  "visitors": 2025,
+  "members": 483,
+  "revenue": 0.0
+ },
+ {
+  "id": 136,
+  "museumId": 3,
+  "date": "2026-02-25",
+  "visitors": 1634,
+  "members": 299,
+  "revenue": 0.0
+ },
+ {
+  "id": 137,
+  "museumId": 1,
+  "date": "2026-02-26",
+  "visitors": 11622,
+  "members": 2382,
+  "revenue": 171864.0
+ },
+ {
+  "id": 138,
+  "museumId": 2,
+  "date": "2026-02-26",
+  "visitors": 4374,
+  "members": 1023,
+  "revenue": 66483.84
+ },
+ {
+  "id": 139,
+  "museumId": 3,
+  "date": "2026-02-26",
+  "visitors": 1822,
+  "members": 452,
+  "revenue": 0.0
+ },
+ {
+  "id": 140,
+  "museumId": 1,
+  "date": "2026-02-27",
+  "visitors": 11889,
+  "members": 2419,
+  "revenue": 176142.0
+ },
+ {
+  "id": 141,
+  "museumId": 2,
+  "date": "2026-02-27",
+  "visitors": 3504,
+  "members": 751,
+  "revenue": 54619.52
+ },
+ {
+  "id": 142,
+  "museumId": 3,
+  "date": "2026-02-27",
+  "visitors": 1818,
+  "members": 461,
+  "revenue": 0.0
+ },
+ {
+  "id": 143,
+  "museumId": 1,
+  "date": "2026-02-28",
+  "visitors": 19217,
+  "members": 4761,
+  "revenue": 268881.6
+ },
+ {
+  "id": 144,
+  "museumId": 2,
+  "date": "2026-02-28",
+  "visitors": 5403,
+  "members": 1202,
+  "revenue": 83347.84
+ },
+ {
+  "id": 145,
+  "museumId": 3,
+  "date": "2026-02-28",
+  "visitors": 2757,
+  "members": 563,
+  "revenue": 0.0
+ },
+ {
+  "id": 146,
+  "museumId": 1,
+  "date": "2026-03-01",
+  "visitors": 18189,
+  "members": 3996,
+  "revenue": 263989.8
+ },
+ {
+  "id": 147,
+  "museumId": 2,
+  "date": "2026-03-01",
+  "visitors": 5134,
+  "members": 1219,
+  "revenue": 77673.6
+ },
+ {
+  "id": 148,
+  "museumId": 3,
+  "date": "2026-03-01",
+  "visitors": 2319,
+  "members": 482,
+  "revenue": 0.0
+ },
+ {
+  "id": 149,
+  "museumId": 1,
+  "date": "2026-03-02",
+  "visitors": 13477,
+  "members": 3304,
+  "revenue": 189217.8
+ },
+ {
+  "id": 150,
+  "museumId": 2,
+  "date": "2026-03-02",
+  "visitors": 4675,
+  "members": 1021,
+  "revenue": 72495.36
+ },
+ {
+  "id": 151,
+  "museumId": 1,
+  "date": "2026-03-03",
+  "visitors": 15209,
+  "members": 3072,
+  "revenue": 225748.2
+ },
+ {
+  "id": 152,
+  "museumId": 3,
+  "date": "2026-03-03",
+  "visitors": 1925,
+  "members": 499,
+  "revenue": 0.0
+ },
+ {
+  "id": 153,
+  "museumId": 3,
+  "date": "2026-03-04",
+  "visitors": 2043,
+  "members": 413,
+  "revenue": 0.0
+ },
+ {
+  "id": 154,
+  "museumId": 1,
+  "date": "2026-03-05",
+  "visitors": 13938,
+  "members": 3201,
+  "revenue": 199708.2
+ },
+ {
+  "id": 155,
+  "museumId": 2,
+  "date": "2026-03-05",
+  "visitors": 3670,
+  "members": 953,
+  "revenue": 53905.28
+ },
+ {
+  "id": 156,
+  "museumId": 3,
+  "date": "2026-03-05",
+  "visitors": 1908,
+  "members": 414,
+  "revenue": 0.0
+ },
+ {
+  "id": 157,
+  "museumId": 1,
+  "date": "2026-03-06",
+  "visitors": 14832,
+  "members": 3306,
+  "revenue": 214383.6
+ },
+ {
+  "id": 158,
+  "museumId": 2,
+  "date": "2026-03-06",
+  "visitors": 3600,
+  "members": 717,
+  "revenue": 57198.72
+ },
+ {
+  "id": 159,
+  "museumId": 3,
+  "date": "2026-03-06",
+  "visitors": 2095,
+  "members": 400,
+  "revenue": 0.0
+ },
+ {
+  "id": 160,
+  "museumId": 1,
+  "date": "2026-03-07",
+  "visitors": 20563,
+  "members": 4886,
+  "revenue": 291592.2
+ },
+ {
+  "id": 161,
+  "museumId": 2,
+  "date": "2026-03-07",
+  "visitors": 6115,
+  "members": 1311,
+  "revenue": 95311.36
+ },
+ {
+  "id": 162,
+  "museumId": 3,
+  "date": "2026-03-07",
+  "visitors": 2551,
+  "members": 485,
+  "revenue": 0.0
+ },
+ {
+  "id": 163,
+  "museumId": 1,
+  "date": "2026-03-08",
+  "visitors": 15903,
+  "members": 3816,
+  "revenue": 224818.2
+ },
+ {
+  "id": 164,
+  "museumId": 2,
+  "date": "2026-03-08",
+  "visitors": 5043,
+  "members": 1124,
+  "revenue": 77752.96
+ },
+ {
+  "id": 165,
+  "museumId": 3,
+  "date": "2026-03-08",
+  "visitors": 2536,
+  "members": 631,
+  "revenue": 0.0
+ },
+ {
+  "id": 166,
+  "museumId": 1,
+  "date": "2026-03-09",
+  "visitors": 14776,
+  "members": 3099,
+  "revenue": 217192.2
+ },
+ {
+  "id": 167,
+  "museumId": 2,
+  "date": "2026-03-09",
+  "visitors": 3757,
+  "members": 834,
+  "revenue": 57992.32
+ },
+ {
+  "id": 168,
+  "museumId": 1,
+  "date": "2026-03-10",
+  "visitors": 12059,
+  "members": 3089,
+  "revenue": 166842.0
+ },
+ {
+  "id": 169,
+  "museumId": 3,
+  "date": "2026-03-10",
+  "visitors": 1863,
+  "members": 427,
+  "revenue": 0.0
+ },
+ {
+  "id": 170,
+  "museumId": 3,
+  "date": "2026-03-11",
+  "visitors": 2023,
+  "members": 467,
+  "revenue": 0.0
+ },
+ {
+  "id": 171,
+  "museumId": 1,
+  "date": "2026-03-12",
+  "visitors": 15599,
+  "members": 3480,
+  "revenue": 225413.4
+ },
+ {
+  "id": 172,
+  "museumId": 2,
+  "date": "2026-03-12",
+  "visitors": 3962,
+  "members": 715,
+  "revenue": 64420.48
+ },
+ {
+  "id": 173,
+  "museumId": 3,
+  "date": "2026-03-12",
+  "visitors": 2004,
+  "members": 388,
+  "revenue": 0.0
+ },
+ {
+  "id": 174,
+  "museumId": 1,
+  "date": "2026-03-13",
+  "visitors": 14629,
+  "members": 2782,
+  "revenue": 220354.2
+ },
+ {
+  "id": 175,
+  "museumId": 2,
+  "date": "2026-03-13",
+  "visitors": 4212,
+  "members": 909,
+  "revenue": 65531.52
+ },
+ {
+  "id": 176,
+  "museumId": 3,
+  "date": "2026-03-13",
+  "visitors": 1777,
+  "members": 350,
+  "revenue": 0.0
+ },
+ {
+  "id": 177,
+  "museumId": 1,
+  "date": "2026-03-14",
+  "visitors": 17519,
+  "members": 4087,
+  "revenue": 249835.2
+ },
+ {
+  "id": 178,
+  "museumId": 2,
+  "date": "2026-03-14",
+  "visitors": 5969,
+  "members": 1294,
+  "revenue": 92752.0
+ },
+ {
+  "id": 179,
+  "museumId": 3,
+  "date": "2026-03-14",
+  "visitors": 2735,
+  "members": 626,
+  "revenue": 0.0
+ },
+ {
+  "id": 180,
+  "museumId": 1,
+  "date": "2026-03-15",
+  "visitors": 16438,
+  "members": 3769,
+  "revenue": 235643.4
+ },
+ {
+  "id": 181,
+  "museumId": 2,
+  "date": "2026-03-15",
+  "visitors": 5768,
+  "members": 1239,
+  "revenue": 89855.36
+ },
+ {
+  "id": 182,
+  "museumId": 3,
+  "date": "2026-03-15",
+  "visitors": 2929,
+  "members": 668,
+  "revenue": 0.0
+ },
+ {
+  "id": 183,
+  "museumId": 1,
+  "date": "2026-03-16",
+  "visitors": 14410,
+  "members": 3029,
+  "revenue": 211686.6
+ },
+ {
+  "id": 184,
+  "museumId": 2,
+  "date": "2026-03-16",
+  "visitors": 4140,
+  "members": 1025,
+  "revenue": 61801.6
+ },
+ {
+  "id": 185,
+  "museumId": 1,
+  "date": "2026-03-17",
+  "visitors": 16181,
+  "members": 4185,
+  "revenue": 223125.6
+ },
+ {
+  "id": 186,
+  "museumId": 3,
+  "date": "2026-03-17",
+  "visitors": 1902,
+  "members": 378,
+  "revenue": 0.0
+ },
+ {
+  "id": 187,
+  "museumId": 3,
+  "date": "2026-03-18",
+  "visitors": 1673,
+  "members": 336,
+  "revenue": 0.0
+ },
+ {
+  "id": 188,
+  "museumId": 1,
+  "date": "2026-03-19",
+  "visitors": 12747,
+  "members": 2754,
+  "revenue": 185869.8
+ },
+ {
+  "id": 189,
+  "museumId": 2,
+  "date": "2026-03-19",
+  "visitors": 3961,
+  "members": 923,
+  "revenue": 60273.92
+ },
+ {
+  "id": 190,
+  "museumId": 3,
+  "date": "2026-03-19",
+  "visitors": 1715,
+  "members": 416,
+  "revenue": 0.0
+ },
+ {
+  "id": 191,
+  "museumId": 1,
+  "date": "2026-03-20",
+  "visitors": 14089,
+  "members": 2587,
+  "revenue": 213937.2
+ },
+ {
+  "id": 192,
+  "museumId": 2,
+  "date": "2026-03-20",
+  "visitors": 3777,
+  "members": 781,
+  "revenue": 59440.64
+ },
+ {
+  "id": 193,
+  "museumId": 3,
+  "date": "2026-03-20",
+  "visitors": 2022,
+  "members": 493,
+  "revenue": 0.0
+ },
+ {
+  "id": 194,
+  "museumId": 1,
+  "date": "2026-03-21",
+  "visitors": 16888,
+  "members": 3836,
+  "revenue": 242767.2
+ },
+ {
+  "id": 195,
+  "museumId": 2,
+  "date": "2026-03-21",
+  "visitors": 6042,
+  "members": 1111,
+  "revenue": 97831.04
+ },
+ {
+  "id": 196,
+  "museumId": 3,
+  "date": "2026-03-21",
+  "visitors": 2587,
+  "members": 550,
+  "revenue": 0.0
+ },
+ {
+  "id": 197,
+  "museumId": 1,
+  "date": "2026-03-22",
+  "visitors": 21535,
+  "members": 5137,
+  "revenue": 305002.8
+ },
+ {
+  "id": 198,
+  "museumId": 2,
+  "date": "2026-03-22",
+  "visitors": 6638,
+  "members": 1407,
+  "revenue": 103783.04
+ },
+ {
+  "id": 199,
+  "museumId": 3,
+  "date": "2026-03-22",
+  "visitors": 2767,
+  "members": 630,
+  "revenue": 0.0
+ },
+ {
+  "id": 200,
+  "museumId": 1,
+  "date": "2026-03-23",
+  "visitors": 15840,
+  "members": 3909,
+  "revenue": 221916.6
+ },
+ {
+  "id": 201,
+  "museumId": 2,
+  "date": "2026-03-23",
+  "visitors": 3979,
+  "members": 1002,
+  "revenue": 59063.68
+ },
+ {
+  "id": 202,
+  "museumId": 1,
+  "date": "2026-03-24",
+  "visitors": 14617,
+  "members": 3049,
+  "revenue": 215164.8
+ },
+ {
+  "id": 203,
+  "museumId": 3,
+  "date": "2026-03-24",
+  "visitors": 2162,
+  "members": 469,
+  "revenue": 0.0
+ },
+ {
+  "id": 204,
+  "museumId": 3,
+  "date": "2026-03-25",
+  "visitors": 2054,
+  "members": 513,
+  "revenue": 0.0
+ },
+ {
+  "id": 205,
+  "museumId": 1,
+  "date": "2026-03-26",
+  "visitors": 15169,
+  "members": 2919,
+  "revenue": 227850.0
+ },
+ {
+  "id": 206,
+  "museumId": 2,
+  "date": "2026-03-26",
+  "visitors": 5133,
+  "members": 1034,
+  "revenue": 81324.16
+ },
+ {
+  "id": 207,
+  "museumId": 3,
+  "date": "2026-03-26",
+  "visitors": 2249,
+  "members": 449,
+  "revenue": 0.0
+ },
+ {
+  "id": 208,
+  "museumId": 1,
+  "date": "2026-03-27",
+  "visitors": 15261,
+  "members": 3662,
+  "revenue": 215741.4
+ },
+ {
+  "id": 209,
+  "museumId": 2,
+  "date": "2026-03-27",
+  "visitors": 4089,
+  "members": 920,
+  "revenue": 62872.96
+ },
+ {
+  "id": 210,
+  "museumId": 3,
+  "date": "2026-03-27",
+  "visitors": 2068,
+  "members": 398,
+  "revenue": 0.0
+ },
+ {
+  "id": 211,
+  "museumId": 1,
+  "date": "2026-03-28",
+  "visitors": 22825,
+  "members": 5713,
+  "revenue": 318283.2
+ },
+ {
+  "id": 212,
+  "museumId": 2,
+  "date": "2026-03-28",
+  "visitors": 6176,
+  "members": 1280,
+  "revenue": 97136.64
+ },
+ {
+  "id": 213,
+  "museumId": 3,
+  "date": "2026-03-28",
+  "visitors": 3076,
+  "members": 633,
+  "revenue": 0.0
+ },
+ {
+  "id": 214,
+  "museumId": 1,
+  "date": "2026-03-29",
+  "visitors": 19073,
+  "members": 3682,
+  "revenue": 286272.6
+ },
+ {
+  "id": 215,
+  "museumId": 2,
+  "date": "2026-03-29",
+  "visitors": 5291,
+  "members": 1191,
+  "revenue": 81344.0
+ },
+ {
+  "id": 216,
+  "museumId": 3,
+  "date": "2026-03-29",
+  "visitors": 2694,
+  "members": 623,
+  "revenue": 0.0
+ },
+ {
+  "id": 217,
+  "museumId": 1,
+  "date": "2026-03-30",
+  "visitors": 13326,
+  "members": 2532,
+  "revenue": 200768.4
+ },
+ {
+  "id": 218,
+  "museumId": 2,
+  "date": "2026-03-30",
+  "visitors": 4206,
+  "members": 832,
+  "revenue": 66940.16
+ },
+ {
+  "id": 219,
+  "museumId": 1,
+  "date": "2026-03-31",
+  "visitors": 12731,
+  "members": 2314,
+  "revenue": 193756.2
+ },
+ {
+  "id": 220,
+  "museumId": 3,
+  "date": "2026-03-31",
+  "visitors": 2296,
+  "members": 517,
+  "revenue": 0.0
+ },
+ {
+  "id": 221,
+  "museumId": 3,
+  "date": "2026-04-01",
+  "visitors": 2070,
+  "members": 432,
+  "revenue": 0.0
+ },
+ {
+  "id": 222,
+  "museumId": 1,
+  "date": "2026-04-02",
+  "visitors": 15489,
+  "members": 3031,
+  "revenue": 231718.8
+ },
+ {
+  "id": 223,
+  "museumId": 2,
+  "date": "2026-04-02",
+  "visitors": 4617,
+  "members": 957,
+  "revenue": 72614.4
+ },
+ {
+  "id": 224,
+  "museumId": 3,
+  "date": "2026-04-02",
+  "visitors": 1850,
+  "members": 444,
+  "revenue": 0.0
+ },
+ {
+  "id": 225,
+  "museumId": 1,
+  "date": "2026-04-03",
+  "visitors": 16652,
+  "members": 3713,
+  "revenue": 240665.4
+ },
+ {
+  "id": 226,
+  "museumId": 2,
+  "date": "2026-04-03",
+  "visitors": 4677,
+  "members": 1014,
+  "revenue": 72673.92
+ },
+ {
+  "id": 227,
+  "museumId": 3,
+  "date": "2026-04-03",
+  "visitors": 2141,
+  "members": 515,
+  "revenue": 0.0
+ },
+ {
+  "id": 228,
+  "museumId": 1,
+  "date": "2026-04-04",
+  "visitors": 18485,
+  "members": 3578,
+  "revenue": 277270.2
+ },
+ {
+  "id": 229,
+  "museumId": 2,
+  "date": "2026-04-04",
+  "visitors": 5533,
+  "members": 1128,
+  "revenue": 87395.2
+ },
+ {
+  "id": 230,
+  "museumId": 3,
+  "date": "2026-04-04",
+  "visitors": 2609,
+  "members": 619,
+  "revenue": 0.0
+ },
+ {
+  "id": 231,
+  "museumId": 1,
+  "date": "2026-04-05",
+  "visitors": 21823,
+  "members": 4486,
+  "revenue": 322468.2
+ },
+ {
+  "id": 232,
+  "museumId": 2,
+  "date": "2026-04-05",
+  "visitors": 6757,
+  "members": 1656,
+  "revenue": 101203.84
+ },
+ {
+  "id": 233,
+  "museumId": 3,
+  "date": "2026-04-05",
+  "visitors": 2392,
+  "members": 603,
+  "revenue": 0.0
+ },
+ {
+  "id": 234,
+  "museumId": 1,
+  "date": "2026-04-06",
+  "visitors": 14047,
+  "members": 3171,
+  "revenue": 202293.6
+ },
+ {
+  "id": 235,
+  "museumId": 2,
+  "date": "2026-04-06",
+  "visitors": 4137,
+  "members": 962,
+  "revenue": 62992.0
+ },
+ {
+  "id": 236,
+  "museumId": 1,
+  "date": "2026-04-07",
+  "visitors": 15103,
+  "members": 3199,
+  "revenue": 221414.4
+ },
+ {
+  "id": 237,
+  "museumId": 3,
+  "date": "2026-04-07",
+  "visitors": 2182,
+  "members": 495,
+  "revenue": 0.0
+ },
+ {
+  "id": 238,
+  "museumId": 3,
+  "date": "2026-04-08",
+  "visitors": 1984,
+  "members": 515,
+  "revenue": 0.0
+ },
+ {
+  "id": 239,
+  "museumId": 1,
+  "date": "2026-04-09",
+  "visitors": 13680,
+  "members": 3400,
+  "revenue": 191208.0
+ },
+ {
+  "id": 240,
+  "museumId": 2,
+  "date": "2026-04-09",
+  "visitors": 4104,
+  "members": 875,
+  "revenue": 64063.36
+ },
+ {
+  "id": 241,
+  "museumId": 3,
+  "date": "2026-04-09",
+  "visitors": 2328,
+  "members": 519,
+  "revenue": 0.0
+ },
+ {
+  "id": 242,
+  "museumId": 1,
+  "date": "2026-04-10",
+  "visitors": 15283,
+  "members": 2806,
+  "revenue": 232072.2
+ },
+ {
+  "id": 243,
+  "museumId": 2,
+  "date": "2026-04-10",
+  "visitors": 4106,
+  "members": 1036,
+  "revenue": 60908.8
+ },
+ {
+  "id": 244,
+  "museumId": 3,
+  "date": "2026-04-10",
+  "visitors": 2265,
+  "members": 449,
+  "revenue": 0.0
+ },
+ {
+  "id": 245,
+  "museumId": 1,
+  "date": "2026-04-11",
+  "visitors": 21210,
+  "members": 5029,
+  "revenue": 300966.6
+ },
+ {
+  "id": 246,
+  "museumId": 2,
+  "date": "2026-04-11",
+  "visitors": 5747,
+  "members": 1430,
+  "revenue": 85649.28
+ },
+ {
+  "id": 247,
+  "museumId": 3,
+  "date": "2026-04-11",
+  "visitors": 3127,
+  "members": 622,
+  "revenue": 0.0
+ },
+ {
+  "id": 248,
+  "museumId": 1,
+  "date": "2026-04-12",
+  "visitors": 21074,
+  "members": 4087,
+  "revenue": 315958.2
+ },
+ {
+  "id": 249,
+  "museumId": 2,
+  "date": "2026-04-12",
+  "visitors": 6500,
+  "members": 1579,
+  "revenue": 97632.64
+ },
+ {
+  "id": 250,
+  "museumId": 3,
+  "date": "2026-04-12",
+  "visitors": 2970,
+  "members": 644,
+  "revenue": 0.0
+ },
+ {
+  "id": 251,
+  "museumId": 1,
+  "date": "2026-04-13",
+  "visitors": 16725,
+  "members": 3107,
+  "revenue": 253294.8
+ },
+ {
+  "id": 252,
+  "museumId": 2,
+  "date": "2026-04-13",
+  "visitors": 5569,
+  "members": 1284,
+  "revenue": 85014.4
+ },
+ {
+  "id": 253,
+  "museumId": 1,
+  "date": "2026-04-14",
+  "visitors": 15607,
+  "members": 4051,
+  "revenue": 214941.6
+ },
+ {
+  "id": 254,
+  "museumId": 3,
+  "date": "2026-04-14",
+  "visitors": 2085,
+  "members": 412,
+  "revenue": 0.0
+ },
+ {
+  "id": 255,
+  "museumId": 3,
+  "date": "2026-04-15",
+  "visitors": 2366,
+  "members": 431,
+  "revenue": 0.0
+ },
+ {
+  "id": 256,
+  "museumId": 1,
+  "date": "2026-04-16",
+  "visitors": 13923,
+  "members": 2908,
+  "revenue": 204879.0
+ },
+ {
+  "id": 257,
+  "museumId": 2,
+  "date": "2026-04-16",
+  "visitors": 5496,
+  "members": 1235,
+  "revenue": 84538.24
+ },
+ {
+  "id": 258,
+  "museumId": 3,
+  "date": "2026-04-16",
+  "visitors": 2162,
+  "members": 455,
+  "revenue": 0.0
+ },
+ {
+  "id": 259,
+  "museumId": 1,
+  "date": "2026-04-17",
+  "visitors": 17077,
+  "members": 3731,
+  "revenue": 248235.6
+ },
+ {
+  "id": 260,
+  "museumId": 2,
+  "date": "2026-04-17",
+  "visitors": 4574,
+  "members": 993,
+  "revenue": 71047.04
+ },
+ {
+  "id": 261,
+  "museumId": 3,
+  "date": "2026-04-17",
+  "visitors": 1886,
+  "members": 442,
+  "revenue": 0.0
+ },
+ {
+  "id": 262,
+  "museumId": 1,
+  "date": "2026-04-18",
+  "visitors": 22864,
+  "members": 5260,
+  "revenue": 327434.4
+ },
+ {
+  "id": 263,
+  "museumId": 2,
+  "date": "2026-04-18",
+  "visitors": 6336,
+  "members": 1520,
+  "revenue": 95549.44
+ },
+ {
+  "id": 264,
+  "museumId": 3,
+  "date": "2026-04-18",
+  "visitors": 3184,
+  "members": 649,
+  "revenue": 0.0
+ },
+ {
+  "id": 265,
+  "museumId": 1,
+  "date": "2026-04-19",
+  "visitors": 19898,
+  "members": 4564,
+  "revenue": 285212.4
+ },
+ {
+  "id": 266,
+  "museumId": 2,
+  "date": "2026-04-19",
+  "visitors": 7251,
+  "members": 1838,
+  "revenue": 107393.92
+ },
+ {
+  "id": 267,
+  "museumId": 3,
+  "date": "2026-04-19",
+  "visitors": 3270,
+  "members": 674,
+  "revenue": 0.0
+ },
+ {
+  "id": 268,
+  "museumId": 1,
+  "date": "2026-04-20",
+  "visitors": 17925,
+  "members": 3501,
+  "revenue": 268286.4
+ },
+ {
+  "id": 269,
+  "museumId": 2,
+  "date": "2026-04-20",
+  "visitors": 4495,
+  "members": 821,
+  "revenue": 72892.16
+ },
+ {
+  "id": 270,
+  "museumId": 1,
+  "date": "2026-04-21",
+  "visitors": 15148,
+  "members": 3923,
+  "revenue": 208785.0
+ },
+ {
+  "id": 271,
+  "museumId": 3,
+  "date": "2026-04-21",
+  "visitors": 2306,
+  "members": 585,
+  "revenue": 0.0
+ },
+ {
+  "id": 272,
+  "museumId": 3,
+  "date": "2026-04-22",
+  "visitors": 2312,
+  "members": 446,
+  "revenue": 0.0
+ },
+ {
+  "id": 273,
+  "museumId": 1,
+  "date": "2026-04-23",
+  "visitors": 16509,
+  "members": 3450,
+  "revenue": 242897.4
+ },
+ {
+  "id": 274,
+  "museumId": 2,
+  "date": "2026-04-23",
+  "visitors": 5263,
+  "members": 1084,
+  "revenue": 82911.36
+ },
+ {
+  "id": 275,
+  "museumId": 3,
+  "date": "2026-04-23",
+  "visitors": 2477,
+  "members": 538,
+  "revenue": 0.0
+ },
+ {
+  "id": 276,
+  "museumId": 1,
+  "date": "2026-04-24",
+  "visitors": 16788,
+  "members": 3172,
+  "revenue": 253257.6
+ },
+ {
+  "id": 277,
+  "museumId": 2,
+  "date": "2026-04-24",
+  "visitors": 4983,
+  "members": 930,
+  "revenue": 80411.52
+ },
+ {
+  "id": 278,
+  "museumId": 3,
+  "date": "2026-04-24",
+  "visitors": 2373,
+  "members": 480,
+  "revenue": 0.0
+ },
+ {
+  "id": 279,
+  "museumId": 1,
+  "date": "2026-04-25",
+  "visitors": 21615,
+  "members": 5083,
+  "revenue": 307495.2
+ },
+ {
+  "id": 280,
+  "museumId": 2,
+  "date": "2026-04-25",
+  "visitors": 6984,
+  "members": 1458,
+  "revenue": 109635.84
+ },
+ {
+  "id": 281,
+  "museumId": 3,
+  "date": "2026-04-25",
+  "visitors": 3424,
+  "members": 755,
+  "revenue": 0.0
+ },
+ {
+  "id": 282,
+  "museumId": 1,
+  "date": "2026-04-26",
+  "visitors": 23503,
+  "members": 4387,
+  "revenue": 355557.6
+ },
+ {
+  "id": 283,
+  "museumId": 2,
+  "date": "2026-04-26",
+  "visitors": 6192,
+  "members": 1513,
+  "revenue": 92831.36
+ },
+ {
+  "id": 284,
+  "museumId": 3,
+  "date": "2026-04-26",
+  "visitors": 3337,
+  "members": 770,
+  "revenue": 0.0
+ },
+ {
+  "id": 285,
+  "museumId": 1,
+  "date": "2026-04-27",
+  "visitors": 18066,
+  "members": 4504,
+  "revenue": 252253.2
+ },
+ {
+  "id": 286,
+  "museumId": 2,
+  "date": "2026-04-27",
+  "visitors": 5120,
+  "members": 999,
+  "revenue": 81760.64
+ },
+ {
+  "id": 287,
+  "museumId": 1,
+  "date": "2026-04-28",
+  "visitors": 19017,
+  "members": 4361,
+  "revenue": 272601.6
+ },
+ {
+  "id": 288,
+  "museumId": 3,
+  "date": "2026-04-28",
+  "visitors": 2020,
+  "members": 459,
+  "revenue": 0.0
+ },
+ {
+  "id": 289,
+  "museumId": 3,
+  "date": "2026-04-29",
+  "visitors": 2152,
+  "members": 492,
+  "revenue": 0.0
+ },
+ {
+  "id": 290,
+  "museumId": 1,
+  "date": "2026-04-30",
+  "visitors": 15072,
+  "members": 3332,
+  "revenue": 218364.0
+ },
+ {
+  "id": 291,
+  "museumId": 2,
+  "date": "2026-04-30",
+  "visitors": 4814,
+  "members": 874,
+  "revenue": 78169.6
+ },
+ {
+  "id": 292,
+  "museumId": 3,
+  "date": "2026-04-30",
+  "visitors": 2366,
+  "members": 605,
+  "revenue": 0.0
+ },
+ {
+  "id": 293,
+  "museumId": 1,
+  "date": "2026-05-01",
+  "visitors": 19010,
+  "members": 4112,
+  "revenue": 277102.8
+ },
+ {
+  "id": 294,
+  "museumId": 2,
+  "date": "2026-05-01",
+  "visitors": 4693,
+  "members": 882,
+  "revenue": 75610.24
+ },
+ {
+  "id": 295,
+  "museumId": 3,
+  "date": "2026-05-01",
+  "visitors": 2465,
+  "members": 627,
+  "revenue": 0.0
+ },
+ {
+  "id": 296,
+  "museumId": 1,
+  "date": "2026-05-02",
+  "visitors": 21954,
+  "members": 4209,
+  "revenue": 330057.0
+ },
+ {
+  "id": 297,
+  "museumId": 2,
+  "date": "2026-05-02",
+  "visitors": 6339,
+  "members": 1413,
+  "revenue": 97731.84
+ },
+ {
+  "id": 298,
+  "museumId": 3,
+  "date": "2026-05-02",
+  "visitors": 3377,
+  "members": 787,
+  "revenue": 0.0
+ },
+ {
+  "id": 299,
+  "museumId": 1,
+  "date": "2026-05-03",
+  "visitors": 22437,
+  "members": 5288,
+  "revenue": 318971.4
+ },
+ {
+  "id": 300,
+  "museumId": 2,
+  "date": "2026-05-03",
+  "visitors": 7396,
+  "members": 1606,
+  "revenue": 114873.6
+ },
+ {
+  "id": 301,
+  "museumId": 3,
+  "date": "2026-05-03",
+  "visitors": 3411,
+  "members": 654,
+  "revenue": 0.0
+ },
+ {
+  "id": 302,
+  "museumId": 1,
+  "date": "2026-05-04",
+  "visitors": 19368,
+  "members": 4080,
+  "revenue": 284356.8
+ },
+ {
+  "id": 303,
+  "museumId": 2,
+  "date": "2026-05-04",
+  "visitors": 4509,
+  "members": 883,
+  "revenue": 71939.84
+ },
+ {
+  "id": 304,
+  "museumId": 1,
+  "date": "2026-05-05",
+  "visitors": 15093,
+  "members": 3280,
+  "revenue": 219721.8
+ },
+ {
+  "id": 305,
+  "museumId": 3,
+  "date": "2026-05-05",
+  "visitors": 2407,
+  "members": 594,
+  "revenue": 0.0
+ },
+ {
+  "id": 306,
+  "museumId": 3,
+  "date": "2026-05-06",
+  "visitors": 2532,
+  "members": 621,
+  "revenue": 0.0
+ },
+ {
+  "id": 307,
+  "museumId": 1,
+  "date": "2026-05-07",
+  "visitors": 14932,
+  "members": 3055,
+  "revenue": 220912.2
+ },
+ {
+  "id": 308,
+  "museumId": 2,
+  "date": "2026-05-07",
+  "visitors": 5752,
+  "members": 1293,
+  "revenue": 88466.56
+ },
+ {
+  "id": 309,
+  "museumId": 3,
+  "date": "2026-05-07",
+  "visitors": 2308,
+  "members": 465,
+  "revenue": 0.0
+ },
+ {
+  "id": 310,
+  "museumId": 1,
+  "date": "2026-05-08",
+  "visitors": 18394,
+  "members": 4471,
+  "revenue": 258967.8
+ },
+ {
+  "id": 311,
+  "museumId": 2,
+  "date": "2026-05-08",
+  "visitors": 6058,
+  "members": 1322,
+  "revenue": 93962.24
+ },
+ {
+  "id": 312,
+  "museumId": 3,
+  "date": "2026-05-08",
+  "visitors": 2141,
+  "members": 445,
+  "revenue": 0.0
+ },
+ {
+  "id": 313,
+  "museumId": 1,
+  "date": "2026-05-09",
+  "visitors": 19720,
+  "members": 4120,
+  "revenue": 290160.0
+ },
+ {
+  "id": 314,
+  "museumId": 2,
+  "date": "2026-05-09",
+  "visitors": 6918,
+  "members": 1597,
+  "revenue": 105568.64
+ },
+ {
+  "id": 315,
+  "museumId": 3,
+  "date": "2026-05-09",
+  "visitors": 2987,
+  "members": 633,
+  "revenue": 0.0
+ },
+ {
+  "id": 316,
+  "museumId": 1,
+  "date": "2026-05-10",
+  "visitors": 24961,
+  "members": 5244,
+  "revenue": 366736.2
+ },
+ {
+  "id": 317,
+  "museumId": 2,
+  "date": "2026-05-10",
+  "visitors": 7980,
+  "members": 1729,
+  "revenue": 124019.84
+ },
+ {
+  "id": 318,
+  "museumId": 3,
+  "date": "2026-05-10",
+  "visitors": 3602,
+  "members": 856,
+  "revenue": 0.0
+ },
+ {
+  "id": 319,
+  "museumId": 1,
+  "date": "2026-05-11",
+  "visitors": 14786,
+  "members": 3007,
+  "revenue": 219089.4
+ },
+ {
+  "id": 320,
+  "museumId": 2,
+  "date": "2026-05-11",
+  "visitors": 4818,
+  "members": 1178,
+  "revenue": 72217.6
+ },
+ {
+  "id": 321,
+  "museumId": 1,
+  "date": "2026-05-12",
+  "visitors": 17577,
+  "members": 3264,
+  "revenue": 266221.8
+ },
+ {
+  "id": 322,
+  "museumId": 3,
+  "date": "2026-05-12",
+  "visitors": 2404,
+  "members": 459,
+  "revenue": 0.0
+ },
+ {
+  "id": 323,
+  "museumId": 3,
+  "date": "2026-05-13",
+  "visitors": 2531,
+  "members": 580,
+  "revenue": 0.0
+ },
+ {
+  "id": 324,
+  "museumId": 1,
+  "date": "2026-05-14",
+  "visitors": 16451,
+  "members": 3312,
+  "revenue": 244385.4
+ },
+ {
+  "id": 325,
+  "museumId": 2,
+  "date": "2026-05-14",
+  "visitors": 5128,
+  "members": 1077,
+  "revenue": 80371.84
+ },
+ {
+  "id": 326,
+  "museumId": 3,
+  "date": "2026-05-14",
+  "visitors": 2280,
+  "members": 425,
+  "revenue": 0.0
+ },
+ {
+  "id": 327,
+  "museumId": 1,
+  "date": "2026-05-15",
+  "visitors": 16776,
+  "members": 3118,
+  "revenue": 254038.8
+ },
+ {
+  "id": 328,
+  "museumId": 2,
+  "date": "2026-05-15",
+  "visitors": 4831,
+  "members": 1233,
+  "revenue": 71384.32
+ },
+ {
+  "id": 329,
+  "museumId": 3,
+  "date": "2026-05-15",
+  "visitors": 2075,
+  "members": 496,
+  "revenue": 0.0
+ },
+ {
+  "id": 330,
+  "museumId": 1,
+  "date": "2026-05-16",
+  "visitors": 20352,
+  "members": 5219,
+  "revenue": 281473.8
+ },
+ {
+  "id": 331,
+  "museumId": 2,
+  "date": "2026-05-16",
+  "visitors": 6271,
+  "members": 1624,
+  "revenue": 92196.48
+ },
+ {
+  "id": 332,
+  "museumId": 3,
+  "date": "2026-05-16",
+  "visitors": 3400,
+  "members": 743,
+  "revenue": 0.0
+ },
+ {
+  "id": 333,
+  "museumId": 1,
+  "date": "2026-05-17",
+  "visitors": 24429,
+  "members": 5711,
+  "revenue": 348154.8
+ },
+ {
+  "id": 334,
+  "museumId": 2,
+  "date": "2026-05-17",
+  "visitors": 6895,
+  "members": 1445,
+  "revenue": 108128.0
+ },
+ {
+  "id": 335,
+  "museumId": 3,
+  "date": "2026-05-17",
+  "visitors": 2896,
+  "members": 593,
+  "revenue": 0.0
+ },
+ {
+  "id": 336,
+  "museumId": 1,
+  "date": "2026-05-18",
+  "visitors": 16956,
+  "members": 3607,
+  "revenue": 248291.4
+ },
+ {
+  "id": 337,
+  "museumId": 2,
+  "date": "2026-05-18",
+  "visitors": 5273,
+  "members": 1175,
+  "revenue": 81304.32
+ },
+ {
+  "id": 338,
+  "museumId": 1,
+  "date": "2026-05-19",
+  "visitors": 19373,
+  "members": 4523,
+  "revenue": 276210.0
+ },
+ {
+  "id": 339,
+  "museumId": 3,
+  "date": "2026-05-19",
+  "visitors": 2038,
+  "members": 477,
+  "revenue": 0.0
+ },
+ {
+  "id": 340,
+  "museumId": 3,
+  "date": "2026-05-20",
+  "visitors": 2096,
+  "members": 443,
+  "revenue": 0.0
+ },
+ {
+  "id": 341,
+  "museumId": 1,
+  "date": "2026-05-21",
+  "visitors": 18153,
+  "members": 4139,
+  "revenue": 260660.4
+ },
+ {
+  "id": 342,
+  "museumId": 2,
+  "date": "2026-05-21",
+  "visitors": 5804,
+  "members": 1502,
+  "revenue": 85351.68
+ },
+ {
+  "id": 343,
+  "museumId": 3,
+  "date": "2026-05-21",
+  "visitors": 2698,
+  "members": 667,
+  "revenue": 0.0
+ },
+ {
+  "id": 344,
+  "museumId": 1,
+  "date": "2026-05-22",
+  "visitors": 17476,
+  "members": 3864,
+  "revenue": 253183.2
+ },
+ {
+  "id": 345,
+  "museumId": 2,
+  "date": "2026-05-22",
+  "visitors": 6150,
+  "members": 1456,
+  "revenue": 93128.96
+ },
+ {
+  "id": 346,
+  "museumId": 3,
+  "date": "2026-05-22",
+  "visitors": 2253,
+  "members": 538,
+  "revenue": 0.0
+ },
+ {
+  "id": 347,
+  "museumId": 1,
+  "date": "2026-05-23",
+  "visitors": 20689,
+  "members": 5018,
+  "revenue": 291480.6
+ },
+ {
+  "id": 348,
+  "museumId": 2,
+  "date": "2026-05-23",
+  "visitors": 7975,
+  "members": 1589,
+  "revenue": 126698.24
+ },
+ {
+  "id": 349,
+  "museumId": 3,
+  "date": "2026-05-23",
+  "visitors": 3341,
+  "members": 806,
+  "revenue": 0.0
+ },
+ {
+  "id": 350,
+  "museumId": 1,
+  "date": "2026-05-24",
+  "visitors": 27623,
+  "members": 5892,
+  "revenue": 404196.6
+ },
+ {
+  "id": 351,
+  "museumId": 2,
+  "date": "2026-05-24",
+  "visitors": 6855,
+  "members": 1592,
+  "revenue": 104417.92
+ },
+ {
+  "id": 352,
+  "museumId": 3,
+  "date": "2026-05-24",
+  "visitors": 3674,
+  "members": 803,
+  "revenue": 0.0
+ },
+ {
+  "id": 353,
+  "museumId": 1,
+  "date": "2026-05-25",
+  "visitors": 17156,
+  "members": 3602,
+  "revenue": 252104.4
+ },
+ {
+  "id": 354,
+  "museumId": 2,
+  "date": "2026-05-25",
+  "visitors": 5167,
+  "members": 1069,
+  "revenue": 81304.32
+ },
+ {
+  "id": 355,
+  "museumId": 1,
+  "date": "2026-05-26",
+  "visitors": 15778,
+  "members": 3083,
+  "revenue": 236127.0
+ },
+ {
+  "id": 356,
+  "museumId": 3,
+  "date": "2026-05-26",
+  "visitors": 2224,
+  "members": 491,
+  "revenue": 0.0
+ },
+ {
+  "id": 357,
+  "museumId": 3,
+  "date": "2026-05-27",
+  "visitors": 2165,
+  "members": 542,
+  "revenue": 0.0
+ },
+ {
+  "id": 358,
+  "museumId": 1,
+  "date": "2026-05-28",
+  "visitors": 18549,
+  "members": 4036,
+  "revenue": 269941.8
+ },
+ {
+  "id": 359,
+  "museumId": 2,
+  "date": "2026-05-28",
+  "visitors": 6346,
+  "members": 1621,
+  "revenue": 93744.0
+ },
+ {
+  "id": 360,
+  "museumId": 3,
+  "date": "2026-05-28",
+  "visitors": 2342,
+  "members": 457,
+  "revenue": 0.0
+ },
+ {
+  "id": 361,
+  "museumId": 1,
+  "date": "2026-05-29",
+  "visitors": 16835,
+  "members": 3034,
+  "revenue": 256698.6
+ },
+ {
+  "id": 362,
+  "museumId": 2,
+  "date": "2026-05-29",
+  "visitors": 5073,
+  "members": 1099,
+  "revenue": 78844.16
+ },
+ {
+  "id": 363,
+  "museumId": 3,
+  "date": "2026-05-29",
+  "visitors": 2636,
+  "members": 544,
+  "revenue": 0.0
+ },
+ {
+  "id": 364,
+  "museumId": 1,
+  "date": "2026-05-30",
+  "visitors": 23367,
+  "members": 4718,
+  "revenue": 346871.4
+ },
+ {
+  "id": 365,
+  "museumId": 2,
+  "date": "2026-05-30",
+  "visitors": 7029,
+  "members": 1504,
+  "revenue": 109616.0
+ },
+ {
+  "id": 366,
+  "museumId": 3,
+  "date": "2026-05-30",
+  "visitors": 3423,
+  "members": 667,
+  "revenue": 0.0
+ },
+ {
+  "id": 367,
+  "museumId": 1,
+  "date": "2026-05-31",
+  "visitors": 26427,
+  "members": 5709,
+  "revenue": 385354.8
+ },
+ {
+  "id": 368,
+  "museumId": 2,
+  "date": "2026-05-31",
+  "visitors": 6583,
+  "members": 1253,
+  "revenue": 105747.2
+ },
+ {
+  "id": 369,
+  "museumId": 3,
+  "date": "2026-05-31",
+  "visitors": 3636,
+  "members": 674,
+  "revenue": 0.0
+ },
+ {
+  "id": 370,
+  "museumId": 1,
+  "date": "2026-06-01",
+  "visitors": 20303,
+  "members": 4466,
+  "revenue": 294568.2
+ },
+ {
+  "id": 371,
+  "museumId": 2,
+  "date": "2026-06-01",
+  "visitors": 5819,
+  "members": 1211,
+  "revenue": 91422.72
+ },
+ {
+  "id": 372,
+  "museumId": 1,
+  "date": "2026-06-02",
+  "visitors": 17462,
+  "members": 3524,
+  "revenue": 259246.8
+ },
+ {
+  "id": 373,
+  "museumId": 3,
+  "date": "2026-06-02",
+  "visitors": 2380,
+  "members": 593,
+  "revenue": 0.0
+ },
+ {
+  "id": 374,
+  "museumId": 3,
+  "date": "2026-06-03",
+  "visitors": 2101,
+  "members": 411,
+  "revenue": 0.0
+ },
+ {
+  "id": 375,
+  "museumId": 1,
+  "date": "2026-06-04",
+  "visitors": 18778,
+  "members": 4509,
+  "revenue": 265403.4
+ },
+ {
+  "id": 376,
+  "museumId": 2,
+  "date": "2026-06-04",
+  "visitors": 5565,
+  "members": 1437,
+  "revenue": 81899.52
+ },
+ {
+  "id": 377,
+  "museumId": 3,
+  "date": "2026-06-04",
+  "visitors": 2330,
+  "members": 481,
+  "revenue": 0.0
+ },
+ {
+  "id": 378,
+  "museumId": 1,
+  "date": "2026-06-05",
+  "visitors": 16348,
+  "members": 4079,
+  "revenue": 228203.4
+ },
+ {
+  "id": 379,
+  "museumId": 2,
+  "date": "2026-06-05",
+  "visitors": 5591,
+  "members": 1315,
+  "revenue": 84835.84
+ },
+ {
+  "id": 380,
+  "museumId": 3,
+  "date": "2026-06-05",
+  "visitors": 2235,
+  "members": 487,
+  "revenue": 0.0
+ },
+ {
+  "id": 381,
+  "museumId": 1,
+  "date": "2026-06-06",
+  "visitors": 25146,
+  "members": 6446,
+  "revenue": 347820.0
+ },
+ {
+  "id": 382,
+  "museumId": 2,
+  "date": "2026-06-06",
+  "visitors": 8032,
+  "members": 1770,
+  "revenue": 124238.08
+ },
+ {
+  "id": 383,
+  "museumId": 3,
+  "date": "2026-06-06",
+  "visitors": 3820,
+  "members": 783,
+  "revenue": 0.0
+ },
+ {
+  "id": 384,
+  "museumId": 1,
+  "date": "2026-06-07",
+  "visitors": 26449,
+  "members": 5561,
+  "revenue": 388516.8
+ },
+ {
+  "id": 385,
+  "museumId": 2,
+  "date": "2026-06-07",
+  "visitors": 7979,
+  "members": 1446,
+  "revenue": 129614.72
+ },
+ {
+  "id": 386,
+  "museumId": 3,
+  "date": "2026-06-07",
+  "visitors": 3519,
+  "members": 706,
+  "revenue": 0.0
+ },
+ {
+  "id": 387,
+  "museumId": 1,
+  "date": "2026-06-08",
+  "visitors": 17284,
+  "members": 3693,
+  "revenue": 252792.6
+ },
+ {
+  "id": 388,
+  "museumId": 2,
+  "date": "2026-06-08",
+  "visitors": 5431,
+  "members": 1301,
+  "revenue": 81939.2
+ },
+ {
+  "id": 389,
+  "museumId": 1,
+  "date": "2026-06-09",
+  "visitors": 17061,
+  "members": 4003,
+  "revenue": 242878.8
+ },
+ {
+  "id": 390,
+  "museumId": 3,
+  "date": "2026-06-09",
+  "visitors": 2171,
+  "members": 558,
+  "revenue": 0.0
+ },
+ {
+  "id": 391,
+  "museumId": 3,
+  "date": "2026-06-10",
+  "visitors": 2672,
+  "members": 561,
+  "revenue": 0.0
+ },
+ {
+  "id": 392,
+  "museumId": 1,
+  "date": "2026-06-11",
+  "visitors": 16378,
+  "members": 3338,
+  "revenue": 242544.0
+ },
+ {
+  "id": 393,
+  "museumId": 2,
+  "date": "2026-06-11",
+  "visitors": 5251,
+  "members": 1052,
+  "revenue": 83308.16
+ },
+ {
+  "id": 394,
+  "museumId": 3,
+  "date": "2026-06-11",
+  "visitors": 2203,
+  "members": 466,
+  "revenue": 0.0
+ },
+ {
+  "id": 395,
+  "museumId": 1,
+  "date": "2026-06-12",
+  "visitors": 17875,
+  "members": 3921,
+  "revenue": 259544.4
+ },
+ {
+  "id": 396,
+  "museumId": 2,
+  "date": "2026-06-12",
+  "visitors": 5801,
+  "members": 1362,
+  "revenue": 88069.76
+ },
+ {
+  "id": 397,
+  "museumId": 3,
+  "date": "2026-06-12",
+  "visitors": 2880,
+  "members": 632,
+  "revenue": 0.0
+ },
+ {
+  "id": 398,
+  "museumId": 1,
+  "date": "2026-06-13",
+  "visitors": 25142,
+  "members": 6295,
+  "revenue": 350554.2
+ },
+ {
+  "id": 399,
+  "museumId": 2,
+  "date": "2026-06-13",
+  "visitors": 8559,
+  "members": 1992,
+  "revenue": 130289.28
+ },
+ {
+  "id": 400,
+  "museumId": 3,
+  "date": "2026-06-13",
+  "visitors": 3658,
+  "members": 942,
+  "revenue": 0.0
+ },
+ {
+  "id": 401,
+  "museumId": 1,
+  "date": "2026-06-14",
+  "visitors": 28422,
+  "members": 5136,
+  "revenue": 433119.6
+ },
+ {
+  "id": 402,
+  "museumId": 2,
+  "date": "2026-06-14",
+  "visitors": 7768,
+  "members": 1415,
+  "revenue": 126043.52
+ },
+ {
+  "id": 403,
+  "museumId": 3,
+  "date": "2026-06-14",
+  "visitors": 3101,
+  "members": 777,
+  "revenue": 0.0
+ },
+ {
+  "id": 404,
+  "museumId": 1,
+  "date": "2026-06-15",
+  "visitors": 20280,
+  "members": 4993,
+  "revenue": 284338.2
+ },
+ {
+  "id": 405,
+  "museumId": 2,
+  "date": "2026-06-15",
+  "visitors": 6026,
+  "members": 1553,
+  "revenue": 88744.32
+ },
+ {
+  "id": 406,
+  "museumId": 1,
+  "date": "2026-06-16",
+  "visitors": 18100,
+  "members": 4024,
+  "revenue": 261813.6
+ },
+ {
+  "id": 407,
+  "museumId": 3,
+  "date": "2026-06-16",
+  "visitors": 2604,
+  "members": 489,
+  "revenue": 0.0
+ },
+ {
+  "id": 408,
+  "museumId": 3,
+  "date": "2026-06-17",
+  "visitors": 2450,
+  "members": 481,
+  "revenue": 0.0
+ },
+ {
+  "id": 409,
+  "museumId": 1,
+  "date": "2026-06-18",
+  "visitors": 17193,
+  "members": 3567,
+  "revenue": 253443.6
+ },
+ {
+  "id": 410,
+  "museumId": 2,
+  "date": "2026-06-18",
+  "visitors": 5850,
+  "members": 1306,
+  "revenue": 90152.96
+ },
+ {
+  "id": 411,
+  "museumId": 3,
+  "date": "2026-06-18",
+  "visitors": 2906,
+  "members": 588,
+  "revenue": 0.0
+ },
+ {
+  "id": 412,
+  "museumId": 1,
+  "date": "2026-06-19",
+  "visitors": 20227,
+  "members": 3809,
+  "revenue": 305374.8
+ },
+ {
+  "id": 413,
+  "museumId": 2,
+  "date": "2026-06-19",
+  "visitors": 5264,
+  "members": 1069,
+  "revenue": 83228.8
+ },
+ {
+  "id": 414,
+  "museumId": 3,
+  "date": "2026-06-19",
+  "visitors": 2588,
+  "members": 634,
+  "revenue": 0.0
+ },
+ {
+  "id": 415,
+  "museumId": 1,
+  "date": "2026-06-20",
+  "visitors": 22437,
+  "members": 5755,
+  "revenue": 310285.2
+ },
+ {
+  "id": 416,
+  "museumId": 2,
+  "date": "2026-06-20",
+  "visitors": 8794,
+  "members": 1587,
+  "revenue": 142986.88
+ },
+ {
+  "id": 417,
+  "museumId": 3,
+  "date": "2026-06-20",
+  "visitors": 3644,
+  "members": 831,
+  "revenue": 0.0
+ },
+ {
+  "id": 418,
+  "museumId": 1,
+  "date": "2026-06-21",
+  "visitors": 21912,
+  "members": 5320,
+  "revenue": 308611.2
+ },
+ {
+  "id": 419,
+  "museumId": 2,
+  "date": "2026-06-21",
+  "visitors": 9001,
+  "members": 1930,
+  "revenue": 140288.64
+ },
+ {
+  "id": 420,
+  "museumId": 3,
+  "date": "2026-06-21",
+  "visitors": 3386,
+  "members": 702,
+  "revenue": 0.0
+ },
+ {
+  "id": 421,
+  "museumId": 1,
+  "date": "2026-06-22",
+  "visitors": 17587,
+  "members": 4418,
+  "revenue": 244943.4
+ },
+ {
+  "id": 422,
+  "museumId": 2,
+  "date": "2026-06-22",
+  "visitors": 5923,
+  "members": 1482,
+  "revenue": 88109.44
+ },
+ {
+  "id": 423,
+  "museumId": 1,
+  "date": "2026-06-23",
+  "visitors": 20063,
+  "members": 3988,
+  "revenue": 298995.0
+ },
+ {
+  "id": 424,
+  "museumId": 3,
+  "date": "2026-06-23",
+  "visitors": 2556,
+  "members": 552,
+  "revenue": 0.0
+ },
+ {
+  "id": 425,
+  "museumId": 3,
+  "date": "2026-06-24",
+  "visitors": 2458,
+  "members": 555,
+  "revenue": 0.0
+ },
+ {
+  "id": 426,
+  "museumId": 1,
+  "date": "2026-06-25",
+  "visitors": 16617,
+  "members": 3218,
+  "revenue": 249221.4
+ },
+ {
+  "id": 427,
+  "museumId": 2,
+  "date": "2026-06-25",
+  "visitors": 5011,
+  "members": 972,
+  "revenue": 80133.76
+ },
+ {
+  "id": 428,
+  "museumId": 3,
+  "date": "2026-06-25",
+  "visitors": 2456,
+  "members": 619,
+  "revenue": 0.0
+ },
+ {
+  "id": 429,
+  "museumId": 1,
+  "date": "2026-06-26",
+  "visitors": 21472,
+  "members": 5229,
+  "revenue": 302119.8
+ },
+ {
+  "id": 430,
+  "museumId": 2,
+  "date": "2026-06-26",
+  "visitors": 5519,
+  "members": 1165,
+  "revenue": 86383.36
+ },
+ {
+  "id": 431,
+  "museumId": 3,
+  "date": "2026-06-26",
+  "visitors": 2237,
+  "members": 548,
+  "revenue": 0.0
+ },
+ {
+  "id": 432,
+  "museumId": 1,
+  "date": "2026-06-27",
+  "visitors": 28145,
+  "members": 5897,
+  "revenue": 413812.8
+ },
+ {
+  "id": 433,
+  "museumId": 2,
+  "date": "2026-06-27",
+  "visitors": 8149,
+  "members": 2035,
+  "revenue": 121301.76
+ },
+ {
+  "id": 434,
+  "museumId": 3,
+  "date": "2026-06-27",
+  "visitors": 3637,
+  "members": 779,
+  "revenue": 0.0
+ },
+ {
+  "id": 435,
+  "museumId": 1,
+  "date": "2026-06-28",
+  "visitors": 25427,
+  "members": 5188,
+  "revenue": 376445.4
+ },
+ {
+  "id": 436,
+  "museumId": 2,
+  "date": "2026-06-28",
+  "visitors": 7785,
+  "members": 1804,
+  "revenue": 118663.04
+ },
+ {
+  "id": 437,
+  "museumId": 3,
+  "date": "2026-06-28",
+  "visitors": 3621,
+  "members": 788,
+  "revenue": 0.0
+ },
+ {
+  "id": 438,
+  "museumId": 1,
+  "date": "2026-06-29",
+  "visitors": 19687,
+  "members": 4484,
+  "revenue": 282775.8
+ },
+ {
+  "id": 439,
+  "museumId": 2,
+  "date": "2026-06-29",
+  "visitors": 5765,
+  "members": 1340,
+  "revenue": 87792.0
+ },
+ {
+  "id": 440,
+  "museumId": 1,
+  "date": "2026-06-30",
+  "visitors": 18581,
+  "members": 3885,
+  "revenue": 273345.6
+ },
+ {
+  "id": 441,
+  "museumId": 3,
+  "date": "2026-06-30",
+  "visitors": 2619,
+  "members": 514,
+  "revenue": 0.0
+ },
+ {
+  "id": 442,
+  "museumId": 3,
+  "date": "2026-07-01",
+  "visitors": 2360,
+  "members": 477,
+  "revenue": 0.0
+ },
+ {
+  "id": 443,
+  "museumId": 1,
+  "date": "2026-07-02",
+  "visitors": 18091,
+  "members": 4192,
+  "revenue": 258521.4
+ },
+ {
+  "id": 444,
+  "museumId": 2,
+  "date": "2026-07-02",
+  "visitors": 6198,
+  "members": 1297,
+  "revenue": 97235.84
+ },
+ {
+  "id": 445,
+  "museumId": 3,
+  "date": "2026-07-02",
+  "visitors": 2273,
+  "members": 533,
+  "revenue": 0.0
+ },
+ {
+  "id": 446,
+  "museumId": 1,
+  "date": "2026-07-03",
+  "visitors": 19241,
+  "members": 4977,
+  "revenue": 265310.4
+ },
+ {
+  "id": 447,
+  "museumId": 2,
+  "date": "2026-07-03",
+  "visitors": 6116,
+  "members": 1540,
+  "revenue": 90787.84
+ },
+ {
+  "id": 448,
+  "museumId": 3,
+  "date": "2026-07-03",
+  "visitors": 2261,
+  "members": 492,
+  "revenue": 0.0
+ },
+ {
+  "id": 449,
+  "museumId": 1,
+  "date": "2026-07-04",
+  "visitors": 25780,
+  "members": 6051,
+  "revenue": 366959.4
+ },
+ {
+  "id": 450,
+  "museumId": 2,
+  "date": "2026-07-04",
+  "visitors": 8177,
+  "members": 1776,
+  "revenue": 126995.84
+ },
+ {
+  "id": 451,
+  "museumId": 3,
+  "date": "2026-07-04",
+  "visitors": 2954,
+  "members": 564,
+  "revenue": 0.0
+ },
+ {
+  "id": 452,
+  "museumId": 1,
+  "date": "2026-07-05",
+  "visitors": 23985,
+  "members": 6009,
+  "revenue": 334353.6
+ },
+ {
+  "id": 453,
+  "museumId": 2,
+  "date": "2026-07-05",
+  "visitors": 6869,
+  "members": 1657,
+  "revenue": 103406.08
+ },
+ {
+  "id": 454,
+  "museumId": 3,
+  "date": "2026-07-05",
+  "visitors": 3590,
+  "members": 826,
+  "revenue": 0.0
+ },
+ {
+  "id": 455,
+  "museumId": 1,
+  "date": "2026-07-06",
+  "visitors": 16683,
+  "members": 3662,
+  "revenue": 242190.6
+ },
+ {
+  "id": 456,
+  "museumId": 2,
+  "date": "2026-07-06",
+  "visitors": 5657,
+  "members": 1059,
+  "revenue": 91224.32
+ },
+ {
+  "id": 457,
+  "museumId": 1,
+  "date": "2026-07-07",
+  "visitors": 17825,
+  "members": 4459,
+  "revenue": 248607.6
+ },
+ {
+  "id": 458,
+  "museumId": 3,
+  "date": "2026-07-07",
+  "visitors": 2341,
+  "members": 528,
+  "revenue": 0.0
+ },
+ {
+  "id": 459,
+  "museumId": 3,
+  "date": "2026-07-08",
+  "visitors": 2290,
+  "members": 580,
+  "revenue": 0.0
+ },
+ {
+  "id": 460,
+  "museumId": 1,
+  "date": "2026-07-09",
+  "visitors": 17769,
+  "members": 4249,
+  "revenue": 251472.0
+ },
+ {
+  "id": 461,
+  "museumId": 2,
+  "date": "2026-07-09",
+  "visitors": 6345,
+  "members": 1156,
+  "revenue": 102949.76
+ },
+ {
+  "id": 462,
+  "museumId": 3,
+  "date": "2026-07-09",
+  "visitors": 2724,
+  "members": 669,
+  "revenue": 0.0
+ },
+ {
+  "id": 463,
+  "museumId": 1,
+  "date": "2026-07-10",
+  "visitors": 21722,
+  "members": 5548,
+  "revenue": 300836.4
+ },
+ {
+  "id": 464,
+  "museumId": 2,
+  "date": "2026-07-10",
+  "visitors": 5234,
+  "members": 1249,
+  "revenue": 79062.4
+ },
+ {
+  "id": 465,
+  "museumId": 3,
+  "date": "2026-07-10",
+  "visitors": 2511,
+  "members": 525,
+  "revenue": 0.0
+ },
+ {
+  "id": 466,
+  "museumId": 1,
+  "date": "2026-07-11",
+  "visitors": 24162,
+  "members": 5417,
+  "revenue": 348657.0
+ },
+ {
+  "id": 467,
+  "museumId": 2,
+  "date": "2026-07-11",
+  "visitors": 7043,
+  "members": 1616,
+  "revenue": 107671.68
+ },
+ {
+  "id": 468,
+  "museumId": 3,
+  "date": "2026-07-11",
+  "visitors": 3056,
+  "members": 588,
+  "revenue": 0.0
+ },
+ {
+  "id": 469,
+  "museumId": 1,
+  "date": "2026-07-12",
+  "visitors": 29189,
+  "members": 7117,
+  "revenue": 410539.2
+ },
+ {
+  "id": 470,
+  "museumId": 2,
+  "date": "2026-07-12",
+  "visitors": 7302,
+  "members": 1814,
+  "revenue": 108881.92
+ },
+ {
+  "id": 471,
+  "museumId": 3,
+  "date": "2026-07-12",
+  "visitors": 3500,
+  "members": 897,
+  "revenue": 0.0
+ },
+ {
+  "id": 472,
+  "museumId": 1,
+  "date": "2026-07-13",
+  "visitors": 20107,
+  "members": 4303,
+  "revenue": 293954.4
+ },
+ {
+  "id": 473,
+  "museumId": 2,
+  "date": "2026-07-13",
+  "visitors": 5119,
+  "members": 944,
+  "revenue": 82832.0
+ },
+ {
+  "id": 474,
+  "museumId": 1,
+  "date": "2026-07-14",
+  "visitors": 20088,
+  "members": 3936,
+  "revenue": 300427.2
+ },
+ {
+  "id": 475,
+  "museumId": 3,
+  "date": "2026-07-14",
+  "visitors": 2896,
+  "members": 567,
+  "revenue": 0.0
+ },
+ {
+  "id": 476,
+  "museumId": 3,
+  "date": "2026-07-15",
+  "visitors": 2638,
+  "members": 479,
+  "revenue": 0.0
+ },
+ {
+  "id": 477,
+  "museumId": 1,
+  "date": "2026-07-16",
+  "visitors": 18294,
+  "members": 3483,
+  "revenue": 275484.6
+ },
+ {
+  "id": 478,
+  "museumId": 2,
+  "date": "2026-07-16",
+  "visitors": 6549,
+  "members": 1548,
+  "revenue": 99219.84
+ },
+ {
+  "id": 479,
+  "museumId": 3,
+  "date": "2026-07-16",
+  "visitors": 2742,
+  "members": 578,
+  "revenue": 0.0
+ },
+ {
+  "id": 480,
+  "museumId": 1,
+  "date": "2026-07-17",
+  "visitors": 16238,
+  "members": 4060,
+  "revenue": 226510.8
+ },
+ {
+  "id": 481,
+  "museumId": 2,
+  "date": "2026-07-17",
+  "visitors": 5625,
+  "members": 1383,
+  "revenue": 84161.28
+ },
+ {
+  "id": 482,
+  "museumId": 3,
+  "date": "2026-07-17",
+  "visitors": 2694,
+  "members": 671,
+  "revenue": 0.0
+ },
+ {
+  "id": 483,
+  "museumId": 1,
+  "date": "2026-07-18",
+  "visitors": 24548,
+  "members": 5516,
+  "revenue": 353995.2
+ },
+ {
+  "id": 484,
+  "museumId": 2,
+  "date": "2026-07-18",
+  "visitors": 7624,
+  "members": 1759,
+  "revenue": 116361.6
+ },
+ {
+  "id": 485,
+  "museumId": 3,
+  "date": "2026-07-18",
+  "visitors": 3617,
+  "members": 814,
+  "revenue": 0.0
+ },
+ {
+  "id": 486,
+  "museumId": 1,
+  "date": "2026-07-19",
+  "visitors": 28143,
+  "members": 6004,
+  "revenue": 411785.4
+ },
+ {
+  "id": 487,
+  "museumId": 2,
+  "date": "2026-07-19",
+  "visitors": 7899,
+  "members": 1959,
+  "revenue": 117849.6
+ },
+ {
+  "id": 488,
+  "museumId": 3,
+  "date": "2026-07-19",
+  "visitors": 3939,
+  "members": 976,
+  "revenue": 0.0
+ },
+ {
+  "id": 489,
+  "museumId": 1,
+  "date": "2026-07-20",
+  "visitors": 17567,
+  "members": 3786,
+  "revenue": 256326.6
+ },
+ {
+  "id": 490,
+  "museumId": 2,
+  "date": "2026-07-20",
+  "visitors": 5624,
+  "members": 1361,
+  "revenue": 84577.92
+ },
+ {
+  "id": 491,
+  "museumId": 1,
+  "date": "2026-07-21",
+  "visitors": 18456,
+  "members": 4776,
+  "revenue": 254448.0
+ },
+ {
+  "id": 492,
+  "museumId": 3,
+  "date": "2026-07-21",
+  "visitors": 2909,
+  "members": 691,
+  "revenue": 0.0
+ },
+ {
+  "id": 493,
+  "museumId": 3,
+  "date": "2026-07-22",
+  "visitors": 2750,
+  "members": 588,
+  "revenue": 0.0
+ },
+ {
+  "id": 494,
+  "museumId": 1,
+  "date": "2026-07-23",
+  "visitors": 18249,
+  "members": 4688,
+  "revenue": 252234.6
+ },
+ {
+  "id": 495,
+  "museumId": 2,
+  "date": "2026-07-23",
+  "visitors": 6585,
+  "members": 1462,
+  "revenue": 101640.32
+ },
+ {
+  "id": 496,
+  "museumId": 3,
+  "date": "2026-07-23",
+  "visitors": 2348,
+  "members": 595,
+  "revenue": 0.0
+ },
+ {
+  "id": 497,
+  "museumId": 1,
+  "date": "2026-07-24",
+  "visitors": 18246,
+  "members": 3863,
+  "revenue": 267523.8
+ },
+ {
+  "id": 498,
+  "museumId": 2,
+  "date": "2026-07-24",
+  "visitors": 6229,
+  "members": 1217,
+  "revenue": 99438.08
+ },
+ {
+  "id": 499,
+  "museumId": 3,
+  "date": "2026-07-24",
+  "visitors": 2872,
+  "members": 572,
+  "revenue": 0.0
+ },
+ {
+  "id": 500,
+  "museumId": 1,
+  "date": "2026-07-25",
+  "visitors": 23859,
+  "members": 5692,
+  "revenue": 337906.2
+ },
+ {
+  "id": 501,
+  "museumId": 2,
+  "date": "2026-07-25",
+  "visitors": 6912,
+  "members": 1280,
+  "revenue": 111738.88
+ },
+ {
+  "id": 502,
+  "museumId": 3,
+  "date": "2026-07-25",
+  "visitors": 3736,
+  "members": 693,
+  "revenue": 0.0
+ },
+ {
+  "id": 503,
+  "museumId": 1,
+  "date": "2026-07-26",
+  "visitors": 21565,
+  "members": 4945,
+  "revenue": 309132.0
+ },
+ {
+  "id": 504,
+  "museumId": 2,
+  "date": "2026-07-26",
+  "visitors": 7250,
+  "members": 1712,
+  "revenue": 109873.92
+ },
+ {
+  "id": 505,
+  "museumId": 3,
+  "date": "2026-07-26",
+  "visitors": 3346,
+  "members": 858,
+  "revenue": 0.0
+ },
+ {
+  "id": 506,
+  "museumId": 1,
+  "date": "2026-07-27",
+  "visitors": 17965,
+  "members": 4148,
+  "revenue": 256996.2
+ },
+ {
+  "id": 507,
+  "museumId": 2,
+  "date": "2026-07-27",
+  "visitors": 5787,
+  "members": 1235,
+  "revenue": 90311.68
+ },
+ {
+  "id": 508,
+  "museumId": 1,
+  "date": "2026-07-28",
+  "visitors": 20447,
+  "members": 4115,
+  "revenue": 303775.2
+ },
+ {
+  "id": 509,
+  "museumId": 3,
+  "date": "2026-07-28",
+  "visitors": 2679,
+  "members": 665,
+  "revenue": 0.0
+ },
+ {
+  "id": 510,
+  "museumId": 3,
+  "date": "2026-07-29",
+  "visitors": 2849,
+  "members": 636,
+  "revenue": 0.0
+ },
+ {
+  "id": 511,
+  "museumId": 1,
+  "date": "2026-07-30",
+  "visitors": 21071,
+  "members": 5065,
+  "revenue": 297711.6
+ },
+ {
+  "id": 512,
+  "museumId": 2,
+  "date": "2026-07-30",
+  "visitors": 6202,
+  "members": 1508,
+  "revenue": 93128.96
+ },
+ {
+  "id": 513,
+  "museumId": 3,
+  "date": "2026-07-30",
+  "visitors": 2595,
+  "members": 559,
+  "revenue": 0.0
+ },
+ {
+  "id": 514,
+  "museumId": 1,
+  "date": "2026-07-31",
+  "visitors": 17019,
+  "members": 3270,
+  "revenue": 255731.4
+ },
+ {
+  "id": 515,
+  "museumId": 2,
+  "date": "2026-07-31",
+  "visitors": 5257,
+  "members": 973,
+  "revenue": 84994.56
+ },
+ {
+  "id": 516,
+  "museumId": 3,
+  "date": "2026-07-31",
+  "visitors": 2450,
+  "members": 474,
+  "revenue": 0.0
+ },
+ {
+  "id": 517,
+  "museumId": 1,
+  "date": "2026-08-01",
+  "visitors": 23705,
+  "members": 4924,
+  "revenue": 349326.6
+ },
+ {
+  "id": 518,
+  "museumId": 2,
+  "date": "2026-08-01",
+  "visitors": 7786,
+  "members": 1588,
+  "revenue": 122968.32
+ },
+ {
+  "id": 519,
+  "museumId": 3,
+  "date": "2026-08-01",
+  "visitors": 3602,
+  "members": 859,
+  "revenue": 0.0
+ },
+ {
+  "id": 520,
+  "museumId": 1,
+  "date": "2026-08-02",
+  "visitors": 24704,
+  "members": 6337,
+  "revenue": 341626.2
+ },
+ {
+  "id": 521,
+  "museumId": 2,
+  "date": "2026-08-02",
+  "visitors": 8041,
+  "members": 1594,
+  "revenue": 127908.48
+ },
+ {
+  "id": 522,
+  "museumId": 3,
+  "date": "2026-08-02",
+  "visitors": 3547,
+  "members": 901,
+  "revenue": 0.0
+ },
+ {
+  "id": 523,
+  "museumId": 1,
+  "date": "2026-08-03",
+  "visitors": 18047,
+  "members": 4673,
+  "revenue": 248756.4
+ },
+ {
+  "id": 524,
+  "museumId": 2,
+  "date": "2026-08-03",
+  "visitors": 6361,
+  "members": 1415,
+  "revenue": 98128.64
+ },
+ {
+  "id": 525,
+  "museumId": 1,
+  "date": "2026-08-04",
+  "visitors": 17545,
+  "members": 4343,
+  "revenue": 245557.2
+ },
+ {
+  "id": 526,
+  "museumId": 3,
+  "date": "2026-08-04",
+  "visitors": 2875,
+  "members": 697,
+  "revenue": 0.0
+ },
+ {
+  "id": 527,
+  "museumId": 3,
+  "date": "2026-08-05",
+  "visitors": 2221,
+  "members": 523,
+  "revenue": 0.0
+ },
+ {
+  "id": 528,
+  "museumId": 1,
+  "date": "2026-08-06",
+  "visitors": 16272,
+  "members": 3344,
+  "revenue": 240460.8
+ },
+ {
+  "id": 529,
+  "museumId": 2,
+  "date": "2026-08-06",
+  "visitors": 6331,
+  "members": 1432,
+  "revenue": 97196.16
+ },
+ {
+  "id": 530,
+  "museumId": 3,
+  "date": "2026-08-06",
+  "visitors": 2348,
+  "members": 483,
+  "revenue": 0.0
+ },
+ {
+  "id": 531,
+  "museumId": 1,
+  "date": "2026-08-07",
+  "visitors": 17609,
+  "members": 3176,
+  "revenue": 268453.8
+ },
+ {
+  "id": 532,
+  "museumId": 2,
+  "date": "2026-08-07",
+  "visitors": 6407,
+  "members": 1417,
+  "revenue": 99001.6
+ },
+ {
+  "id": 533,
+  "museumId": 3,
+  "date": "2026-08-07",
+  "visitors": 2541,
+  "members": 498,
+  "revenue": 0.0
+ },
+ {
+  "id": 534,
+  "museumId": 1,
+  "date": "2026-08-08",
+  "visitors": 23001,
+  "members": 5564,
+  "revenue": 324328.2
+ },
+ {
+  "id": 535,
+  "museumId": 2,
+  "date": "2026-08-08",
+  "visitors": 7760,
+  "members": 1854,
+  "revenue": 117175.04
+ },
+ {
+  "id": 536,
+  "museumId": 3,
+  "date": "2026-08-08",
+  "visitors": 3650,
+  "members": 830,
+  "revenue": 0.0
+ },
+ {
+  "id": 537,
+  "museumId": 1,
+  "date": "2026-08-09",
+  "visitors": 23761,
+  "members": 4578,
+  "revenue": 356803.8
+ },
+ {
+  "id": 538,
+  "museumId": 2,
+  "date": "2026-08-09",
+  "visitors": 6831,
+  "members": 1689,
+  "revenue": 102017.28
+ },
+ {
+  "id": 539,
+  "museumId": 3,
+  "date": "2026-08-09",
+  "visitors": 3851,
+  "members": 859,
+  "revenue": 0.0
+ },
+ {
+  "id": 540,
+  "museumId": 1,
+  "date": "2026-08-10",
+  "visitors": 16318,
+  "members": 3897,
+  "revenue": 231030.6
+ },
+ {
+  "id": 541,
+  "museumId": 2,
+  "date": "2026-08-10",
+  "visitors": 5973,
+  "members": 1127,
+  "revenue": 96144.64
+ },
+ {
+  "id": 542,
+  "museumId": 1,
+  "date": "2026-08-11",
+  "visitors": 19222,
+  "members": 4806,
+  "revenue": 268137.6
+ },
+ {
+  "id": 543,
+  "museumId": 3,
+  "date": "2026-08-11",
+  "visitors": 2269,
+  "members": 454,
+  "revenue": 0.0
+ },
+ {
+  "id": 544,
+  "museumId": 3,
+  "date": "2026-08-12",
+  "visitors": 2793,
+  "members": 607,
+  "revenue": 0.0
+ },
+ {
+  "id": 545,
+  "museumId": 1,
+  "date": "2026-08-13",
+  "visitors": 18413,
+  "members": 4605,
+  "revenue": 256828.8
+ },
+ {
+  "id": 546,
+  "museumId": 2,
+  "date": "2026-08-13",
+  "visitors": 6119,
+  "members": 1282,
+  "revenue": 95966.08
+ },
+ {
+  "id": 547,
+  "museumId": 3,
+  "date": "2026-08-13",
+  "visitors": 2440,
+  "members": 532,
+  "revenue": 0.0
+ },
+ {
+  "id": 548,
+  "museumId": 1,
+  "date": "2026-08-14",
+  "visitors": 18083,
+  "members": 3613,
+  "revenue": 269142.0
+ },
+ {
+  "id": 549,
+  "museumId": 2,
+  "date": "2026-08-14",
+  "visitors": 6046,
+  "members": 1112,
+  "revenue": 97890.56
+ },
+ {
+  "id": 550,
+  "museumId": 3,
+  "date": "2026-08-14",
+  "visitors": 2811,
+  "members": 547,
+  "revenue": 0.0
+ },
+ {
+  "id": 551,
+  "museumId": 1,
+  "date": "2026-08-15",
+  "visitors": 27576,
+  "members": 5785,
+  "revenue": 405312.6
+ },
+ {
+  "id": 552,
+  "museumId": 2,
+  "date": "2026-08-15",
+  "visitors": 7668,
+  "members": 1866,
+  "revenue": 115111.68
+ },
+ {
+  "id": 553,
+  "museumId": 3,
+  "date": "2026-08-15",
+  "visitors": 2879,
+  "members": 635,
+  "revenue": 0.0
+ },
+ {
+  "id": 554,
+  "museumId": 1,
+  "date": "2026-08-16",
+  "visitors": 22836,
+  "members": 5488,
+  "revenue": 322672.8
+ },
+ {
+  "id": 555,
+  "museumId": 2,
+  "date": "2026-08-16",
+  "visitors": 8422,
+  "members": 1753,
+  "revenue": 132312.96
+ },
+ {
+  "id": 556,
+  "museumId": 3,
+  "date": "2026-08-16",
+  "visitors": 3199,
+  "members": 609,
+  "revenue": 0.0
+ },
+ {
+  "id": 557,
+  "museumId": 1,
+  "date": "2026-08-17",
+  "visitors": 16086,
+  "members": 3703,
+  "revenue": 230323.8
+ },
+ {
+  "id": 558,
+  "museumId": 2,
+  "date": "2026-08-17",
+  "visitors": 6101,
+  "members": 1252,
+  "revenue": 96204.16
+ },
+ {
+  "id": 559,
+  "museumId": 1,
+  "date": "2026-08-18",
+  "visitors": 19460,
+  "members": 3944,
+  "revenue": 288597.6
+ },
+ {
+  "id": 560,
+  "museumId": 3,
+  "date": "2026-08-18",
+  "visitors": 2801,
+  "members": 715,
+  "revenue": 0.0
+ },
+ {
+  "id": 561,
+  "museumId": 3,
+  "date": "2026-08-19",
+  "visitors": 2224,
+  "members": 496,
+  "revenue": 0.0
+ },
+ {
+  "id": 562,
+  "museumId": 1,
+  "date": "2026-08-20",
+  "visitors": 17318,
+  "members": 3139,
+  "revenue": 263729.4
+ },
+ {
+  "id": 563,
+  "museumId": 2,
+  "date": "2026-08-20",
+  "visitors": 6046,
+  "members": 1159,
+  "revenue": 96958.08
+ },
+ {
+  "id": 564,
+  "museumId": 3,
+  "date": "2026-08-20",
+  "visitors": 2566,
+  "members": 582,
+  "revenue": 0.0
+ },
+ {
+  "id": 565,
+  "museumId": 1,
+  "date": "2026-08-21",
+  "visitors": 18969,
+  "members": 4120,
+  "revenue": 276191.4
+ },
+ {
+  "id": 566,
+  "museumId": 2,
+  "date": "2026-08-21",
+  "visitors": 4808,
+  "members": 1173,
+  "revenue": 72118.4
+ },
+ {
+  "id": 567,
+  "museumId": 3,
+  "date": "2026-08-21",
+  "visitors": 2320,
+  "members": 491,
+  "revenue": 0.0
+ },
+ {
+  "id": 568,
+  "museumId": 1,
+  "date": "2026-08-22",
+  "visitors": 26288,
+  "members": 6632,
+  "revenue": 365601.6
+ },
+ {
+  "id": 569,
+  "museumId": 2,
+  "date": "2026-08-22",
+  "visitors": 8053,
+  "members": 1884,
+  "revenue": 122392.96
+ },
+ {
+  "id": 570,
+  "museumId": 3,
+  "date": "2026-08-22",
+  "visitors": 3108,
+  "members": 604,
+  "revenue": 0.0
+ },
+ {
+  "id": 571,
+  "museumId": 1,
+  "date": "2026-08-23",
+  "visitors": 25814,
+  "members": 5095,
+  "revenue": 385373.4
+ },
+ {
+  "id": 572,
+  "museumId": 2,
+  "date": "2026-08-23",
+  "visitors": 7559,
+  "members": 1874,
+  "revenue": 112790.4
+ },
+ {
+  "id": 573,
+  "museumId": 3,
+  "date": "2026-08-23",
+  "visitors": 2953,
+  "members": 641,
+  "revenue": 0.0
+ },
+ {
+  "id": 574,
+  "museumId": 1,
+  "date": "2026-08-24",
+  "visitors": 16578,
+  "members": 3631,
+  "revenue": 240814.2
+ },
+ {
+  "id": 575,
+  "museumId": 2,
+  "date": "2026-08-24",
+  "visitors": 6196,
+  "members": 1196,
+  "revenue": 99200.0
+ },
+ {
+  "id": 576,
+  "museumId": 1,
+  "date": "2026-08-25",
+  "visitors": 20420,
+  "members": 4066,
+  "revenue": 304184.4
+ },
+ {
+  "id": 577,
+  "museumId": 3,
+  "date": "2026-08-25",
+  "visitors": 2349,
+  "members": 424,
+  "revenue": 0.0
+ },
+ {
+  "id": 578,
+  "museumId": 3,
+  "date": "2026-08-26",
+  "visitors": 2263,
+  "members": 540,
+  "revenue": 0.0
+ },
+ {
+  "id": 579,
+  "museumId": 1,
+  "date": "2026-08-27",
+  "visitors": 18943,
+  "members": 3718,
+  "revenue": 283185.0
+ },
+ {
+  "id": 580,
+  "museumId": 2,
+  "date": "2026-08-27",
+  "visitors": 5919,
+  "members": 1444,
+  "revenue": 88784.0
+ },
+ {
+  "id": 581,
+  "museumId": 3,
+  "date": "2026-08-27",
+  "visitors": 2687,
+  "members": 602,
+  "revenue": 0.0
+ },
+ {
+  "id": 582,
+  "museumId": 1,
+  "date": "2026-08-28",
+  "visitors": 20203,
+  "members": 5196,
+  "revenue": 279130.2
+ },
+ {
+  "id": 583,
+  "museumId": 2,
+  "date": "2026-08-28",
+  "visitors": 5555,
+  "members": 1092,
+  "revenue": 88545.92
+ },
+ {
+  "id": 584,
+  "museumId": 3,
+  "date": "2026-08-28",
+  "visitors": 2312,
+  "members": 552,
+  "revenue": 0.0
+ },
+ {
+  "id": 585,
+  "museumId": 1,
+  "date": "2026-08-29",
+  "visitors": 26350,
+  "members": 6407,
+  "revenue": 370939.8
+ },
+ {
+  "id": 586,
+  "museumId": 2,
+  "date": "2026-08-29",
+  "visitors": 7863,
+  "members": 1717,
+  "revenue": 121936.64
+ },
+ {
+  "id": 587,
+  "museumId": 3,
+  "date": "2026-08-29",
+  "visitors": 3486,
+  "members": 847,
+  "revenue": 0.0
+ },
+ {
+  "id": 588,
+  "museumId": 1,
+  "date": "2026-08-30",
+  "visitors": 23754,
+  "members": 5821,
+  "revenue": 333553.8
+ },
+ {
+  "id": 589,
+  "museumId": 2,
+  "date": "2026-08-30",
+  "visitors": 7204,
+  "members": 1842,
+  "revenue": 106382.08
+ },
+ {
+  "id": 590,
+  "museumId": 3,
+  "date": "2026-08-30",
+  "visitors": 2883,
+  "members": 647,
+  "revenue": 0.0
+ },
+ {
+  "id": 591,
+  "museumId": 1,
+  "date": "2026-08-31",
+  "visitors": 18513,
+  "members": 4453,
+  "revenue": 261516.0
+ },
+ {
+  "id": 592,
+  "museumId": 2,
+  "date": "2026-08-31",
+  "visitors": 4858,
+  "members": 1250,
+  "revenue": 71582.72
+ },
+ {
+  "id": 593,
+  "museumId": 1,
+  "date": "2026-09-01",
+  "visitors": 18085,
+  "members": 4499,
+  "revenue": 252699.6
+ },
+ {
+  "id": 594,
+  "museumId": 3,
+  "date": "2026-09-01",
+  "visitors": 2629,
+  "members": 478,
+  "revenue": 0.0
+ },
+ {
+  "id": 595,
+  "museumId": 3,
+  "date": "2026-09-02",
+  "visitors": 2433,
+  "members": 561,
+  "revenue": 0.0
+ },
+ {
+  "id": 596,
+  "museumId": 1,
+  "date": "2026-09-03",
+  "visitors": 18133,
+  "members": 3403,
+  "revenue": 273978.0
+ },
+ {
+  "id": 597,
+  "museumId": 2,
+  "date": "2026-09-03",
+  "visitors": 5357,
+  "members": 1010,
+  "revenue": 86244.48
+ },
+ {
+  "id": 598,
+  "museumId": 3,
+  "date": "2026-09-03",
+  "visitors": 2202,
+  "members": 486,
+  "revenue": 0.0
+ },
+ {
+  "id": 599,
+  "museumId": 1,
+  "date": "2026-09-04",
+  "visitors": 17388,
+  "members": 4280,
+  "revenue": 243808.8
+ },
+ {
+  "id": 600,
+  "museumId": 2,
+  "date": "2026-09-04",
+  "visitors": 5621,
+  "members": 1419,
+  "revenue": 83367.68
+ },
+ {
+  "id": 601,
+  "museumId": 3,
+  "date": "2026-09-04",
+  "visitors": 2286,
+  "members": 549,
+  "revenue": 0.0
+ },
+ {
+  "id": 602,
+  "museumId": 1,
+  "date": "2026-09-05",
+  "visitors": 20403,
+  "members": 4223,
+  "revenue": 300948.0
+ },
+ {
+  "id": 603,
+  "museumId": 2,
+  "date": "2026-09-05",
+  "visitors": 7741,
+  "members": 1845,
+  "revenue": 116976.64
+ },
+ {
+  "id": 604,
+  "museumId": 3,
+  "date": "2026-09-05",
+  "visitors": 2707,
+  "members": 703,
+  "revenue": 0.0
+ },
+ {
+  "id": 605,
+  "museumId": 1,
+  "date": "2026-09-06",
+  "visitors": 22182,
+  "members": 4132,
+  "revenue": 335730.0
+ },
+ {
+  "id": 606,
+  "museumId": 2,
+  "date": "2026-09-06",
+  "visitors": 6669,
+  "members": 1268,
+  "revenue": 107155.84
+ },
+ {
+  "id": 607,
+  "museumId": 3,
+  "date": "2026-09-06",
+  "visitors": 3614,
+  "members": 886,
+  "revenue": 0.0
+ },
+ {
+  "id": 608,
+  "museumId": 1,
+  "date": "2026-09-07",
+  "visitors": 15687,
+  "members": 3660,
+  "revenue": 223702.2
+ },
+ {
+  "id": 609,
+  "museumId": 2,
+  "date": "2026-09-07",
+  "visitors": 5698,
+  "members": 1203,
+  "revenue": 89180.8
+ },
+ {
+  "id": 610,
+  "museumId": 1,
+  "date": "2026-09-08",
+  "visitors": 16400,
+  "members": 3499,
+  "revenue": 239958.6
+ },
+ {
+  "id": 611,
+  "museumId": 3,
+  "date": "2026-09-08",
+  "visitors": 2352,
+  "members": 562,
+  "revenue": 0.0
+ },
+ {
+  "id": 612,
+  "museumId": 3,
+  "date": "2026-09-09",
+  "visitors": 2068,
+  "members": 492,
+  "revenue": 0.0
+ },
+ {
+  "id": 613,
+  "museumId": 1,
+  "date": "2026-09-10",
+  "visitors": 18841,
+  "members": 4769,
+  "revenue": 261739.2
+ },
+ {
+  "id": 614,
+  "museumId": 2,
+  "date": "2026-09-10",
+  "visitors": 4862,
+  "members": 1060,
+  "revenue": 75431.68
+ },
+ {
+  "id": 615,
+  "museumId": 3,
+  "date": "2026-09-10",
+  "visitors": 2003,
+  "members": 421,
+  "revenue": 0.0
+ },
+ {
+  "id": 616,
+  "museumId": 1,
+  "date": "2026-09-11",
+  "visitors": 19605,
+  "members": 5018,
+  "revenue": 271318.2
+ },
+ {
+  "id": 617,
+  "museumId": 2,
+  "date": "2026-09-11",
+  "visitors": 5796,
+  "members": 1422,
+  "revenue": 86780.16
+ },
+ {
+  "id": 618,
+  "museumId": 3,
+  "date": "2026-09-11",
+  "visitors": 2430,
+  "members": 525,
+  "revenue": 0.0
+ },
+ {
+  "id": 619,
+  "museumId": 1,
+  "date": "2026-09-12",
+  "visitors": 21820,
+  "members": 5087,
+  "revenue": 311233.8
+ },
+ {
+  "id": 620,
+  "museumId": 2,
+  "date": "2026-09-12",
+  "visitors": 7045,
+  "members": 1822,
+  "revenue": 103624.32
+ },
+ {
+  "id": 621,
+  "museumId": 3,
+  "date": "2026-09-12",
+  "visitors": 2681,
+  "members": 656,
+  "revenue": 0.0
+ },
+ {
+  "id": 622,
+  "museumId": 1,
+  "date": "2026-09-13",
+  "visitors": 24428,
+  "members": 5289,
+  "revenue": 355985.4
+ },
+ {
+  "id": 623,
+  "museumId": 2,
+  "date": "2026-09-13",
+  "visitors": 7740,
+  "members": 2010,
+  "revenue": 113683.2
+ },
+ {
+  "id": 624,
+  "museumId": 3,
+  "date": "2026-09-13",
+  "visitors": 2850,
+  "members": 642,
+  "revenue": 0.0
+ },
+ {
+  "id": 625,
+  "museumId": 1,
+  "date": "2026-09-14",
+  "visitors": 14851,
+  "members": 3844,
+  "revenue": 204730.2
+ },
+ {
+  "id": 626,
+  "museumId": 2,
+  "date": "2026-09-14",
+  "visitors": 5117,
+  "members": 1198,
+  "revenue": 77752.96
+ },
+ {
+  "id": 627,
+  "museumId": 1,
+  "date": "2026-09-15",
+  "visitors": 17125,
+  "members": 3704,
+  "revenue": 249630.6
+ },
+ {
+  "id": 628,
+  "museumId": 3,
+  "date": "2026-09-15",
+  "visitors": 2578,
+  "members": 632,
+  "revenue": 0.0
+ },
+ {
+  "id": 629,
+  "museumId": 3,
+  "date": "2026-09-16",
+  "visitors": 2121,
+  "members": 414,
+  "revenue": 0.0
+ },
+ {
+  "id": 630,
+  "museumId": 1,
+  "date": "2026-09-17",
+  "visitors": 15267,
+  "members": 3557,
+  "revenue": 217806.0
+ },
+ {
+  "id": 631,
+  "museumId": 2,
+  "date": "2026-09-17",
+  "visitors": 4976,
+  "members": 1219,
+  "revenue": 74538.88
+ },
+ {
+  "id": 632,
+  "museumId": 3,
+  "date": "2026-09-17",
+  "visitors": 2081,
+  "members": 448,
+  "revenue": 0.0
+ },
+ {
+  "id": 633,
+  "museumId": 1,
+  "date": "2026-09-18",
+  "visitors": 17455,
+  "members": 3440,
+  "revenue": 260679.0
+ },
+ {
+  "id": 634,
+  "museumId": 2,
+  "date": "2026-09-18",
+  "visitors": 5764,
+  "members": 1449,
+  "revenue": 85609.6
+ },
+ {
+  "id": 635,
+  "museumId": 3,
+  "date": "2026-09-18",
+  "visitors": 1984,
+  "members": 366,
+  "revenue": 0.0
+ },
+ {
+  "id": 636,
+  "museumId": 1,
+  "date": "2026-09-19",
+  "visitors": 25621,
+  "members": 5767,
+  "revenue": 369284.4
+ },
+ {
+  "id": 637,
+  "museumId": 2,
+  "date": "2026-09-19",
+  "visitors": 7749,
+  "members": 1460,
+  "revenue": 124773.76
+ },
+ {
+  "id": 638,
+  "museumId": 3,
+  "date": "2026-09-19",
+  "visitors": 3062,
+  "members": 572,
+  "revenue": 0.0
+ },
+ {
+  "id": 639,
+  "museumId": 1,
+  "date": "2026-09-20",
+  "visitors": 20177,
+  "members": 4646,
+  "revenue": 288876.6
+ },
+ {
+  "id": 640,
+  "museumId": 2,
+  "date": "2026-09-20",
+  "visitors": 7259,
+  "members": 1565,
+  "revenue": 112968.96
+ },
+ {
+  "id": 641,
+  "museumId": 3,
+  "date": "2026-09-20",
+  "visitors": 3128,
+  "members": 755,
+  "revenue": 0.0
+ },
+ {
+  "id": 642,
+  "museumId": 1,
+  "date": "2026-09-21",
+  "visitors": 17900,
+  "members": 3270,
+  "revenue": 272118.0
+ },
+ {
+  "id": 643,
+  "museumId": 2,
+  "date": "2026-09-21",
+  "visitors": 5309,
+  "members": 965,
+  "revenue": 86184.96
+ },
+ {
+  "id": 644,
+  "museumId": 1,
+  "date": "2026-09-22",
+  "visitors": 16683,
+  "members": 3663,
+  "revenue": 242172.0
+ },
+ {
+  "id": 645,
+  "museumId": 3,
+  "date": "2026-09-22",
+  "visitors": 2474,
+  "members": 608,
+  "revenue": 0.0
+ },
+ {
+  "id": 646,
+  "museumId": 3,
+  "date": "2026-09-23",
+  "visitors": 2333,
+  "members": 454,
+  "revenue": 0.0
+ },
+ {
+  "id": 647,
+  "museumId": 1,
+  "date": "2026-09-24",
+  "visitors": 15836,
+  "members": 3437,
+  "revenue": 230621.4
+ },
+ {
+  "id": 648,
+  "museumId": 2,
+  "date": "2026-09-24",
+  "visitors": 4710,
+  "members": 1206,
+  "revenue": 69519.36
+ },
+ {
+  "id": 649,
+  "museumId": 3,
+  "date": "2026-09-24",
+  "visitors": 2174,
+  "members": 410,
+  "revenue": 0.0
+ },
+ {
+  "id": 650,
+  "museumId": 1,
+  "date": "2026-09-25",
+  "visitors": 16805,
+  "members": 3479,
+  "revenue": 247863.6
+ },
+ {
+  "id": 651,
+  "museumId": 2,
+  "date": "2026-09-25",
+  "visitors": 5584,
+  "members": 1139,
+  "revenue": 88188.8
+ },
+ {
+  "id": 652,
+  "museumId": 3,
+  "date": "2026-09-25",
+  "visitors": 1902,
+  "members": 376,
+  "revenue": 0.0
+ },
+ {
+  "id": 653,
+  "museumId": 1,
+  "date": "2026-09-26",
+  "visitors": 22176,
+  "members": 4665,
+  "revenue": 325704.6
+ },
+ {
+  "id": 654,
+  "museumId": 2,
+  "date": "2026-09-26",
+  "visitors": 7512,
+  "members": 1786,
+  "revenue": 113603.84
+ },
+ {
+  "id": 655,
+  "museumId": 3,
+  "date": "2026-09-26",
+  "visitors": 3005,
+  "members": 578,
+  "revenue": 0.0
+ },
+ {
+  "id": 656,
+  "museumId": 1,
+  "date": "2026-09-27",
+  "visitors": 20414,
+  "members": 4329,
+  "revenue": 299181.0
+ },
+ {
+  "id": 657,
+  "museumId": 2,
+  "date": "2026-09-27",
+  "visitors": 7038,
+  "members": 1397,
+  "revenue": 111917.44
+ },
+ {
+  "id": 658,
+  "museumId": 3,
+  "date": "2026-09-27",
+  "visitors": 3132,
+  "members": 703,
+  "revenue": 0.0
+ },
+ {
+  "id": 659,
+  "museumId": 1,
+  "date": "2026-09-28",
+  "visitors": 15026,
+  "members": 2979,
+  "revenue": 224074.2
+ },
+ {
+  "id": 660,
+  "museumId": 2,
+  "date": "2026-09-28",
+  "visitors": 4520,
+  "members": 911,
+  "revenue": 71602.56
+ },
+ {
+  "id": 661,
+  "museumId": 1,
+  "date": "2026-09-29",
+  "visitors": 17449,
+  "members": 4292,
+  "revenue": 244720.2
+ },
+ {
+  "id": 662,
+  "museumId": 3,
+  "date": "2026-09-29",
+  "visitors": 1896,
+  "members": 404,
+  "revenue": 0.0
+ },
+ {
+  "id": 663,
+  "museumId": 3,
+  "date": "2026-09-30",
+  "visitors": 2178,
+  "members": 494,
+  "revenue": 0.0
+ },
+ {
+  "id": 664,
+  "museumId": 1,
+  "date": "2026-10-01",
+  "visitors": 17831,
+  "members": 4265,
+  "revenue": 252327.6
+ },
+ {
+  "id": 665,
+  "museumId": 2,
+  "date": "2026-10-01",
+  "visitors": 5295,
+  "members": 1071,
+  "revenue": 83804.16
+ },
+ {
+  "id": 666,
+  "museumId": 3,
+  "date": "2026-10-01",
+  "visitors": 2311,
+  "members": 554,
+  "revenue": 0.0
+ },
+ {
+  "id": 667,
+  "museumId": 1,
+  "date": "2026-10-02",
+  "visitors": 15100,
+  "members": 3652,
+  "revenue": 212932.8
+ },
+ {
+  "id": 668,
+  "museumId": 2,
+  "date": "2026-10-02",
+  "visitors": 4679,
+  "members": 1172,
+  "revenue": 69578.88
+ },
+ {
+  "id": 669,
+  "museumId": 3,
+  "date": "2026-10-02",
+  "visitors": 2321,
+  "members": 488,
+  "revenue": 0.0
+ },
+ {
+  "id": 670,
+  "museumId": 1,
+  "date": "2026-10-03",
+  "visitors": 22625,
+  "members": 5572,
+  "revenue": 317185.8
+ },
+ {
+  "id": 671,
+  "museumId": 2,
+  "date": "2026-10-03",
+  "visitors": 6800,
+  "members": 1693,
+  "revenue": 101322.88
+ },
+ {
+  "id": 672,
+  "museumId": 3,
+  "date": "2026-10-03",
+  "visitors": 2889,
+  "members": 697,
+  "revenue": 0.0
+ },
+ {
+  "id": 673,
+  "museumId": 1,
+  "date": "2026-10-04",
+  "visitors": 21614,
+  "members": 4753,
+  "revenue": 313614.6
+ },
+ {
+  "id": 674,
+  "museumId": 2,
+  "date": "2026-10-04",
+  "visitors": 7511,
+  "members": 1942,
+  "revenue": 110488.96
+ },
+ {
+  "id": 675,
+  "museumId": 3,
+  "date": "2026-10-04",
+  "visitors": 2529,
+  "members": 585,
+  "revenue": 0.0
+ },
+ {
+  "id": 676,
+  "museumId": 1,
+  "date": "2026-10-05",
+  "visitors": 17960,
+  "members": 4274,
+  "revenue": 254559.6
+ },
+ {
+  "id": 677,
+  "museumId": 2,
+  "date": "2026-10-05",
+  "visitors": 5409,
+  "members": 1002,
+  "revenue": 87434.88
+ },
+ {
+  "id": 678,
+  "museumId": 1,
+  "date": "2026-10-06",
+  "visitors": 14850,
+  "members": 3145,
+  "revenue": 217713.0
+ },
+ {
+  "id": 679,
+  "museumId": 3,
+  "date": "2026-10-06",
+  "visitors": 2398,
+  "members": 521,
+  "revenue": 0.0
+ },
+ {
+  "id": 680,
+  "museumId": 3,
+  "date": "2026-10-07",
+  "visitors": 2194,
+  "members": 430,
+  "revenue": 0.0
+ },
+ {
+  "id": 681,
+  "museumId": 1,
+  "date": "2026-10-08",
+  "visitors": 16703,
+  "members": 3859,
+  "revenue": 238898.4
+ },
+ {
+  "id": 682,
+  "museumId": 2,
+  "date": "2026-10-08",
+  "visitors": 5181,
+  "members": 1127,
+  "revenue": 80431.36
+ },
+ {
+  "id": 683,
+  "museumId": 3,
+  "date": "2026-10-08",
+  "visitors": 2308,
+  "members": 581,
+  "revenue": 0.0
+ },
+ {
+  "id": 684,
+  "museumId": 1,
+  "date": "2026-10-09",
+  "visitors": 14882,
+  "members": 3364,
+  "revenue": 214234.8
+ },
+ {
+  "id": 685,
+  "museumId": 2,
+  "date": "2026-10-09",
+  "visitors": 5468,
+  "members": 1215,
+  "revenue": 84379.52
+ },
+ {
+  "id": 686,
+  "museumId": 3,
+  "date": "2026-10-09",
+  "visitors": 2370,
+  "members": 481,
+  "revenue": 0.0
+ },
+ {
+  "id": 687,
+  "museumId": 1,
+  "date": "2026-10-10",
+  "visitors": 19769,
+  "members": 3768,
+  "revenue": 297618.6
+ },
+ {
+  "id": 688,
+  "museumId": 2,
+  "date": "2026-10-10",
+  "visitors": 6465,
+  "members": 1593,
+  "revenue": 96660.48
+ },
+ {
+  "id": 689,
+  "museumId": 3,
+  "date": "2026-10-10",
+  "visitors": 2924,
+  "members": 590,
+  "revenue": 0.0
+ },
+ {
+  "id": 690,
+  "museumId": 1,
+  "date": "2026-10-11",
+  "visitors": 23015,
+  "members": 4195,
+  "revenue": 350052.0
+ },
+ {
+  "id": 691,
+  "museumId": 2,
+  "date": "2026-10-11",
+  "visitors": 7152,
+  "members": 1546,
+  "revenue": 111223.04
+ },
+ {
+  "id": 692,
+  "museumId": 3,
+  "date": "2026-10-11",
+  "visitors": 3057,
+  "members": 627,
+  "revenue": 0.0
+ },
+ {
+  "id": 693,
+  "museumId": 1,
+  "date": "2026-10-12",
+  "visitors": 17535,
+  "members": 4167,
+  "revenue": 248644.8
+ },
+ {
+  "id": 694,
+  "museumId": 2,
+  "date": "2026-10-12",
+  "visitors": 4078,
+  "members": 766,
+  "revenue": 65710.08
+ },
+ {
+  "id": 695,
+  "museumId": 1,
+  "date": "2026-10-13",
+  "visitors": 14757,
+  "members": 2772,
+  "revenue": 222921.0
+ },
+ {
+  "id": 696,
+  "museumId": 3,
+  "date": "2026-10-13",
+  "visitors": 1882,
+  "members": 437,
+  "revenue": 0.0
+ },
+ {
+  "id": 697,
+  "museumId": 3,
+  "date": "2026-10-14",
+  "visitors": 2115,
+  "members": 414,
+  "revenue": 0.0
+ },
+ {
+  "id": 698,
+  "museumId": 1,
+  "date": "2026-10-15",
+  "visitors": 17394,
+  "members": 3945,
+  "revenue": 250151.4
+ },
+ {
+  "id": 699,
+  "museumId": 2,
+  "date": "2026-10-15",
+  "visitors": 4627,
+  "members": 1046,
+  "revenue": 71047.04
+ },
+ {
+  "id": 700,
+  "museumId": 3,
+  "date": "2026-10-15",
+  "visitors": 2012,
+  "members": 379,
+  "revenue": 0.0
+ },
+ {
+  "id": 701,
+  "museumId": 1,
+  "date": "2026-10-16",
+  "visitors": 14112,
+  "members": 2713,
+  "revenue": 212021.4
+ },
+ {
+  "id": 702,
+  "museumId": 2,
+  "date": "2026-10-16",
+  "visitors": 4265,
+  "members": 991,
+  "revenue": 64956.16
+ },
+ {
+  "id": 703,
+  "museumId": 3,
+  "date": "2026-10-16",
+  "visitors": 2270,
+  "members": 437,
+  "revenue": 0.0
+ },
+ {
+  "id": 704,
+  "museumId": 1,
+  "date": "2026-10-17",
+  "visitors": 20596,
+  "members": 4139,
+  "revenue": 306100.2
+ },
+ {
+  "id": 705,
+  "museumId": 2,
+  "date": "2026-10-17",
+  "visitors": 5462,
+  "members": 1247,
+  "revenue": 83625.6
+ },
+ {
+  "id": 706,
+  "museumId": 3,
+  "date": "2026-10-17",
+  "visitors": 2844,
+  "members": 517,
+  "revenue": 0.0
+ },
+ {
+  "id": 707,
+  "museumId": 1,
+  "date": "2026-10-18",
+  "visitors": 18587,
+  "members": 4431,
+  "revenue": 263301.6
+ },
+ {
+  "id": 708,
+  "museumId": 2,
+  "date": "2026-10-18",
+  "visitors": 5893,
+  "members": 1419,
+  "revenue": 88764.16
+ },
+ {
+  "id": 709,
+  "museumId": 3,
+  "date": "2026-10-18",
+  "visitors": 2381,
+  "members": 567,
+  "revenue": 0.0
+ },
+ {
+  "id": 710,
+  "museumId": 1,
+  "date": "2026-10-19",
+  "visitors": 14067,
+  "members": 2928,
+  "revenue": 207185.4
+ },
+ {
+  "id": 711,
+  "museumId": 2,
+  "date": "2026-10-19",
+  "visitors": 4484,
+  "members": 927,
+  "revenue": 70570.88
+ },
+ {
+  "id": 712,
+  "museumId": 1,
+  "date": "2026-10-20",
+  "visitors": 15892,
+  "members": 3651,
+  "revenue": 227682.6
+ },
+ {
+  "id": 713,
+  "museumId": 3,
+  "date": "2026-10-20",
+  "visitors": 1941,
+  "members": 450,
+  "revenue": 0.0
+ },
+ {
+  "id": 714,
+  "museumId": 3,
+  "date": "2026-10-21",
+  "visitors": 2242,
+  "members": 453,
+  "revenue": 0.0
+ },
+ {
+  "id": 715,
+  "museumId": 1,
+  "date": "2026-10-22",
+  "visitors": 16301,
+  "members": 3669,
+  "revenue": 234955.2
+ },
+ {
+  "id": 716,
+  "museumId": 2,
+  "date": "2026-10-22",
+  "visitors": 4704,
+  "members": 1142,
+  "revenue": 70670.08
+ },
+ {
+  "id": 717,
+  "museumId": 3,
+  "date": "2026-10-22",
+  "visitors": 1808,
+  "members": 440,
+  "revenue": 0.0
+ },
+ {
+  "id": 718,
+  "museumId": 1,
+  "date": "2026-10-23",
+  "visitors": 12589,
+  "members": 2802,
+  "revenue": 182038.2
+ },
+ {
+  "id": 719,
+  "museumId": 2,
+  "date": "2026-10-23",
+  "visitors": 5200,
+  "members": 1337,
+  "revenue": 76641.92
+ },
+ {
+  "id": 720,
+  "museumId": 3,
+  "date": "2026-10-23",
+  "visitors": 2111,
+  "members": 386,
+  "revenue": 0.0
+ },
+ {
+  "id": 721,
+  "museumId": 1,
+  "date": "2026-10-24",
+  "visitors": 17973,
+  "members": 3312,
+  "revenue": 272694.6
+ },
+ {
+  "id": 722,
+  "museumId": 2,
+  "date": "2026-10-24",
+  "visitors": 5736,
+  "members": 1185,
+  "revenue": 90291.84
+ },
+ {
+  "id": 723,
+  "museumId": 3,
+  "date": "2026-10-24",
+  "visitors": 2690,
+  "members": 504,
+  "revenue": 0.0
+ },
+ {
+  "id": 724,
+  "museumId": 1,
+  "date": "2026-10-25",
+  "visitors": 21550,
+  "members": 4245,
+  "revenue": 321873.0
+ },
+ {
+  "id": 725,
+  "museumId": 2,
+  "date": "2026-10-25",
+  "visitors": 5940,
+  "members": 1207,
+  "revenue": 93902.72
+ },
+ {
+  "id": 726,
+  "museumId": 3,
+  "date": "2026-10-25",
+  "visitors": 2615,
+  "members": 565,
+  "revenue": 0.0
+ },
+ {
+  "id": 727,
+  "museumId": 1,
+  "date": "2026-10-26",
+  "visitors": 13686,
+  "members": 2919,
+  "revenue": 200266.2
+ },
+ {
+  "id": 728,
+  "museumId": 2,
+  "date": "2026-10-26",
+  "visitors": 4991,
+  "members": 1097,
+  "revenue": 77256.96
+ },
+ {
+  "id": 729,
+  "museumId": 1,
+  "date": "2026-10-27",
+  "visitors": 14216,
+  "members": 3213,
+  "revenue": 204655.8
+ },
+ {
+  "id": 730,
+  "museumId": 3,
+  "date": "2026-10-27",
+  "visitors": 2240,
+  "members": 570,
+  "revenue": 0.0
+ },
+ {
+  "id": 731,
+  "museumId": 3,
+  "date": "2026-10-28",
+  "visitors": 2079,
+  "members": 539,
+  "revenue": 0.0
+ },
+ {
+  "id": 732,
+  "museumId": 1,
+  "date": "2026-10-29",
+  "visitors": 15959,
+  "members": 3085,
+  "revenue": 239456.4
+ },
+ {
+  "id": 733,
+  "museumId": 2,
+  "date": "2026-10-29",
+  "visitors": 4622,
+  "members": 1009,
+  "revenue": 71681.92
+ },
+ {
+  "id": 734,
+  "museumId": 3,
+  "date": "2026-10-29",
+  "visitors": 1980,
+  "members": 475,
+  "revenue": 0.0
+ },
+ {
+  "id": 735,
+  "museumId": 1,
+  "date": "2026-10-30",
+  "visitors": 14930,
+  "members": 2739,
+  "revenue": 226752.6
+ },
+ {
+  "id": 736,
+  "museumId": 2,
+  "date": "2026-10-30",
+  "visitors": 4213,
+  "members": 987,
+  "revenue": 64003.84
+ },
+ {
+  "id": 737,
+  "museumId": 3,
+  "date": "2026-10-30",
+  "visitors": 2108,
+  "members": 500,
+  "revenue": 0.0
+ },
+ {
+  "id": 738,
+  "museumId": 1,
+  "date": "2026-10-31",
+  "visitors": 18396,
+  "members": 4767,
+  "revenue": 253499.4
+ },
+ {
+  "id": 739,
+  "museumId": 2,
+  "date": "2026-10-31",
+  "visitors": 6609,
+  "members": 1388,
+  "revenue": 103584.64
+ },
+ {
+  "id": 740,
+  "museumId": 3,
+  "date": "2026-10-31",
+  "visitors": 2800,
+  "members": 673,
+  "revenue": 0.0
+ }
+]

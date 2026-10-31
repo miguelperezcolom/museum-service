@@ -1,0 +1,47 @@
+[
+ {
+  "id": 1,
+  "code": "MET",
+  "name": "The Metropolitan Museum of Art",
+  "shortName": "The Met",
+  "city": "New York",
+  "country": "United States",
+  "latitude": 40.7794,
+  "longitude": -73.9632,
+  "founded": 1870,
+  "website": "https://www.metmuseum.org",
+  "description": "Founded in 1870 on Fifth Avenue, the Met holds over two million works spanning five thousand years — from Egyptian temples to European old masters, arms and armour, and photography.",
+  "image": "https://images.metmuseum.org/CRDImages/gr/web-large/DP105943.jpg",
+  "imageCredit": "The Metropolitan Museum of Art · CC0 — Wall painting from Room H of the Villa of P. Fannius Synistor at Boscoreale"
+ },
+ {
+  "id": 2,
+  "code": "AIC",
+  "name": "Art Institute of Chicago",
+  "shortName": "Art Institute",
+  "city": "Chicago",
+  "country": "United States",
+  "latitude": 41.8796,
+  "longitude": -87.6237,
+  "founded": 1879,
+  "website": "https://www.artic.edu",
+  "description": "On Michigan Avenue since 1893, the Art Institute is famous for its Impressionist and Post-Impressionist paintings, its Asian art and its collection of American art.",
+  "image": "https://www.artic.edu/iiif/2/ea1e9c35-df65-1d51-96a0-73c772e18990/full/843,/0/default.jpg",
+  "imageCredit": "Art Institute of Chicago · CC0 — Triptych"
+ },
+ {
+  "id": 3,
+  "code": "CMA",
+  "name": "Cleveland Museum of Art",
+  "shortName": "Cleveland",
+  "city": "Cleveland",
+  "country": "United States",
+  "latitude": 41.5089,
+  "longitude": -81.6116,
+  "founded": 1913,
+  "website": "https://www.clevelandart.org",
+  "description": "Free to all since it opened in 1916, the Cleveland Museum of Art is known for its Asian and Egyptian collections, its medieval treasures and its armour court.",
+  "image": "https://openaccess-cdn.clevelandart.org/1959.136/1959.136_print.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — Dragon and Tiger"
+ }
+]
