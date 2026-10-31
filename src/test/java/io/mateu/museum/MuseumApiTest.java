@@ -77,6 +77,15 @@ class MuseumApiTest {
   }
 
   @Test
+  @DisplayName("a select can ask for a whole collection in one call (up to 500 rows)")
+  void wholeCollectionInOnePage() throws Exception {
+    mvc.perform(get("/api/artworks").param("size", "500"))
+        .andExpect(jsonPath("$.content.length()").value(399));
+    mvc.perform(get("/api/visits").param("size", "5000"))
+        .andExpect(jsonPath("$.content.length()").value(500));
+  }
+
+  @Test
   @DisplayName("a single-valued reference travels with its display name, so a table needs no second call")
   void referenceCarriesItsName() throws Exception {
     mvc.perform(get("/api/artworks").param("search", "Wood with Crooked Tree"))

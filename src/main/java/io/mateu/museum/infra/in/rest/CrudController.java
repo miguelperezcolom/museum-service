@@ -93,12 +93,12 @@ public abstract class CrudController<E, D> {
           @RequestParam(required = false)
           String search,
       @Parameter(description = "Zero-based page number") @RequestParam(defaultValue = "0") int page,
-      @Parameter(description = "Rows per page (max 200)") @RequestParam(defaultValue = "20") int size,
+      @Parameter(description = "Rows per page (max 500 — enough for any collection here in one call, as a select needs)") @RequestParam(defaultValue = "20") int size,
       @Parameter(description = "`field` or `field,desc`") @RequestParam(required = false) String sort,
       @Parameter(hidden = true) @RequestParam MultiValueMap<String, String> allParams) {
 
     QuerySpec spec = querySpec();
-    Pageable pageable = PageRequest.of(Math.max(page, 0), Math.min(Math.max(size, 1), 200), sortOf(sort, spec));
+    Pageable pageable = PageRequest.of(Math.max(page, 0), Math.min(Math.max(size, 1), 500), sortOf(sort, spec));
     Page<E> found = repository().findAll(SpecificationBuilder.build(allParams, spec), pageable);
     return PageResponse.of(found.map(this::toDto));
   }
