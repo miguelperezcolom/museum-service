@@ -284,4 +284,16 @@ class MuseumApiTest {
         .andExpect(jsonPath("$.content[0].children[0].kind").value("Department"))
         .andExpect(jsonPath("$.content[0].children[0].children[0].kind").value("Gallery"));
   }
+
+  @Test
+  @DisplayName("one search over every collection, each hit with its category and its route")
+  void searchEverything() throws Exception {
+    mvc.perform(get("/api/search").param("search", "rodin"))
+        .andExpect(jsonPath("$.content[0].category").value("Artist"))
+        .andExpect(jsonPath("$.content[0].route").value(startsWith("artists/")))
+        .andExpect(jsonPath("$.content[1].category").value("Artwork"))
+        .andExpect(jsonPath("$.totalElements").value(4));
+    mvc.perform(get("/api/search").param("search", "copenhagen"))
+        .andExpect(jsonPath("$.content[0].route").value("museums/2"));
+  }
 }
