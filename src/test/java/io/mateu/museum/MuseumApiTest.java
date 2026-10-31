@@ -35,13 +35,13 @@ class MuseumApiTest {
   @DisplayName("the whole dataset is seeded at boot, references included")
   void seeded() throws Exception {
     mvc.perform(get("/api/museums")).andExpect(jsonPath("$.totalElements").value(3));
-    mvc.perform(get("/api/departments")).andExpect(jsonPath("$.totalElements").value(41));
-    mvc.perform(get("/api/artists")).andExpect(jsonPath("$.totalElements").value(211));
-    mvc.perform(get("/api/artworks")).andExpect(jsonPath("$.totalElements").value(401));
+    mvc.perform(get("/api/departments")).andExpect(jsonPath("$.totalElements").value(33));
+    mvc.perform(get("/api/artists")).andExpect(jsonPath("$.totalElements").value(205));
+    mvc.perform(get("/api/artworks")).andExpect(jsonPath("$.totalElements").value(399));
     mvc.perform(get("/api/exhibitions")).andExpect(jsonPath("$.totalElements").value(18));
     mvc.perform(get("/api/loans")).andExpect(jsonPath("$.totalElements").value(53));
     mvc.perform(get("/api/conservation-tasks")).andExpect(jsonPath("$.totalElements").value(72));
-    mvc.perform(get("/api/visits")).andExpect(jsonPath("$.totalElements").value(740));
+    mvc.perform(get("/api/visits")).andExpect(jsonPath("$.totalElements").value(783));
 
     // a museum knows how much of the dataset is its own
     mvc.perform(get("/api/museums").param("code", "MET"))
@@ -56,14 +56,14 @@ class MuseumApiTest {
     mvc.perform(get("/api/artworks").param("size", "200"))
         .andExpect(jsonPath("$.content[*].imageSmall").value(everyItem(startsWith("https://"))))
         .andExpect(jsonPath("$.content[*].imageLarge").value(everyItem(startsWith("https://"))))
-        .andExpect(jsonPath("$.content[*].imageCredit").value(everyItem(endsWith("· CC0"))))
+        .andExpect(jsonPath("$.content[*].imageCredit").value(everyItem(anyOf(endsWith("· CC0"), endsWith("· Public domain")))))
         .andExpect(jsonPath("$.content[*].sourceUrl").value(everyItem(startsWith("https://"))));
-    mvc.perform(get("/api/artworks").param("museumCode", "AIC").param("size", "1"))
-        .andExpect(jsonPath("$.content[0].imageSmall").value(startsWith("https://www.artic.edu/iiif/2/")))
-        .andExpect(jsonPath("$.content[0].imageCredit").value("Art Institute of Chicago · CC0"));
+    mvc.perform(get("/api/artworks").param("museumCode", "SMK").param("size", "1"))
+        .andExpect(jsonPath("$.content[0].imageSmall").value(startsWith("https://iip.smk.dk/iiif/")))
+        .andExpect(jsonPath("$.content[0].imageCredit").value("Statens Museum for Kunst · Public domain"));
     mvc.perform(get("/api/credits"))
-        .andExpect(jsonPath("$.length()").value(401))
-        .andExpect(jsonPath("$[*].license").value(everyItem(is("CC0 1.0"))));
+        .andExpect(jsonPath("$.length()").value(399))
+        .andExpect(jsonPath("$[*].license").value(everyItem(anyOf(is("CC0 1.0"), is("Public Domain Mark 1.0")))));
   }
 
   @Test
@@ -71,30 +71,30 @@ class MuseumApiTest {
   void pagedEnvelope() throws Exception {
     mvc.perform(get("/api/artworks").param("size", "25").param("page", "2"))
         .andExpect(jsonPath("$.content.length()").value(25))
-        .andExpect(jsonPath("$.totalElements").value(401))
-        .andExpect(jsonPath("$.totalPages").value(17))
+        .andExpect(jsonPath("$.totalElements").value(399))
+        .andExpect(jsonPath("$.totalPages").value(16))
         .andExpect(jsonPath("$.page").value(2));
   }
 
   @Test
   @DisplayName("a single-valued reference travels with its display name, so a table needs no second call")
   void referenceCarriesItsName() throws Exception {
-    mvc.perform(get("/api/artworks").param("search", "The Bedroom"))
-        .andExpect(jsonPath("$.content[0].artistName").value("Vincent van Gogh"))
-        .andExpect(jsonPath("$.content[0].museumName").value("Art Institute of Chicago"))
-        .andExpect(jsonPath("$.content[0].departmentName").value("Painting and Sculpture of Europe"));
+    mvc.perform(get("/api/artworks").param("search", "Wood with Crooked Tree"))
+        .andExpect(jsonPath("$.content[0].artistName").value("Mogens Ballin"))
+        .andExpect(jsonPath("$.content[0].museumName").value("Statens Museum for Kunst"))
+        .andExpect(jsonPath("$.content[0].departmentName").value("Royal Collection of Paintings and Sculptures"));
   }
 
   @Test
-  @DisplayName("one artist across museums: Van Gogh has works in Chicago and Cleveland")
+  @DisplayName("one artist across museums: Rodin has works in New York and Cleveland")
   void artistsAreSharedAcrossMuseums() throws Exception {
-    String body = mvc.perform(get("/api/artists").param("name", "van Gogh"))
+    String body = mvc.perform(get("/api/artists").param("name", "Rodin"))
         .andExpect(jsonPath("$.totalElements").value(1))
         .andExpect(jsonPath("$.content[0].artworkCount").value(3))
-        .andExpect(jsonPath("$.content[0].lifespan").value("1853–1890"))
+        .andExpect(jsonPath("$.content[0].lifespan").value("1840–1917"))
         .andReturn().getResponse().getContentAsString();
     String id = body.replaceAll("^.*?\"id\":(\\d+).*$", "$1");
-    mvc.perform(get("/api/artworks").param("artistId", id).param("museumCode", "AIC"))
+    mvc.perform(get("/api/artworks").param("artistId", id).param("museumCode", "MET"))
         .andExpect(jsonPath("$.totalElements").value(2));
   }
 
@@ -102,18 +102,18 @@ class MuseumApiTest {
   @DisplayName("search scans the collection's text fields")
   void search() throws Exception {
     mvc.perform(get("/api/artworks").param("search", "monet"))
-        .andExpect(jsonPath("$.totalElements").value(6));
+        .andExpect(jsonPath("$.totalElements").value(2));
   }
 
   @Test
   @DisplayName("an EXACT filter is a pick; repeating it, or comma-joining it, is an OR")
   void exactAndMultiSelect() throws Exception {
     mvc.perform(get("/api/artworks").param("classification", "Painting"))
-        .andExpect(jsonPath("$.totalElements").value(145));
+        .andExpect(jsonPath("$.totalElements").value(142));
     mvc.perform(get("/api/artworks").param("classification", "Painting").param("classification", "Photograph"))
-        .andExpect(jsonPath("$.totalElements").value(171));
+        .andExpect(jsonPath("$.totalElements").value(160));
     mvc.perform(get("/api/artworks").param("classification", "Painting,Photograph"))
-        .andExpect(jsonPath("$.totalElements").value(171));
+        .andExpect(jsonPath("$.totalElements").value(160));
     mvc.perform(get("/api/loans").param("status", "on_display,in_transit"))
         .andExpect(jsonPath("$.totalElements").value(20));
   }
@@ -122,9 +122,9 @@ class MuseumApiTest {
   @DisplayName("a boolean filter takes true or false, and nothing else")
   void booleanFilter() throws Exception {
     mvc.perform(get("/api/artworks").param("onView", "true"))
-        .andExpect(jsonPath("$.totalElements").value(269));
+        .andExpect(jsonPath("$.totalElements").value(284));
     mvc.perform(get("/api/artworks").param("onView", "false"))
-        .andExpect(jsonPath("$.totalElements").value(132));
+        .andExpect(jsonPath("$.totalElements").value(115));
     mvc.perform(get("/api/artworks").param("onView", "maybe")).andExpect(status().isBadRequest());
   }
 
@@ -132,9 +132,9 @@ class MuseumApiTest {
   @DisplayName("ranges are inclusive and compare as numbers or dates, not as text")
   void ranges() throws Exception {
     mvc.perform(get("/api/artworks").param("estimatedValue_from", "10000000"))
-        .andExpect(jsonPath("$.totalElements").value(102));
+        .andExpect(jsonPath("$.totalElements").value(116));
     mvc.perform(get("/api/artworks").param("estimatedValue_from", "1000000").param("estimatedValue_to", "5000000"))
-        .andExpect(jsonPath("$.totalElements").value(103));
+        .andExpect(jsonPath("$.totalElements").value(92));
     mvc.perform(get("/api/exhibitions").param("startDate_from", "2026-01-01"))
         .andExpect(jsonPath("$.totalElements").value(16));
   }
@@ -272,7 +272,7 @@ class MuseumApiTest {
   @DisplayName("the dashboard figures and the collection tree come from the live tables")
   void statsAndTree() throws Exception {
     mvc.perform(get("/api/stats"))
-        .andExpect(jsonPath("$.artworks").value(401))
+        .andExpect(jsonPath("$.artworks").value(399))
         .andExpect(jsonPath("$.openExhibitions").value(6))
         .andExpect(jsonPath("$.perMuseum.length()").value(3))
         .andExpect(jsonPath("$.visitorsYtdLabel").value(endsWith(" M")))

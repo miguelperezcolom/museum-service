@@ -1,16 +1,17 @@
 # Image credits
 
 Every artwork in this dataset is a **public-domain work** whose record and image the holding
-museum publishes under **CC0** (Creative Commons Zero) through its open-access programme. The
-images are not copied into this repository: each record links the museum's own official image
-URLs (`imageSmall`, `imageLarge`) and its page (`sourceUrl`). CC0 asks for nothing, but the
+museum publishes free of rights through its open-access programme — **CC0** (the Met, Cleveland)
+or the **Public Domain Mark** (SMK). The images are not copied into this repository: each record
+links the museum's own official image URLs (`imageSmall`, `imageLarge`) and its page
+(`sourceUrl`). Neither licence asks for anything, but the
 museums ask for a courtesy credit, so every record carries `imageCredit` and `/api/credits`
 lists them all.
 
 | Museum | Programme | Licence | Works |
 |---|---|---|---|
 | The Metropolitan Museum of Art | [Open Access](https://www.metmuseum.org/hubs/open-access) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 132 |
-| Art Institute of Chicago | [Open Access](https://www.artic.edu/open-access/open-access-images) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (the API's `description` field is CC BY and is not used) | 124 |
+| Statens Museum for Kunst (SMK) | [SMK Open](https://open.smk.dk) | [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/) (images); metadata CC0 | 122 |
 | Cleveland Museum of Art | [Open Access](https://www.clevelandart.org/open-access) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | 145 |
 
 The museums' names are used only to say where each work is held; this project is not affiliated
@@ -152,272 +153,270 @@ with or endorsed by any of them.
 | 130 | Tunic with Confronting Catfish | Nasca-Wari | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/307975) |
 | 131 | Ear ornament with winged runner | Moche artist(s) | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/309427) |
 | 132 | Ear ornament with winged runner | Moche artist(s) | The Met | The Metropolitan Museum of Art · CC0 | [page](https://www.metmuseum.org/art/collection/search/309428) |
-| 133 | The Bedroom | Vincent van Gogh | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/28560) |
-| 134 | Paris Street; Rainy Day | Gustave Caillebotte | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/20684) |
-| 135 | A Sunday on La Grande Jatte — 1884 | Georges Seurat | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/27992) |
-| 136 | The Assumption of the Virgin | Domenico Theotokópoulos, called El Greco | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/87479) |
-| 137 | Stacks of Wheat (End of Summer) | Claude Monet | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/64818) |
-| 138 | Water Lilies | Claude Monet | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/16568) |
-| 139 | Two Sisters (On the Terrace) | Pierre-Auguste Renoir | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/14655) |
-| 140 | Self-Portrait | Vincent van Gogh | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/80607) |
-| 141 | At the Moulin Rouge | Henri de Toulouse-Lautrec | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/61128) |
-| 142 | Arrival of the Normandy Train, Gare Saint-Lazare | Claude Monet | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/16571) |
-| 143 | The Basket of Apples | Paul Cezanne | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/111436) |
-| 144 | Woman at Her Toilette | Berthe Morisot | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/11723) |
-| 145 | Saint George and the Dragon | Bernat Martorell | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/15468) |
-| 146 | The Beach at Sainte-Adresse | Claude Monet | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/14598) |
-| 147 | The Crucifixion | Francisco de Zurbarán | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/80084) |
-| 148 | The Girl by the Window | Edvard Munch | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/154235) |
-| 149 | The Bay of Marseille, Seen from L'Estaque | Paul Cezanne | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/16487) |
-| 150 | Cupid Chastised | Bartolomeo Manfredi | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/59847) |
-| 151 | The Watermill with the Great Red Roof | Meindert Hobbema | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/869) |
-| 152 | Acrobats at the Cirque Fernando (Francisca and Angelina Wartenberg) | Pierre-Auguste Renoir | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/81558) |
-| 153 | Landscape with Saint John on Patmos | Nicolas Poussin | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/5848) |
-| 154 | Fishing Boats with Hucksters Bargaining for Fish | Joseph Mallord William Turner | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/4796) |
-| 155 | The Millinery Shop | Hilaire Germain Edgar Degas | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/14572) |
-| 156 | Old Man with a Gold Chain | Rembrandt van Rijn | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/95998) |
-| 157 | Hercules and the Lernaean Hydra | Gustave Moreau | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/20579) |
-| 158 | Equestrienne (At the Cirque Fernando) | Henri de Toulouse-Lautrec | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/16146) |
-| 159 | Jesus Mocked by the Soldiers | Édouard Manet | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/16499) |
-| 160 | Still Life with Game Fowl | Juan Sánchez Cotán | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/84709) |
-| 161 | Arlésiennes (Mistral) | Paul Gauguin | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/19339) |
-| 162 | The Captive Slave (Ira Aldridge) | John Philip Simpson | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/193664) |
-| 163 | Coronation Stone of Moctezuma Xocoyotzin | Mexica (Aztec) | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/75644) |
-| 164 | The Child's Bath | Mary Cassatt | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/111442) |
-| 165 | Distant View of Niagara Falls | Thomas Cole | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/90048) |
-| 166 | The Herring Net | Winslow Homer | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/25865) |
-| 167 | The Fountain, Villa Torlonia, Frascati, Italy | John Singer Sargent | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/69780) |
-| 168 | Nocturne: Blue and Gold—Southampton Water | James McNeill Whistler | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/56905) |
-| 169 | Love of Winter | George Wesley Bellows | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/109780) |
-| 170 | Mountain Brook | Albert Bierstadt | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/146701) |
-| 171 | A City Park | William Merritt Chase | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/28849) |
-| 172 | At Mouquin's | William James Glackens | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/15401) |
-| 173 | The Home of the Heron | George Inness | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/64724) |
-| 174 | Croquet Scene | Winslow Homer | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/44018) |
-| 175 | View of Cotopaxi | Frederic Edwin Church | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/76571) |
-| 176 | The Advance-Guard, or The Military Sacrifice (The Ambush) | Frederic Remington | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/97910) |
-| 177 | Ceremonial Knife (Tumi) | Chimú | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/18757) |
-| 178 | Portrait Vessel | Moche | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/91620) |
-| 179 | Magnolias on Light Blue Velvet Cloth | Martin Johnson Heade | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/100829) |
-| 180 | Icebound | John Henry Twachtman | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/72801) |
-| 181 | Still Life—Strawberries, Nuts, &c. | Raphaelle Peale | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/120154) |
-| 182 | Cabin in the Cotton | Horace Pippin | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/111617) |
-| 183 | Buddha Shakyamuni Seated in Meditation (Dhyanamudra) | Nagapattinam | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/21023) |
-| 184 | Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series "Thirty-Six Views of Mount Fuji (Fugaku sanjurokkei)" | Katsushika Hokusai | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/89503) |
-| 185 | Shiva as Lord of the Dance (Nataraja) | Tamil Nadu | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/24548) |
-| 186 | Autumn Maples with Poem Slips | Tosa Mitsuoki | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/127644) |
-| 187 | Seated Bodhisattva | Japan | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/111380) |
-| 188 | Karttikeya, Commander of the Divine Army, Seated on a Peacock | Andhra Pradesh | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/13853) |
-| 189 | Incense Burner in the Form of a Duck | China | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/43060) |
-| 190 | Maharana Bhim Singh in Procession | Ghasi | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/49195) |
-| 191 | Cauldron | China | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/185963) |
-| 192 | Evening Snow on a Floss Shaper (Nurioke no bosetsu), from the series "Eight Views of the Parlor (Zashiki hakkei)" | Suzuki Harunobu | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/88977) |
-| 193 | The Young Emperor Akbar Arrests the Insolent Shah Abu’l-Maali, Page from a Manuscript of the Akbarnama | Basawan | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/76816) |
-| 194 | Equestrienne | China | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/35376) |
-| 195 | Yang Pu Moving His Family | China | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/76279) |
-| 196 | A Monumental Portrait of a Monkey | India | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/210511) |
-| 197 | Funerary Urn (Hunping) | China | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/70003) |
-| 198 | Group Pilgrimage to the Jizo Nun | Ike Taiga | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/185222) |
-| 199 | The actor Bando Mitsugoro II as Ishii Genzo | Tōshūsai Sharaku | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/89856) |
-| 200 | Maize and Cockscombs | Japan | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/11272) |
-| 201 | Ballet at the Paris Opéra | Hilaire Germain Edgar Degas | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/61603) |
-| 202 | A Young Lady with a Parrot | Rosalba Carriera | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/103887) |
-| 203 | After the Hurricane, Bahamas | Winslow Homer | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/16776) |
-| 204 | Flower Clouds | Odilon Redon | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/76395) |
-| 205 | Statue of the Madonna in the Mountains | Caspar David Friedrich | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/50276) |
-| 206 | The Creation of Adam | Giovanni Benedetto Castiglione | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/105073) |
-| 207 | Young Bull | Albrecht Dürer | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/23506) |
-| 208 | Self-Portrait in a Fur Cap | Joseph Wright of Derby | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/76295) |
-| 209 | Self-Portrait with a Visor | Jean Siméon Chardin | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/102131) |
-| 210 | Seated Female Nude | Rembrandt van Rijn | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/90536) |
-| 211 | E10: English Dining Room of the Georgian Period, 1770–90 | Narcissa Niblack Thorne | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/43714) |
-| 212 | Vase (Vase étrusque à rouleau) | Manufacture nationale de Sèvres | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/68769) |
-| 213 | King Vulture | Johann Joachim Kändler | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/189715) |
-| 214 | Reliquary Casket of Saints Adrian and Natalia | León, Spain | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/46230) |
-| 215 | Sideboard | Edward William Godwin | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/186047) |
-| 216 | Wine Cistern | Francesco Durantino | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/25853) |
-| 217 | Cabinet | Cabinet: Augsburg | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/34116) |
-| 218 | Coffer | André Charles Boulle | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/156442) |
-| 219 | Wall Clock | Jean Pierre Latz | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/57819) |
-| 220 | Cup in the Form of a Horse and Rider | Hans Ludwig Kienle | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/181145) |
-| 221 | Fragment of a Hanging | Egypt | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/99602) |
-| 222 | Feathered Tabard (Open-sided Tunic) | Chimú | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/85533) |
-| 223 | The Emperor Sailing from The Story of the Emperor of China | Guy-Louis Vernansal | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/189775) |
-| 224 | Woman's Robe | Bukhara, Uzbekistan | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/185619) |
-| 225 | The Pheasants from the "Verdures of the Vatican" Series | Jean-Demosthene Dugourc | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/52679) |
-| 226 | Cope | England | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/36132) |
-| 227 | Furisode | Japan | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/150739) |
-| 228 | Mohnköpfe (Poppyheads) (Dress or Furnishing Fabric) | Koloman (Kolo) Moser | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/64884) |
-| 229 | Veranda Post (Òpó Ògògá) | Olowe of Ise | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/102611) |
-| 230 | Coffin and Mummy of Paankhaenamun | Ancient Egyptian | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/64339) |
-| 231 | Male Figure (Nkisi Nkondi) | Vili | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/151358) |
-| 232 | Stela of Amenemhat and Hemet | Ancient Egyptian | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/127859) |
-| 233 | Triptych | Ethiopia | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/185651) |
-| 234 | Chair (Kiti Cha Enzi) | Swahili | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/183077) |
-| 235 | Head | Fang | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/187528) |
-| 236 | Frederick Douglass | Samuel J. Miller | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/145681) |
-| 237 | Georgia O'Keeffe—Hands and Thimble | Alfred Stieglitz | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/66434) |
-| 238 | Big River, from the Rancherie, Mendocino, California | Carleton Watkins | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/63554) |
-| 239 | Two Plant Specimens | William Henry Fox Talbot | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/38930) |
-| 240 | Mrs. Herbert Duckworth | Julia Margaret Cameron | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/157056) |
-| 241 | The cannon 'Mons Meg' at Edinburgh Castle, and a private in the 2nd battalion of Royal Scots who garrisoned the Castle in 1846 | David Octavius Hill | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/18075) |
-| 242 | Julia Jackson | Julia Margaret Cameron | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/29230) |
-| 243 | Georgia O'Keeffe—Torso | Alfred Stieglitz | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/66489) |
-| 244 | Improvisation No. 30 (Cannons) | Vasily Kandinsky | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/8991) |
-| 245 | Lozenge Composition with Yellow, Black, Blue, Red, and Gray | Piet Mondrian | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/109819) |
-| 246 | Woman before an Aquarium | Henri Matisse | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/27984) |
-| 247 | Jacques and Berthe Lipchitz | Amedeo Modigliani | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/27987) |
-| 248 | Still Life with Geranium | Henri Matisse | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/87045) |
-| 249 | Portrait Bust of a Woman | Ancient Roman | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/159136) |
-| 250 | Oinochoe (Pitcher) | Mattinata Painter | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/246) |
-| 251 | Kylix (Drinking Cup) | Penthesilea Painter | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/185) |
-| 252 | Statuette of a Seated Girl | Ancient Greek | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/454) |
-| 253 | Pelike (Storage Jar) | Ancient Greek | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/158) |
-| 254 | Amphoriskos (Container for Oil) | Ancient Greek | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/614) |
-| 255 | Chicago Stock Exchange Trading Room: Reconstruction at the Art Institute of Chicago | Adler & Sullivan, Architects | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/156538) |
-| 256 | Plate 49 from Plan of Chicago 1909: Chicago. View of the City from Jackson Park to Grant Park, Looking Towards the West. The proposed shore treatment as a park enclosing a waterway (or a series of lagoons) is shown, together with the enlarged yacht harbor, recreation piers, and a scheme for Grant Park. | Daniel Hudson Burnham | Art Institute | Art Institute of Chicago · CC0 | [page](https://www.artic.edu/artworks/196323) |
-| 257 | Portrait of a Man, Possibly Girolamo Rosati | Lorenzo Lotto | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1950.250) |
-| 258 | Portrait of Tieleman Roosterman | Frans Hals | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1999.173) |
-| 259 | The Sacrifice of Isaac | Andrea del Sarto | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1937.577) |
-| 260 | Hunting near Hartenfels Castle | Lucas Cranach | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1958.425) |
-| 261 | The Holy Family on the Steps | Nicolas Poussin | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1981.18) |
-| 262 | The Crucifixion of Saint Andrew | Caravaggio | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1976.2) |
-| 263 | Saint Peter Repentant | Georges de La Tour | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1951.454) |
-| 264 | Danaë | Orazio Gentileschi | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1971.101) |
-| 265 | Christ and the Virgin in the House at Nazareth | Francisco de Zurbarán | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1960.117) |
-| 266 | Portrait of Isabella Brant | Peter Paul Rubens | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1947.207) |
-| 267 | Portrait of the Jester Calabazas | Diego Velázquez | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1965.15) |
-| 268 | Julius Caesar | Mino da Fiesole | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2009.271) |
-| 269 | Portrait of Catherine Grey, Lady Manners | Thomas Lawrence | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.220) |
-| 270 | The Dutton Family in the Drawing Room of Sherborne Park, Gloucestershire | Johann Zoffany | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2023.122) |
-| 271 | Fata Morgana | Giambologna | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2025.18) |
-| 272 | Sir Anthony Mildmay, Knight of Apethorpe, Northamptonshire | Nicholas Hilliard | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1926.554) |
-| 273 | The Red Kerchief | Claude Monet | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1958.39) |
-| 274 | Cupid and Psyche | Jacques-Louis David | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1962.37) |
-| 275 | The Burning of the Houses of Lords and Commons, 16 October 1834 | Joseph Mallord William Turner | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1942.647) |
-| 276 | The Large Plane Trees (Road Menders at Saint-Rémy) | Vincent van Gogh | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1947.209) |
-| 277 | Water Lilies (Agapanthus) | Claude Monet | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1960.81) |
-| 278 | Wrestlers in a Circus | Ernst Ludwig Kirchner | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1966.49) |
-| 279 | La Cervara, the Roman Campagna | Jean Baptiste Camille Corot | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1963.91) |
-| 280 | The Age of Bronze | Auguste Rodin | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1918.328) |
-| 281 | Mount Sainte-Victoire | Paul Cezanne | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1958.21) |
-| 282 | Romaine Lacaux | Pierre-Auguste Renoir | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1942.1065) |
-| 283 | Portrait of Dora Wheeler | William Merritt Chase | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1921.1239) |
-| 284 | Stag at Sharkey's | George Bellows | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1922.1133) |
-| 285 | The Biglin Brothers Turning the Stake | Thomas Eakins | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1927.1984) |
-| 286 | The Race Track (Death on a Pale Horse) | Albert Pinkham Ryder | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1928.8) |
-| 287 | Twilight in the Wilderness | Frederic Edwin Church | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1965.233) |
-| 288 | Elizabeth Shewell West and Her Son, Raphael | Benjamin West | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1927.393) |
-| 289 | The Power of Music | William Sidney Mount | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1991.110) |
-| 290 | Indian Combat | Edmonia Lewis | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2011.110) |
-| 291 | Portrait of Hottō Enmyō Kokushi | Japan, Kamakura period (1185–1333) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1970.67) |
-| 292 | Fire-flame Cooking Vessel (Ka'en Doki) | Japan, Jōmon period (c. 10,500–300 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1984.68) |
-| 293 | Repository for the Great Perfection of Wisdom Sutra and Eleven Volumes of the Great Perfection of Wisdom Sutra | Japan, Heian period (794–1185) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1969.130) |
-| 294 | Seated Buddha | Japan, Heian period (794–1185) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1973.85) |
-| 295 | The Illustrated Miraculous Origins of the Yūzū Nenbutsu School | Japan, Kamakura period (1185–1333) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1956.87) |
-| 296 | Buddha of the Future (Miroku Bosatsu) | Japan, Asuka period (538–710) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1950.86) |
-| 297 | Sun Bodhisattva (Nikkō Bosatsu) | Japan, Heian period (794–1185) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.48) |
-| 298 | Horse Stable | Japan, Muromachi period (1392–1573) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1934.373) |
-| 299 | Operating on Guan Yu's Arm | Katsushika Ōi | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1998.178) |
-| 300 | Dragon and Tiger | Sesson Shūkei | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1959.136) |
-| 301 | Raft Cup | Zhu Bishan | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1977.7) |
-| 302 | Jar with Lion-Head Handles | China, Jiangxi Province, Jingdezhen, Yuan dynasty (1271–1368) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1962.154) |
-| 303 | Amulet in the Form of a Seated Figure with Bovine Head | Northeast China, Neolithic period, probably Hongshan culture (4700–2920 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1953.628) |
-| 304 | Tomb Guardian with Animal Head | China, probably Shaanxi province, Xi'an, Tang dynasty (618-907) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2000.118.1) |
-| 305 | Wine Cup with Children at Play | China, Jiangxi province, Jingdezhen, Ming dynasty (1368-1644), Chenghua mark and period (1465-1487) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1957.61) |
-| 306 | Cranes and Serpents | China, reportedly from Hunan province, Changsha, Warring States period (475–221 BCE), State of Chu (c. 1046–223 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1938.9) |
-| 307 | Brush Washer | China, Henan Province, Baofeng, Qingliangsi, Northern Song dynasty (960-1127) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1957.40) |
-| 308 | Mirror with Phoenixes, Birds, Butterflies, and Floral Sprays | China, Tang dynasty (618-907) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1973.74) |
-| 309 | Amitabha Triad | Korea, Joseon dynasty (1392–1910) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1918.501) |
-| 310 | Arhat | Korea, Goryeo dynasty (918–1392) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1979.71) |
-| 311 | Jar with Dragon and Clouds Design | Korea, Joseon dynasty (1392–1910) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1986.69) |
-| 312 | Mountain Market, Clear with Rising Mist | Korea, Joseon dynasty (1392–1910) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2015.517) |
-| 313 | Jar with Dragon Design | Korea, Joseon dynasty (1392–1910) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1986.85) |
-| 314 | Books and Scholars’ Accoutrements | Yi Taek-gyun | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2011.37) |
-| 315 | Nataraja, Shiva as the Lord of Dance | South India, Tamil Nadu, Chola period (900–1200s) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1930.331) |
-| 316 | Corner Railing Pillar with Drinking Scenes, Yakshis, and Musicians | India, Mathura, Kushan period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1977.34) |
-| 317 | Brahma-Shiva | South India, Tamil Nadu, Chola dynasty, late 10th - early 11th century | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2007.155) |
-| 318 | Green Tara | Aniko | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1970.156) |
-| 319 | Standing Buddha | Northern India, Uttar Pradesh | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1968.40) |
-| 320 | Mother Goddess | Northwestern India, Rajasthan, Udaipur District | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1970.12) |
-| 321 | Saluting Protective Spirit | Neo-Assyrian (911–609 BCE), Iraq, Nimrud, Northwest Palace, reign of Ashurnasirpal II (883–859 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1943.246) |
-| 322 | Coffin of Bakenmut | Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22 | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1914.561) |
-| 323 | Statuette of a Woman: "The Stargazer" | Western Anatolia, early Bronze Age (c. 3300–1200 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1993.165) |
-| 324 | Torso of Amenpayom | Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1948.141) |
-| 325 | Coffin of Nesykhonsu | Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22 | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1914.714) |
-| 326 | Head of Amenhotep III Wearing the Blue Crown | Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1952.513) |
-| 327 | Statue of Amenemhat III | Egypt, Middle Kingdom (2040–1648 BCE), Dynasty 12, reign of Amenemhat III (1860–1814 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1960.56) |
-| 328 | Nome Gods Bearing Offerings | Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.205) |
-| 329 | Nome Gods Bearing Offerings | Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1976.51) |
-| 330 | Funerary Portrait of a Young Girl | Egypt, Roman Empire, late Tiberian | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1971.137) |
-| 331 | Red-Figure Calyx-Krater (Mixing Vessel): Medea in Chariot (A); Telephos with Baby Orestes (B) | Policoro Painter | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1991.1) |
-| 332 | Torso of a Kouros | Greece, Archaic period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1953.125) |
-| 333 | Sarcophagus | Italy, Rome, Roman Empire | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1928.856) |
-| 334 | Black-Figure Dinos (Mixing Vessel): Warships (Int.); Heroic Scenes (Top) | Antimenes Painter | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1971.46) |
-| 335 | White-Ground Lekythos (Oil Vessel): Atalanta and Erotes | Douris | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1966.114) |
-| 336 | Sleep and Death Cista Handle | Etruscan | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1945.13) |
-| 337 | Statuette of Herakles | Greek | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2000.6) |
-| 338 | Red-Figure Lekythos (Oil Vessel): Athena Slaying Giant (body); Satyr between Maenads (shoulder) | Berlin Painter | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1978.59) |
-| 339 | Table Fountain | France, Paris | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1924.859) |
-| 340 | Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364–1404) | Claus de Werve | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1958.66) |
-| 341 | Mourner from the Tomb of John the Fearless and Margaret of Bavaria | Jean de la Huerta | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1940.129) |
-| 342 | Hours of Queen Isabella the Catholic, Queen of Spain | Master of the First Prayerbook of Maximillian | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1963.256) |
-| 343 | The Holy Family with Saint John the Baptist and Saint Margaret | Filippino Lippi | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1932.227) |
-| 344 | Crucifix with Scenes of the Passion | Italy, Pisa | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1995.5) |
-| 345 | Icon of the Mother of God and Infant Christ (Virgin Eleousa) | Angelos Akotantos | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2010.154) |
-| 346 | Saint Jerome and the Lion (From the former Church of St. Peter in Erfurt) | Tilman Riemenschneider | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1946.82) |
-| 347 | The Birth and Naming of John the Baptist | Juan de Flandes | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1975.3) |
-| 348 | Ivory Plaque with Enthroned Mother of God ("The Stroganoff Ivory") | Byzantium, Constantinople, Byzantine period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1925.1293) |
-| 349 | Tea Table | Carlo Bugatti | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1991.45) |
-| 350 | Sideboard | Joseph Alexis Bailly | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1985.72) |
-| 351 | Covered Tureen on Stand (Pot-à-oille) | Pierre-François Bonnestrenne | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1977.182) |
-| 352 | Hinds House Window | Tiffany Glass & Decorating Company | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1966.432) |
-| 353 | Frogs and Lily Pads (Grenouilles et Nénuphars) Vase | René Lalique | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2007.180) |
-| 354 | Pair of Candelabra | Russia, Tula | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2010.2) |
-| 355 | Imperial Red Cross Easter Egg | House of Fabergé | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1963.673) |
-| 356 | Desk and Bookcase | John Townsend | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2012.43) |
-| 357 | Orpheus | Odilon Redon | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1926.25) |
-| 358 | Church Bells Ringing, Rainy Winter Night | Charles Burchfield | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1949.544) |
-| 359 | Standing Officer Holding a Boar's Spear | Hendrick Goltzius | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1994.195) |
-| 360 | Monsieur Boileau at the Café | Henri de Toulouse-Lautrec | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1925.1409) |
-| 361 | Boy with Anchor | Winslow Homer | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1954.128) |
-| 362 | Study for the Nude Youth over the Prophet Daniel (recto); Figure Studies for the Sistine Ceiling (verso) | Michelangelo Buonarroti | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1940.465) |
-| 363 | Venus Reclining in a Landscape | Giulio Campagnola | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1931.205) |
-| 364 | Battle of the Nudes | Antonio del Pollaiuolo | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1967.127) |
-| 365 | Equestrian Portrait of the Emperor Maximilian | Hans Burgkmair | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1950.72) |
-| 366 | Estérel Village | Edgar Degas | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1966.177) |
-| 367 | Evening, Melancholy I | Edvard Munch | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1959.82) |
-| 368 | Staff of Office | Central Africa, Democratic Republic of the Congo, Luba | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2004.85) |
-| 369 | Nursing Woman with Child | Africa, West Africa, Côte d'Ivoire, reportedly Korhogo area, Senufo-style carver | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.198) |
-| 370 | Ancestral Commemorative Head (uhunmwun-elao) | Nigeria, Benin Kingdom, Ẹdo peoples, members of the Igun Eronmwon (royal brasscasters) guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1938.6) |
-| 371 | Male Figure (nkishi) | Africa, Central Africa, Democratic Republic of Congo, Songye-style carver and nganga (priest) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2010.451) |
-| 372 | Memorial head (nsodie) | Ghana, Akan-style sculpture, unknown female ceramicist | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1990.22) |
-| 373 | Backrest of a Litter | Central Andes, North Coast, Chimú people, late Intermediate period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1952.233) |
-| 374 | Ballgame Palma | Mexico, Gulf Coast, Classic Veracruz style (600-1100) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1973.3) |
-| 375 | Plaque | Peru, North Coast, Chongoyape(?), Chavín style (900-200 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1938.431) |
-| 376 | Head Fragment | Mesoamerica, Mexico, Olmec | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.31) |
-| 377 | Panel with Royal Woman | K’in Lakam Chahk | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1962.32) |
-| 378 | Front Face of a Stela (Free-standing Stone with Relief) | Mesoamerica, Guatemala, Department of the Petén, El Perú (also known as Waka'), Maya (250-900), Classic period (200-1000) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1967.29) |
-| 379 | Icon of the Virgin and Child | Egypt, Byzantine period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1967.144) |
-| 380 | Royal Carpet with Silk and Metal Thread | Iran, Isfahan, Safavid period (1501-1722) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1926.533) |
-| 381 | Cloth with Procession of Figures | Central Andes, South Coast, Nasca people | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1940.530) |
-| 382 | The Wade Cup with Animated Script | Iran, Seljuq period of Iran (1037–1194) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1944.485) |
-| 383 | Bahram Gur Arrives at the House of a Merchant, text page (recto); Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), known as the Great Mongol Shahnama | Iran, Tabriz, Ilkhanid period (1256-1353) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1943.658) |
-| 384 | Dragon in foliage with lion and phoenix heads | Sahkulu | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1944.492) |
-| 385 | Rustam's seventh course: He kills the White Div, folio 124 from a Shah-nama (Book of Kings) of Firdausi (Persian, about 934–1020) | Mir Musavvir | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1988.96) |
-| 386 | Trophy of the Hunt | Adolphe Braun | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1985.144) |
-| 387 | Sand Dunes, Carson Desert, Nevada | Timothy H. O'Sullivan | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2002.45) |
-| 388 | Figure 45: Contraction électrique forte des triangulaires des lèvres et des sourciliers: douleur et déspoir | Guillaume-Benjamin-Amand Duchenne | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2018.7) |
-| 389 | Winter Trees Reflected in a Pond | William Henry Fox Talbot | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2006.4) |
-| 390 | Armor for Man and Horse with Völs-Colonna Arms | North Italy, 16th century | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1964.88) |
-| 391 | Knife-sheath tip (sika boha) | Africa, West Africa, Ghana, Asante Empire/Kingdom, Kumasi or probably Kumasi, member of the goldsmiths' guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1935.308) |
-| 392 | Knife-sheath tip (sika boha) | Africa, West Africa, Ghana, Asante Empire/Kingdom, Kumasi or probably Kumasi, member of the goldsmiths' guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1935.312) |
-| 393 | War Hat (or Kettle Hat) | Antonio Missaglia | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1916.1565) |
-| 394 | Knife Handle Cover | Africa, West Africa, Ghana, Asante Empire/Kingdom, Kumasi or probably Kumasi, member of the goldsmiths' guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1935.311) |
-| 395 | Hanger (Hunting Sword) | Jaspar Bongen the Younger | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1916.1629) |
-| 396 | Knife-sheath tip (sika boha) | Africa, West Africa, Ghana, Asante Empire/Kingdom, Kumasi or probably Kumasi, member of the goldsmiths' guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1935.309) |
-| 397 | Bill | Italy | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1916.1835) |
-| 398 | Bridal Veil, Yosemite | Carleton E. Watkins | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1992.12) |
-| 399 | Alexandre Dumas père (1802–1870) | Nadar | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1983.198) |
-| 400 | Rue de la Ferronnerie | Charles Marville | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1984.24) |
-| 401 | Untitled (Farm Animals) | Adolphe Braun | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1991.162) |
+| 133 | Wood with Crooked Tree | Mogens Ballin | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8914) |
+| 134 | View from a Road near Næstved, Zealand | L.A. Ring | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8892) |
+| 135 | Portrait of a Man | El Greco | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMSsp146) |
+| 136 | View of the Square in Amalfi | Martinus Rørbye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8884) |
+| 137 | The Death of Queen Sophie Amalie | Kristian Zahrtmann | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS1231) |
+| 138 | The View from the Temple of Athena on the Acropolis | Martinus Rørbye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3769) |
+| 139 | The Sculptor Jens Adolf Jerichau, the Artist's Husband | Elisabeth Jerichau Baumann | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS1093) |
+| 140 | At the French Windows. The Artist's Wife | L.A. Ring | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3716) |
+| 141 | Portrait of Madame Matisse. The Green Line | Henri Matisse | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMSr171) |
+| 142 | A View of Lake Sortedam from Dosseringen Looking towards the Suburb Nørrebro outside Copenhagen | Christen Købke | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS359) |
+| 143 | An Egyptian Pot Seller at Gizeh | Elisabeth Jerichau Baumann | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8791) |
+| 144 | Interior in Strandgade, Sunlight on the Floor | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3696) |
+| 145 | Woman in a Chemise | André Derain | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMSr14) |
+| 146 | Melancholy | Lucas Cranach (I) | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMSsp722) |
+| 147 | The Fall of the Titans | Cornelis Cornelisz. van Haarlem | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS1) |
+| 148 | Portrait of the Danish King Christian II | Michiel Sittow | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMSsp789) |
+| 149 | The Iron Foundry, Burmeister & Wain | P.S. Krøyer | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3605) |
+| 150 | A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirror | Wilhelm Bendz | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS280) |
+| 151 | Interior with the Artist's Easel | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS7444) |
+| 152 | Trompe l'oeil with Studio Wall and Vanitas Still Life | Cornelius Norbertus Gijsbrechts | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMSst537) |
+| 153 | A Rocky Coast, Capri. After Sunrise | Christen Købke | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS445) |
+| 154 | Christ as the Suffering Redeemer | Andrea Mantegna | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMSsp69) |
+| 155 | Sunset. Fontainebleau | Valdemar Schønheyder Møller | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8079) |
+| 156 | Tree Trunks. Arresødal near Frederiksværk, North Zealand | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8010) |
+| 157 | St. Peter's Church, Copenhagen | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS2051) |
+| 158 | Seated Female Nude | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3766) |
+| 159 | Woman seen from the Back | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3671) |
+| 160 | Ida Hammershøi, the Artist's Wife, with a Teacup | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3352) |
+| 161 | Interior. Artificial Light | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8677) |
+| 162 | Portræt af Elisabeth Marie Fabritius, født d'Abbestée | C.G. Pilo | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8856) |
+| 163 | View of Christiansborg Palace. Late Autumn | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS6750) |
+| 164 | A Wing of Christiansborg Palace | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS2052) |
+| 165 | From Christianshavn's Canal, Copenhagen | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8415) |
+| 166 | Artemis | Vilhelm Hammershøi | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3358) |
+| 167 | Family Portrait | Emil Ditlev Bærentzen | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8588) |
+| 168 | The Artist's Mother Ane Hedvig Brøndum in the Red Room | Anna Ancher | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8654) |
+| 169 | View through a Door to Running Figures | C.W. Eckersberg | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8847) |
+| 170 | Portrait of Otto Marstrand's two Daughters and their West-Indian Nanny, Justina Antoine, in the Frederiksberg Gardens near Copenhagen | Wilhelm Marstrand | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS8833) |
+| 171 | The Art Historian N.L. Høyen | Wilhelm Marstrand | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS870) |
+| 172 | Rural Scene | Jørgen V. Sonne | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS7485) |
+| 173 | View from Dosseringen near the Sortedam Lake Looking Towards Nørrebro. Study | Christen Købke | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS7385) |
+| 174 | Prometheus Moulding Man from Clay | Constantin Hansen | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3665) |
+| 175 | The Waagepetersen Family | Wilhelm Marstrand | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3329) |
+| 176 | A Street Scene in the Dogdays | Wilhelm Marstrand | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS2071) |
+| 177 | The Greek Poet Anacreon and Bathyll | Nicolai Abildgaard | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3442) |
+| 178 | Ymir Suckling the Cow Audhumla | Nicolai Abildgaard | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3397) |
+| 179 | The Legend of the Danish Flag (the Dannebrog) Falling from the Heavens during the Battle of Lyndanise (Tallin) in Estonia in 1219 | C.A. Lorentzen | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS274) |
+| 180 | View towards Ariccia and the Palazzo Chigi and S. Maria dell'Assunzione, Italy | Thorald Læssøe | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4951) |
+| 181 | A Coach House. Partenkirchen | Wilhelm Bendz | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4081) |
+| 182 | A Young Girl in Jutland Writing her Beloved's Name on a Misty Window | Christen Dalsgaard | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3684) |
+| 183 | The Most Terrible Night. View of Kongens Nytorv in Copenhagen During the English Bombardement of Copenhagen at Night between 4 and 5 September 1807 | C.A. Lorentzen | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3468) |
+| 184 | Portrait of a Little Girl, Elise Købke, with a Cup in front of her | Constantin Hansen | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS3388) |
+| 185 | Standing Female Nude | Astrid Noack | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS7007) |
+| 186 | The Painter Anna Ancher | Astrid Noack | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS6126) |
+| 187 | The Man | Svend Rathsack | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5742) |
+| 188 | Mermaid | Anne Marie Carl Nielsen | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5781) |
+| 189 | A Bishop Saint | Ubekendt | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5487) |
+| 190 | Saint Catherine of Alexandria | Ubekendt fransk begyndelsen af 1500-tallet | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS6344) |
+| 191 | The Slave Girl | J.A. Jerichau (I) | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5025) |
+| 192 | Susanna before the Elders | August Saabye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS5263) |
+| 193 | Bust of Camilla Barbadori (dead 1609). Mother of Pope Urban VIII Barberini | Giovanni Lorenzo Bernini | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP44) |
+| 194 | Bust of Pope Paul V Borghese (1552; Pope 1605-1621) | Giovanni Lorenzo Bernini | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP47) |
+| 195 | Bust of Marcantonio Ruzzini | Domenico da Salò | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP42) |
+| 196 | Bust of Ottavio Farnese. Duke of Camerino, Parma and Piacenza | Alessandro Vittoria | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP61) |
+| 197 | A Saint with a Book | Ubekendt italiensk | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP45) |
+| 198 | Bust of a Cardinal | Lorenzo Ottoni | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP46) |
+| 199 | Unknown Lady | Georg Saleman | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4652) |
+| 200 | Portrait of a Man in Roman Dress | Ubekendt omkring 1700 | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4349) |
+| 201 | Portræt af Jean Labadie | Anna Maria van Schurman | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS1988) |
+| 202 | Venus and Cupid | Rosalba Carriera | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4837) |
+| 203 | Saint Cecilia | Cornelius Høyer | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KMS4819) |
+| 204 | Discobolus, Roman Copy with Modern Head | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS1549) |
+| 205 | The Wrestlers | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS403) |
+| 206 | THe Farnese Diadoumenos, Athlete binding victor's fillet around his head | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS79) |
+| 207 | Minverva Giustiniani | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS255) |
+| 208 | Crouching Venus | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS357) |
+| 209 | Knælende mand, niobide eller bryder, med løftet h. arm | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS193) |
+| 210 | Apostlen Jacob den Yngre med hænderne samlet foran | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/5) |
+| 211 | Apostlen Thomas med åben bog | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/4) |
+| 212 | Apostlen Bartholomæus med åben skriftrulle | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KAS2906/3) |
+| 213 | Gravrelief. Mands- og kvindebuste i niche. Publius Aiedius Amphio & Aiedia Fausta Melior | Unknown | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/DEP457) |
+| 214 | En sommerfugl | Pieter Holsteyn (I) | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb16521) |
+| 215 | Torso. Belvedere. Front view of the antique sculpture. | Willem Panneels | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb5315) |
+| 216 | Laocoon. Front view of Laocoon and his younger son turmed to the left. | Willem Panneels | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb4811) |
+| 217 | Triumphal Chariot. Humilitas (Humility) | Maarten van Heemskerck | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb9156) |
+| 218 | En liggende bjørn | Nicolai Abildgaard | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS8404) |
+| 219 | En rudel hjorte og en stork | P.C. Skovgaard | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS10112) |
+| 220 | Abekatten. T.h. studier af abeho-veder m.m. | Johan Thomas Lundbye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb52) |
+| 221 | Grisene | Johan Thomas Lundbye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb49) |
+| 222 | De to venner | Johan Thomas Lundbye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb48) |
+| 223 | Juno med sin vogn og Saturn(?) på vej henover skyerne | Ubekendt KKS | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb13594) |
+| 224 | Landskab, som en hær drager igennem | A. Wolf | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb16842) |
+| 225 | Kirkelig ceremoni | A. Burg | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb16841) |
+| 226 | En mandlig helgen vaskes og plejes af engle, mens han lytter til en kvindelig helgen, der sidder foran en læsepult og peger opad. Den Hl.Sebastian hos den Hl.Irene? | Bartolommeo Letterini | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS11137) |
+| 227 | Valdemar Atterdag marches into Visby in 1361 | Gerard van Honthorst | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb11569) |
+| 228 | Scenebillede | Peter Cramer | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb21766) |
+| 229 | Udsigt fra Rundetårn over København til Frederiksberg Slot | H.G.F. Holm | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb20565) |
+| 230 | Liljekonval | Niels Larsen Stevns | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS1971-373/9) |
+| 231 | Dansk Ingefær | Niels Larsen Stevns | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS1971-373/2) |
+| 232 | Mand med slæde | Sigmund Ferdinand Ritter von Perger | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb18206) |
+| 233 | Abondantia | Ubekendt KKS | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb4846) |
+| 234 | Rembrandt bareheaded and open-mouthed, as if shouting: bust | Rembrandt van Rijn | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb7380) |
+| 235 | Portræt af hærfører, Nikola IV Zrinski (Miklós IV Zrínyi) | Matthias Zündt | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22352) |
+| 236 | Portræt af Joannes de Valeta | Matthias Zündt | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22351) |
+| 237 | Louis III de Bourbon, prins af Condé | Matthias Zündt | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22349) |
+| 238 | Louis III de Bourbon, prins af Condé | Matthias Zündt | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22350) |
+| 239 | Stående ko | Marcus de Bye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb1255) |
+| 240 | Liggende ko | Marcus de Bye | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb1256) |
+| 241 | Christ Bearing the Cross | Lucas Cranach (I) | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb5041/10) |
+| 242 | Christ carrying the cross | Albrecht Dürer | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb9087/7) |
+| 243 | Fortællingen om Akigssiak: Sælhundeboldspillet, hvor bedstefaderen overvindes | Markus Lynge | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS13358d) |
+| 244 | Fortællingen om Akigssiak: Akigssiak kaster indlandsboen ned fra et fjeld | Markus Lynge | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS13358e) |
+| 245 | Nordbosagaerne. Fortællingen om Oungortok: Kasape dræber høvdingen Oungortok. | Aron fra Kangeq | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS13358h) |
+| 246 | The triumph of humility | Cornelis Cort | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb9904/7) |
+| 247 | Andromeda | Willem van Swanenburgh | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22235) |
+| 248 | Deborah | Jan Saenredam | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb1404) |
+| 249 | Bakkus serverer for et ældre par. Vinter | Jan Saenredam | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22234) |
+| 250 | Høst og vinsmagning. Efterår | Jan Saenredam | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb22233) |
+| 251 | En mand vander heste ved en brønd, mens en kvinde henter vand og en dreng hjælper hende | Fortuné Ferogio | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKSgb13549) |
+| 252 | ""Hjortetakken", seet fra Dalen ved Kobbefjorden Grönland" | Lars Møller | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS13404) |
+| 253 | Civil War | Édouard Manet | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS20164) |
+| 254 | The Barricade | Édouard Manet | SMK | Statens Museum for Kunst · Public domain | [page](https://open.smk.dk/artwork/image/KKS14655) |
+| 255 | Portrait of a Man, Possibly Girolamo Rosati | Lorenzo Lotto | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1950.250) |
+| 256 | Portrait of Tieleman Roosterman | Frans Hals | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1999.173) |
+| 257 | The Sacrifice of Isaac | Andrea del Sarto | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1937.577) |
+| 258 | Hunting near Hartenfels Castle | Lucas Cranach | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1958.425) |
+| 259 | The Holy Family on the Steps | Nicolas Poussin | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1981.18) |
+| 260 | The Crucifixion of Saint Andrew | Caravaggio | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1976.2) |
+| 261 | Saint Peter Repentant | Georges de La Tour | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1951.454) |
+| 262 | Danaë | Orazio Gentileschi | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1971.101) |
+| 263 | Christ and the Virgin in the House at Nazareth | Francisco de Zurbarán | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1960.117) |
+| 264 | Portrait of Isabella Brant | Peter Paul Rubens | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1947.207) |
+| 265 | Portrait of the Jester Calabazas | Diego Velázquez | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1965.15) |
+| 266 | Julius Caesar | Mino da Fiesole | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2009.271) |
+| 267 | Portrait of Catherine Grey, Lady Manners | Thomas Lawrence | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.220) |
+| 268 | The Dutton Family in the Drawing Room of Sherborne Park, Gloucestershire | Johann Zoffany | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2023.122) |
+| 269 | Fata Morgana | Giambologna | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2025.18) |
+| 270 | Sir Anthony Mildmay, Knight of Apethorpe, Northamptonshire | Nicholas Hilliard | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1926.554) |
+| 271 | The Red Kerchief | Claude Monet | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1958.39) |
+| 272 | Cupid and Psyche | Jacques-Louis David | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1962.37) |
+| 273 | The Burning of the Houses of Lords and Commons, 16 October 1834 | Joseph Mallord William Turner | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1942.647) |
+| 274 | The Large Plane Trees (Road Menders at Saint-Rémy) | Vincent van Gogh | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1947.209) |
+| 275 | Water Lilies (Agapanthus) | Claude Monet | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1960.81) |
+| 276 | Wrestlers in a Circus | Ernst Ludwig Kirchner | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1966.49) |
+| 277 | La Cervara, the Roman Campagna | Jean Baptiste Camille Corot | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1963.91) |
+| 278 | The Age of Bronze | Auguste Rodin | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1918.328) |
+| 279 | Mount Sainte-Victoire | Paul Cezanne | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1958.21) |
+| 280 | Romaine Lacaux | Pierre-Auguste Renoir | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1942.1065) |
+| 281 | Portrait of Dora Wheeler | William Merritt Chase | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1921.1239) |
+| 282 | Stag at Sharkey's | George Bellows | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1922.1133) |
+| 283 | The Biglin Brothers Turning the Stake | Thomas Eakins | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1927.1984) |
+| 284 | The Race Track (Death on a Pale Horse) | Albert Pinkham Ryder | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1928.8) |
+| 285 | Twilight in the Wilderness | Frederic Edwin Church | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1965.233) |
+| 286 | Elizabeth Shewell West and Her Son, Raphael | Benjamin West | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1927.393) |
+| 287 | The Power of Music | William Sidney Mount | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1991.110) |
+| 288 | Indian Combat | Edmonia Lewis | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2011.110) |
+| 289 | Portrait of Hottō Enmyō Kokushi | Japan, Kamakura period (1185–1333) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1970.67) |
+| 290 | Fire-flame Cooking Vessel (Ka'en Doki) | Japan, Jōmon period (c. 10,500–300 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1984.68) |
+| 291 | Repository for the Great Perfection of Wisdom Sutra and Eleven Volumes of the Great Perfection of Wisdom Sutra | Japan, Heian period (794–1185) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1969.130) |
+| 292 | Seated Buddha | Japan, Heian period (794–1185) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1973.85) |
+| 293 | The Illustrated Miraculous Origins of the Yūzū Nenbutsu School | Japan, Kamakura period (1185–1333) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1956.87) |
+| 294 | Buddha of the Future (Miroku Bosatsu) | Japan, Asuka period (538–710) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1950.86) |
+| 295 | Sun Bodhisattva (Nikkō Bosatsu) | Japan, Heian period (794–1185) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.48) |
+| 296 | Horse Stable | Japan, Muromachi period (1392–1573) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1934.373) |
+| 297 | Operating on Guan Yu's Arm | Katsushika Ōi | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1998.178) |
+| 298 | Dragon and Tiger | Sesson Shūkei | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1959.136) |
+| 299 | Raft Cup | Zhu Bishan | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1977.7) |
+| 300 | Jar with Lion-Head Handles | China, Jiangxi Province, Jingdezhen, Yuan dynasty (1271–1368) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1962.154) |
+| 301 | Amulet in the Form of a Seated Figure with Bovine Head | Northeast China, Neolithic period, probably Hongshan culture (4700–2920 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1953.628) |
+| 302 | Tomb Guardian with Animal Head | China, probably Shaanxi province, Xi'an, Tang dynasty (618-907) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2000.118.1) |
+| 303 | Wine Cup with Children at Play | China, Jiangxi province, Jingdezhen, Ming dynasty (1368-1644), Chenghua mark and period (1465-1487) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1957.61) |
+| 304 | Cranes and Serpents | China, reportedly from Hunan province, Changsha, Warring States period (475–221 BCE), State of Chu (c. 1046–223 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1938.9) |
+| 305 | Brush Washer | China, Henan Province, Baofeng, Qingliangsi, Northern Song dynasty (960-1127) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1957.40) |
+| 306 | Mirror with Phoenixes, Birds, Butterflies, and Floral Sprays | China, Tang dynasty (618-907) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1973.74) |
+| 307 | Amitabha Triad | Korea, Joseon dynasty (1392–1910) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1918.501) |
+| 308 | Arhat | Korea, Goryeo dynasty (918–1392) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1979.71) |
+| 309 | Jar with Dragon and Clouds Design | Korea, Joseon dynasty (1392–1910) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1986.69) |
+| 310 | Mountain Market, Clear with Rising Mist | Korea, Joseon dynasty (1392–1910) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2015.517) |
+| 311 | Jar with Dragon Design | Korea, Joseon dynasty (1392–1910) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1986.85) |
+| 312 | Books and Scholars’ Accoutrements | Yi Taek-gyun | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2011.37) |
+| 313 | Nataraja, Shiva as the Lord of Dance | South India, Tamil Nadu, Chola period (900–1200s) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1930.331) |
+| 314 | Corner Railing Pillar with Drinking Scenes, Yakshis, and Musicians | India, Mathura, Kushan period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1977.34) |
+| 315 | Brahma-Shiva | South India, Tamil Nadu, Chola dynasty, late 10th - early 11th century | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2007.155) |
+| 316 | Green Tara | Aniko | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1970.156) |
+| 317 | Standing Buddha | Northern India, Uttar Pradesh | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1968.40) |
+| 318 | Mother Goddess | Northwestern India, Rajasthan, Udaipur District | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1970.12) |
+| 319 | Saluting Protective Spirit | Neo-Assyrian (911–609 BCE), Iraq, Nimrud, Northwest Palace, reign of Ashurnasirpal II (883–859 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1943.246) |
+| 320 | Coffin of Bakenmut | Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22 | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1914.561) |
+| 321 | Statuette of a Woman: "The Stargazer" | Western Anatolia, early Bronze Age (c. 3300–1200 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1993.165) |
+| 322 | Torso of Amenpayom | Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1948.141) |
+| 323 | Coffin of Nesykhonsu | Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22 | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1914.714) |
+| 324 | Head of Amenhotep III Wearing the Blue Crown | Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1952.513) |
+| 325 | Statue of Amenemhat III | Egypt, Middle Kingdom (2040–1648 BCE), Dynasty 12, reign of Amenemhat III (1860–1814 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1960.56) |
+| 326 | Nome Gods Bearing Offerings | Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.205) |
+| 327 | Nome Gods Bearing Offerings | Egypt, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1976.51) |
+| 328 | Funerary Portrait of a Young Girl | Egypt, Roman Empire, late Tiberian | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1971.137) |
+| 329 | Red-Figure Calyx-Krater (Mixing Vessel): Medea in Chariot (A); Telephos with Baby Orestes (B) | Policoro Painter | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1991.1) |
+| 330 | Torso of a Kouros | Greece, Archaic period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1953.125) |
+| 331 | Sarcophagus | Italy, Rome, Roman Empire | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1928.856) |
+| 332 | Black-Figure Dinos (Mixing Vessel): Warships (Int.); Heroic Scenes (Top) | Antimenes Painter | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1971.46) |
+| 333 | White-Ground Lekythos (Oil Vessel): Atalanta and Erotes | Douris | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1966.114) |
+| 334 | Sleep and Death Cista Handle | Etruscan | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1945.13) |
+| 335 | Statuette of Herakles | Greek | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2000.6) |
+| 336 | Red-Figure Lekythos (Oil Vessel): Athena Slaying Giant (body); Satyr between Maenads (shoulder) | Berlin Painter | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1978.59) |
+| 337 | Table Fountain | France, Paris | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1924.859) |
+| 338 | Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364–1404) | Claus de Werve | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1958.66) |
+| 339 | Mourner from the Tomb of John the Fearless and Margaret of Bavaria | Jean de la Huerta | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1940.129) |
+| 340 | Hours of Queen Isabella the Catholic, Queen of Spain | Master of the First Prayerbook of Maximillian | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1963.256) |
+| 341 | The Holy Family with Saint John the Baptist and Saint Margaret | Filippino Lippi | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1932.227) |
+| 342 | Crucifix with Scenes of the Passion | Italy, Pisa | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1995.5) |
+| 343 | Icon of the Mother of God and Infant Christ (Virgin Eleousa) | Angelos Akotantos | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2010.154) |
+| 344 | Saint Jerome and the Lion (From the former Church of St. Peter in Erfurt) | Tilman Riemenschneider | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1946.82) |
+| 345 | The Birth and Naming of John the Baptist | Juan de Flandes | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1975.3) |
+| 346 | Ivory Plaque with Enthroned Mother of God ("The Stroganoff Ivory") | Byzantium, Constantinople, Byzantine period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1925.1293) |
+| 347 | Tea Table | Carlo Bugatti | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1991.45) |
+| 348 | Sideboard | Joseph Alexis Bailly | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1985.72) |
+| 349 | Covered Tureen on Stand (Pot-à-oille) | Pierre-François Bonnestrenne | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1977.182) |
+| 350 | Hinds House Window | Tiffany Glass & Decorating Company | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1966.432) |
+| 351 | Frogs and Lily Pads (Grenouilles et Nénuphars) Vase | René Lalique | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2007.180) |
+| 352 | Pair of Candelabra | Russia, Tula | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2010.2) |
+| 353 | Imperial Red Cross Easter Egg | House of Fabergé | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1963.673) |
+| 354 | Desk and Bookcase | John Townsend | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2012.43) |
+| 355 | Orpheus | Odilon Redon | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1926.25) |
+| 356 | Church Bells Ringing, Rainy Winter Night | Charles Burchfield | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1949.544) |
+| 357 | Standing Officer Holding a Boar's Spear | Hendrick Goltzius | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1994.195) |
+| 358 | Monsieur Boileau at the Café | Henri de Toulouse-Lautrec | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1925.1409) |
+| 359 | Boy with Anchor | Winslow Homer | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1954.128) |
+| 360 | Study for the Nude Youth over the Prophet Daniel (recto); Figure Studies for the Sistine Ceiling (verso) | Michelangelo Buonarroti | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1940.465) |
+| 361 | Venus Reclining in a Landscape | Giulio Campagnola | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1931.205) |
+| 362 | Battle of the Nudes | Antonio del Pollaiuolo | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1967.127) |
+| 363 | Equestrian Portrait of the Emperor Maximilian | Hans Burgkmair | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1950.72) |
+| 364 | Estérel Village | Edgar Degas | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1966.177) |
+| 365 | Evening, Melancholy I | Edvard Munch | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1959.82) |
+| 366 | Staff of Office | Central Africa, Democratic Republic of the Congo, Luba | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2004.85) |
+| 367 | Nursing Woman with Child | Africa, West Africa, Côte d'Ivoire, reportedly Korhogo area, Senufo-style carver | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.198) |
+| 368 | Ancestral Commemorative Head (uhunmwun-elao) | Nigeria, Benin Kingdom, Ẹdo peoples, members of the Igun Eronmwon (royal brasscasters) guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1938.6) |
+| 369 | Male Figure (nkishi) | Africa, Central Africa, Democratic Republic of Congo, Songye-style carver and nganga (priest) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2010.451) |
+| 370 | Memorial head (nsodie) | Ghana, Akan-style sculpture, unknown female ceramicist | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1990.22) |
+| 371 | Backrest of a Litter | Central Andes, North Coast, Chimú people, late Intermediate period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1952.233) |
+| 372 | Ballgame Palma | Mexico, Gulf Coast, Classic Veracruz style (600-1100) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1973.3) |
+| 373 | Plaque | Peru, North Coast, Chongoyape(?), Chavín style (900-200 BCE) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1938.431) |
+| 374 | Head Fragment | Mesoamerica, Mexico, Olmec | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1961.31) |
+| 375 | Panel with Royal Woman | K’in Lakam Chahk | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1962.32) |
+| 376 | Front Face of a Stela (Free-standing Stone with Relief) | Mesoamerica, Guatemala, Department of the Petén, El Perú (also known as Waka'), Maya (250-900), Classic period (200-1000) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1967.29) |
+| 377 | Icon of the Virgin and Child | Egypt, Byzantine period | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1967.144) |
+| 378 | Royal Carpet with Silk and Metal Thread | Iran, Isfahan, Safavid period (1501-1722) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1926.533) |
+| 379 | Cloth with Procession of Figures | Central Andes, South Coast, Nasca people | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1940.530) |
+| 380 | The Wade Cup with Animated Script | Iran, Seljuq period of Iran (1037–1194) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1944.485) |
+| 381 | Bahram Gur Arrives at the House of a Merchant, text page (recto); Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), known as the Great Mongol Shahnama | Iran, Tabriz, Ilkhanid period (1256-1353) | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1943.658) |
+| 382 | Dragon in foliage with lion and phoenix heads | Sahkulu | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1944.492) |
+| 383 | Rustam's seventh course: He kills the White Div, folio 124 from a Shah-nama (Book of Kings) of Firdausi (Persian, about 934–1020) | Mir Musavvir | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1988.96) |
+| 384 | Trophy of the Hunt | Adolphe Braun | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1985.144) |
+| 385 | Sand Dunes, Carson Desert, Nevada | Timothy H. O'Sullivan | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2002.45) |
+| 386 | Figure 45: Contraction électrique forte des triangulaires des lèvres et des sourciliers: douleur et déspoir | Guillaume-Benjamin-Amand Duchenne | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2018.7) |
+| 387 | Winter Trees Reflected in a Pond | William Henry Fox Talbot | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/2006.4) |
+| 388 | Armor for Man and Horse with Völs-Colonna Arms | North Italy, 16th century | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1964.88) |
+| 389 | Knife-sheath tip (sika boha) | Africa, West Africa, Ghana, Asante Empire/Kingdom, Kumasi or probably Kumasi, member of the goldsmiths' guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1935.308) |
+| 390 | Knife-sheath tip (sika boha) | Africa, West Africa, Ghana, Asante Empire/Kingdom, Kumasi or probably Kumasi, member of the goldsmiths' guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1935.312) |
+| 391 | War Hat (or Kettle Hat) | Antonio Missaglia | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1916.1565) |
+| 392 | Knife Handle Cover | Africa, West Africa, Ghana, Asante Empire/Kingdom, Kumasi or probably Kumasi, member of the goldsmiths' guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1935.311) |
+| 393 | Hanger (Hunting Sword) | Jaspar Bongen the Younger | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1916.1629) |
+| 394 | Knife-sheath tip (sika boha) | Africa, West Africa, Ghana, Asante Empire/Kingdom, Kumasi or probably Kumasi, member of the goldsmiths' guild | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1935.309) |
+| 395 | Bill | Italy | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1916.1835) |
+| 396 | Bridal Veil, Yosemite | Carleton E. Watkins | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1992.12) |
+| 397 | Alexandre Dumas père (1802–1870) | Nadar | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1983.198) |
+| 398 | Rue de la Ferronnerie | Charles Marville | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1984.24) |
+| 399 | Untitled (Farm Animals) | Adolphe Braun | Cleveland | Cleveland Museum of Art · CC0 | [page](https://clevelandart.org/art/1991.162) |

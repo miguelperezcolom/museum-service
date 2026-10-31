@@ -23,8 +23,8 @@ public class OpenApiConfig {
                 .description(
                     """
                     Several art museums behind one writable API: public-domain artworks of The \
-                    Metropolitan Museum of Art, the Art Institute of Chicago and the Cleveland Museum \
-                    of Art — CC0 records, each linking the museum's own images — plus synthetic \
+                    Metropolitan Museum of Art, Statens Museum for Kunst and the Cleveland Museum \
+                    of Art — CC0 / public-domain records, each linking the museum's own images — plus synthetic \
                     exhibitions, loans, conservation tasks and daily visits, over an in-memory H2 \
                     seeded at boot.
 

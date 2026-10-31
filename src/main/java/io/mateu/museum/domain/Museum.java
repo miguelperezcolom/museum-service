@@ -20,7 +20,7 @@ public class Museum {
   @GeneratedValue(strategy = GenerationType.IDENTITY)
   private Long id;
 
-  /** MET, AIC, CMA — short and stable, what a filter or a chart legend uses. */
+  /** MET, SMK, CMA — short and stable, what a filter or a chart legend uses. */
   @NotBlank private String code;
 
   @NotBlank private String name;

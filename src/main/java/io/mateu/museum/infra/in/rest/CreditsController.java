@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Where every image comes from and under which licence. All of them are CC0 — nothing is legally
- * owed — but the museums ask for a courtesy credit, and a demo that shows other people's pictures
+ * Where every image comes from and under which licence: CC0 (the Met, Cleveland) or the Public
+ * Domain Mark (SMK). Nothing is legally owed either way — but the museums ask for a courtesy credit, and a demo that shows other people's pictures
  * had better say whose they are. The same list is in CREDITS.md.
  */
 @RestController
@@ -23,6 +23,8 @@ public class CreditsController {
 
   static final String CC0 = "CC0 1.0";
   static final String CC0_URL = "https://creativecommons.org/publicdomain/zero/1.0/";
+  static final String PDM = "Public Domain Mark 1.0";
+  static final String PDM_URL = "https://creativecommons.org/publicdomain/mark/1.0/";
 
   /** One image and what to say about it. */
   public record Credit(
@@ -50,13 +52,14 @@ public class CreditsController {
   }
 
   private static Credit credit(Artwork a) {
+    boolean pdm = a.getImageCredit() != null && a.getImageCredit().endsWith("Public domain");
     return new Credit(
         a.getId(),
         a.getTitle(),
         a.getMuseum() == null ? null : a.getMuseum().getName(),
         a.getImageCredit(),
-        CC0,
-        CC0_URL,
+        pdm ? PDM : CC0,
+        pdm ? PDM_URL : CC0_URL,
         a.getImageSmall(),
         a.getImageLarge(),
         a.getSourceUrl());

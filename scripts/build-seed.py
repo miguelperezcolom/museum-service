@@ -11,9 +11,13 @@ What it fetches, and why it is legitimate to republish:
 
   * The Metropolitan Museum of Art — collectionapi.metmuseum.org, objects with isPublicDomain=true.
     Met Open Access: the data and the images of public-domain works are CC0.
-  * Art Institute of Chicago — api.artic.edu, is_public_domain=true; images through its IIIF server.
-    The API's data is CC0 EXCEPT its `description` field (CC BY), which is therefore never read here;
-    public-domain images are CC0.
+  * SMK – Statens Museum for Kunst (National Gallery of Denmark) — api.smk.dk, public_domain=true;
+    images through its IIIF server (iip.smk.dk). SMK Open: public-domain works and their images are
+    free to use (Public Domain Mark 1.0); the metadata is CC0.
+
+    (The Art Institute of Chicago was the first choice. Its data is CC0, but its IIIF image server
+    sits behind a Cloudflare challenge that refuses image requests from other sites — even a real
+    browser's — so its pictures cannot be linked from a demo. SMK's can.)
   * Cleveland Museum of Art — openaccess-api.clevelandart.org, share_license_status=CC0 (cc0=1).
     Cleveland Open Access: data and images are CC0.
 
@@ -163,9 +167,9 @@ def artist_key(name: str) -> str:
 CLASSES = [
     (r"photo", "Photograph"),
     (r"arms|armor|armour|sword|helmet|firearm|dagger|shield|crossbow|archery|spur|equestrian", "Arms and Armor"),
-    (r"paint|portrait miniature", "Painting"), (r"mastaba|architectur", "Architecture"),
-    (r"sculpt|stone|bronze|figure|relief|statue|head|protome|talatat", "Sculpture"),
-    (r"drawing|watercolor|watercolour|pastel", "Drawing"), (r"print|woodcut|etching", "Print"),
+    (r"paint|miniature", "Painting"), (r"mastaba|architectur", "Architecture"),
+    (r"sculpt|stone|bronze|figure|relief|statue|bust|head|protome|talatat", "Sculpture"),
+    (r"drawing|watercolor|watercolour|pastel", "Drawing"), (r"print|woodcut|etching|engraving|lithograph", "Print"),
     (r"ceramic|porcelain|vessel|pottery|stoneware|earthenware|vase|dish", "Ceramics"),
     (r"textile|garment|costume|carpet|tapestr|embroider", "Textile"),
     (r"jewel", "Jewelry"), (r"glass", "Glass"), (r"furniture|wood", "Furniture"),
@@ -198,13 +202,13 @@ MUSEUMS = [
         "credit": "The Metropolitan Museum of Art · CC0",
     },
     {
-        "code": "AIC", "name": "Art Institute of Chicago", "shortName": "Art Institute",
-        "city": "Chicago", "country": "United States", "latitude": 41.8796, "longitude": -87.6237,
-        "founded": 1879, "website": "https://www.artic.edu",
-        "description": "On Michigan Avenue since 1893, the Art Institute is famous for its "
-                       "Impressionist and Post-Impressionist paintings, its Asian art and its "
-                       "collection of American art.",
-        "credit": "Art Institute of Chicago · CC0",
+        "code": "SMK", "name": "Statens Museum for Kunst", "shortName": "SMK",
+        "city": "Copenhagen", "country": "Denmark", "latitude": 55.6888, "longitude": 12.5784,
+        "founded": 1896, "website": "https://www.smk.dk",
+        "description": "Denmark's national gallery, by the Østre Anlæg park, grew out of the Danish "
+                       "kings' art chamber. It is known for the Danish Golden Age, Dutch and Flemish "
+                       "masters, a vast collection of prints and drawings, and its cast collection.",
+        "credit": "Statens Museum for Kunst · Public domain",
     },
     {
         "code": "CMA", "name": "Cleveland Museum of Art", "shortName": "Cleveland",
@@ -222,11 +226,25 @@ MET_QUOTAS = [
     (11, 26), (4, 12), (6, 14), (10, 12), (13, 10), (19, 10), (12, 12), (1, 8), (17, 8), (14, 8),
     (9, 6), (5, 6),
 ]
-AIC_QUOTAS = [
-    ("Painting and Sculpture of Europe", 30), ("Arts of the Americas", 20), ("Arts of Asia", 18),
-    ("Prints and Drawings", 10), ("Applied Arts of Europe", 10), ("Textiles", 8),
-    ("Arts of Africa", 7), ("Photography and Media", 8), ("Modern Art", 5),
-    ("Arts of Greece, Rome, and Byzantium", 6), ("Architecture and Design", 2),
+# SMK: (responsible department, object names, quota). Its departments are named in Danish.
+SMK_DEPARTMENTS = {
+    "Den Kongelige Maleri- og Skulptursamling": "Royal Collection of Paintings and Sculptures",
+    "Den Kongelige Kobberstiksamling": "Royal Collection of Graphic Art",
+    "Den Kongelige Afstøbningssamling": "Royal Cast Collection",
+}
+SMK_QUOTAS = [
+    ("Den Kongelige Maleri- og Skulptursamling", "painting", 52),
+    ("Den Kongelige Maleri- og Skulptursamling", "statue", 8),
+    ("Den Kongelige Maleri- og Skulptursamling", "bust", 6),
+    ("Den Kongelige Maleri- og Skulptursamling", "miniature", 5),
+    ("Den Kongelige Afstøbningssamling", "statue", 6),
+    ("Den Kongelige Afstøbningssamling", "relief", 5),
+    ("Den Kongelige Kobberstiksamling", "drawing", 14),
+    ("Den Kongelige Kobberstiksamling", "watercolour", 6),
+    ("Den Kongelige Kobberstiksamling", "etching", 7),
+    ("Den Kongelige Kobberstiksamling", "woodcut", 5),
+    ("Den Kongelige Kobberstiksamling", "copper engraving", 5),
+    ("Den Kongelige Kobberstiksamling", "lithograph", 4),
 ]
 CMA_QUOTAS = [
     ("European Painting and Sculpture", 16), ("Modern European Painting and Sculpture", 10),
@@ -304,76 +322,91 @@ def met_row(o):
     }
 
 
-AIC_FIELDS = ",".join([
-    "id", "title", "artist_title", "artist_id", "artist_display", "department_title",
-    "classification_title", "artwork_type_title", "medium_display", "date_start", "date_end",
-    "date_display", "dimensions", "dimensions_detail", "place_of_origin", "is_on_view",
-    "gallery_title", "fiscal_year", "credit_line", "term_titles", "style_title", "image_id",
-    "is_public_domain", "main_reference_number", "is_boosted",
-])
+def smk_search(dept, kind, on_display):
+    filters = f"[public_domain:true],[has_image:true],[responsible_department:{dept}],[object_names:{kind}]"
+    if on_display is not None:
+        filters += f",[on_display:{'true' if on_display else 'false'}]"
+    q = {"keys": "*", "filters": filters, "offset": 0, "rows": 100, "lang": "en"}
+    res = fetch("https://api.smk.dk/api/v1/art/search/?" + urllib.parse.urlencode(q))
+    return (res or {}).get("items") or []
 
 
-def aic_artworks():
+def smk_artworks():
     out = []
-    for dept, quota in AIC_QUOTAS:
+    for dept, kind, quota in SMK_QUOTAS:
         taken = 0
-        for boosted in (True, False):
-            if taken >= quota:
-                break
-            must = [
-                {"term": {"is_public_domain": True}},
-                {"term": {"department_title.keyword": dept}},
-                {"exists": {"field": "image_id"}},
-            ]
-            if boosted:
-                must.append({"term": {"is_boosted": True}})
-            res = fetch("https://api.artic.edu/api/v1/artworks/search",
-                        {"query": {"bool": {"must": must}}, "fields": AIC_FIELDS, "limit": 100})
-            for a in (res or {}).get("data") or []:
+        for on_display in (True, None):
+            for a in smk_search(dept, kind, on_display):
                 if taken >= quota:
                     break
-                if not a.get("image_id") or not a.get("is_public_domain"):
+                if not a.get("public_domain") or not a.get("image_iiif_id"):
                     continue
-                if any(x["source"] == "AIC" and x["sourceId"] == str(a["id"]) for x in out):
+                if any(x["source"] == "SMK" and x["sourceId"] == a["object_number"] for x in out):
                     continue
-                out.append(aic_row(a))
+                row = smk_row(a, dept)
+                if row["title"] == "Untitled" and not row["artistName"]:
+                    continue
+                out.append(row)
                 taken += 1
-        print(f"  AIC {dept}: {taken}/{quota}")
+        print(f"  SMK {kind} ({SMK_DEPARTMENTS[dept]}): {taken}/{quota}")
     return out
 
 
-def aic_row(a):
-    iiif = f"https://www.artic.edu/iiif/2/{a['image_id']}"
-    name, nat, birth, death = parse_display(a.get("artist_display"))
-    artist = a.get("artist_title") or name
-    if a.get("artist_display") and "\n" in a["artist_display"] and not a.get("artist_title"):
-        artist = None  # "Japan\nEdo period" — a place, not a person
-    dims = (a.get("dimensions_detail") or [{}])[0] or {}
+def _smk_title(a):
+    titles = a.get("titles") or []
+    en = next((t for t in titles if (t.get("language") or "").lower() in ("engelsk", "english", "en")), None)
+    return clean((en or (titles[0] if titles else {})).get("title"))
+
+
+def _smk_cm(a, kind):
+    for d in a.get("dimensions") or []:
+        if d.get("type") == kind and d.get("value"):
+            try:
+                v = float(str(d["value"]).replace(",", "."))
+            except ValueError:
+                continue
+            return round(v / 10, 1) if (d.get("unit") or "cm") == "mm" else v
+    return None
+
+
+def smk_row(a, dept):
+    iiif = a["image_iiif_id"]
+    prod = (a.get("production") or [{}])[0] or {}
+    name = None
+    if prod.get("creator_forename") or prod.get("creator_surname"):
+        name = " ".join(x for x in (prod.get("creator_forename"), prod.get("creator_surname")) if x)
+    elif a.get("artist"):
+        name = a["artist"][0]
+    pdate = (a.get("production_date") or [{}])[0] or {}
+    kind = ((a.get("object_names") or [{}])[0] or {}).get("name")
+    room = a.get("current_location_name")
+    room = re.sub(r"^Sal\s*", "Room ", room) if room else None
     return {
-        "source": "AIC", "sourceId": str(a["id"]),
-        "title": clean(a.get("title")) or "Untitled",
-        "artistName": clean(artist), "artistNationality": nat,
-        "artistBirth": birth, "artistDeath": death,
-        "department": a.get("department_title"),
-        "classification": clean(a.get("artwork_type_title")) or clean(a.get("classification_title")),
-        "objectType": clean(a.get("classification_title")),
-        "medium": clean(a.get("medium_display")),
-        "objectDate": clean(a.get("date_display")),
-        "beginYear": a.get("date_start"), "endYear": a.get("date_end"),
-        "dimensions": clean(a.get("dimensions")),
-        "heightCm": dims.get("height"), "widthCm": dims.get("width"), "depthCm": dims.get("depth"),
-        "culture": clean(a.get("place_of_origin")),
-        "onView": bool(a.get("is_on_view")),
-        "gallery": a.get("gallery_title"),
-        "acquisitionYear": a.get("fiscal_year"),
-        "accessionNumber": a.get("main_reference_number"),
-        "creditLine": clean(a.get("credit_line")),
-        "tags": list(dict.fromkeys(t for t in (a.get("term_titles") or []) if t))[:6],
-        "description": None,  # AIC's description is CC BY, not CC0 — deliberately not used
-        "imageSmall": f"{iiif}/full/400,/0/default.jpg",
-        "imageLarge": f"{iiif}/full/843,/0/default.jpg",
-        "sourceUrl": f"https://www.artic.edu/artworks/{a['id']}",
-        "highlight": bool(a.get("is_boosted")),
+        "source": "SMK", "sourceId": a["object_number"],
+        "title": _smk_title(a) or "Untitled",
+        "artistName": clean(name), "artistNationality": clean(prod.get("creator_nationality")),
+        "artistBirth": year((prod.get("creator_date_of_birth") or "")[:4]),
+        "artistDeath": year((prod.get("creator_date_of_death") or "")[:4]),
+        "department": SMK_DEPARTMENTS.get(dept, dept),
+        "classification": clean(kind), "objectType": clean(kind),
+        "medium": clean("; ".join(a.get("techniques") or [])) or clean(", ".join(a.get("materials") or [])),
+        "objectDate": clean(pdate.get("period")),
+        "beginYear": year((pdate.get("start") or "")[:4]), "endYear": year((pdate.get("end") or "")[:4]),
+        "dimensions": " × ".join(f"{v:g}" for v in (_smk_cm(a, "height"), _smk_cm(a, "width"), _smk_cm(a, "depth")) if v) + " cm"
+        if _smk_cm(a, "height") else None,
+        "heightCm": _smk_cm(a, "height"), "widthCm": _smk_cm(a, "width"), "depthCm": _smk_cm(a, "depth"),
+        "culture": clean(prod.get("creator_nationality")),
+        "onView": bool(a.get("on_display")) and bool(room),
+        "gallery": room if a.get("on_display") else None,
+        "acquisitionYear": year((a.get("acquisition_date") or "")[:4]),
+        "accessionNumber": a["object_number"],
+        "creditLine": None,
+        "tags": [],
+        "description": None,
+        "imageSmall": f"{iiif}/full/!400,/0/default.jpg",
+        "imageLarge": f"{iiif}/full/!1200,/0/default.jpg",
+        "sourceUrl": a.get("frontend_url") or f"https://open.smk.dk/artwork/image/{a['object_number']}",
+        "highlight": bool(a.get("on_display")),
     }
 
 
@@ -540,7 +573,7 @@ def main():
     OFFLINE = ap.parse_args().offline
 
     print("Fetching from the museums (cached in scripts/.cache)…")
-    rows = met_artworks() + aic_artworks() + cma_artworks()
+    rows = met_artworks() + smk_artworks() + cma_artworks()
 
     # ── museums ──
     museums = []
@@ -656,7 +689,7 @@ def main():
                 end = TODAY - dt.timedelta(days=rnd.randint(5, 60))
             pool = by_dept.get(d["id"], [])
             works = sorted(rnd.sample(pool, min(len(pool), rnd.randint(6, 12))), key=lambda a: a["id"])
-            daily = {"MET": 1800, "AIC": 700, "CMA": 300}[m["code"]]
+            daily = {"MET": 1800, "SMK": 600, "CMA": 300}[m["code"]]
             days = (min(end, TODAY) - start).days
             visitors = 0 if status == "planned" else int(max(days, 0) * daily * rnd.uniform(0.6, 1.4))
             title = theme_for(d["name"], f"{m['code']}{j}")
@@ -723,9 +756,9 @@ def main():
             })
 
     # ── visits: one row per museum per OPEN day, 1 Jan → today ──
-    closed_days = {"MET": {2}, "AIC": {1, 2}, "CMA": {0}}  # Mon=0: Met closed Wed; AIC Tue+Wed; CMA Mon
-    base = {"MET": 15500, "AIC": 4800, "CMA": 2100}
-    ticket = {"MET": 30, "AIC": 32, "CMA": 0}  # Cleveland is free
+    closed_days = {"MET": {2}, "SMK": {0}, "CMA": {0}}  # Mon=0: the Met closes on Wednesdays, SMK and Cleveland on Mondays
+    base = {"MET": 15500, "SMK": 1400, "CMA": 2100}
+    ticket = {"MET": 30, "SMK": 18, "CMA": 0}  # Cleveland is free; SMK ~DKK 130
     visits = []
     day = dt.date(2026, 1, 1)
     while day <= TODAY:
@@ -758,16 +791,17 @@ def write_credits(museums, artworks):
         "# Image credits",
         "",
         "Every artwork in this dataset is a **public-domain work** whose record and image the holding",
-        "museum publishes under **CC0** (Creative Commons Zero) through its open-access programme. The",
-        "images are not copied into this repository: each record links the museum's own official image",
-        "URLs (`imageSmall`, `imageLarge`) and its page (`sourceUrl`). CC0 asks for nothing, but the",
+        "museum publishes free of rights through its open-access programme — **CC0** (the Met, Cleveland)",
+        "or the **Public Domain Mark** (SMK). The images are not copied into this repository: each record",
+        "links the museum's own official image URLs (`imageSmall`, `imageLarge`) and its page",
+        "(`sourceUrl`). Neither licence asks for anything, but the",
         "museums ask for a courtesy credit, so every record carries `imageCredit` and `/api/credits`",
         "lists them all.",
         "",
         "| Museum | Programme | Licence | Works |",
         "|---|---|---|---|",
         "| The Metropolitan Museum of Art | [Open Access](https://www.metmuseum.org/hubs/open-access) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | %d |" % sum(1 for a in artworks if a["source"] == "MET"),
-        "| Art Institute of Chicago | [Open Access](https://www.artic.edu/open-access/open-access-images) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) (the API's `description` field is CC BY and is not used) | %d |" % sum(1 for a in artworks if a["source"] == "AIC"),
+        "| Statens Museum for Kunst (SMK) | [SMK Open](https://open.smk.dk) | [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/) (images); metadata CC0 | %d |" % sum(1 for a in artworks if a["source"] == "SMK"),
         "| Cleveland Museum of Art | [Open Access](https://www.clevelandart.org/open-access) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) | %d |" % sum(1 for a in artworks if a["source"] == "CMA"),
         "",
         "The museums' names are used only to say where each work is held; this project is not affiliated",

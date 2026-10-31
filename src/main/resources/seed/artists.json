@@ -155,7 +155,7 @@
   "nationality": "French",
   "birthYear": 1699,
   "deathYear": 1779,
-  "bio": "French artist (1699–1779). Represented here by 2 works (drawing and watercolor, paintings) in the collections of Art Institute and The Met.",
+  "bio": "French artist (1699–1779). Represented here by 1 work (paintings) in the collection of The Met.",
   "image": "https://images.metmuseum.org/CRDImages/ep/mobile-large/DP356133.jpg",
   "imageCredit": "The Metropolitan Museum of Art · CC0 — a work by the artist, not a portrait"
  },
@@ -315,9 +315,9 @@
   "nationality": "Japanese",
   "birthYear": 1725,
   "deathYear": 1770,
-  "bio": "Japanese artist (1725–1770). Represented here by 2 works (print, prints) in the collections of Art Institute and The Met.",
-  "image": "https://www.artic.edu/iiif/2/d17e4df1-ed79-c99c-a67a-2dd59b928e35/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "bio": "Japanese artist (1725–1770). Represented here by 1 work (prints) in the collection of The Met.",
+  "image": "https://images.metmuseum.org/CRDImages/as/mobile-large/DP119525.jpg",
+  "imageCredit": "The Metropolitan Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
   "id": 33,
@@ -525,7 +525,7 @@
   "nationality": "American",
   "birthYear": 1830,
   "deathYear": 1902,
-  "bio": "American artist (1830–1902). Represented here by 2 works (painting) in the collections of Art Institute and The Met.",
+  "bio": "American artist (1830–1902). Represented here by 1 work (painting) in the collection of The Met.",
   "image": "https://images.metmuseum.org/CRDImages/ad/mobile-large/DT82.jpg",
   "imageCredit": "The Metropolitan Museum of Art · CC0 — a work by the artist, not a portrait"
  },
@@ -555,7 +555,7 @@
   "nationality": "American",
   "birthYear": 1849,
   "deathYear": 1916,
-  "bio": "American artist (1849–1916). Represented here by 3 works (painting) in the collections of Art Institute and Cleveland and The Met.",
+  "bio": "American artist (1849–1916). Represented here by 2 works (painting) in the collections of Cleveland and The Met.",
   "image": "https://openaccess-cdn.clevelandart.org/1921.1239/1921.1239_web.jpg",
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
@@ -565,7 +565,7 @@
   "nationality": "American",
   "birthYear": 1826,
   "deathYear": 1900,
-  "bio": "American artist (1826–1900). Represented here by 3 works (painting) in the collections of Art Institute and Cleveland and The Met.",
+  "bio": "American artist (1826–1900). Represented here by 2 works (painting) in the collections of Cleveland and The Met.",
   "image": "https://images.metmuseum.org/CRDImages/ad/mobile-large/DT78.jpg",
   "imageCredit": "The Metropolitan Museum of Art · CC0 — a work by the artist, not a portrait"
  },
@@ -575,7 +575,7 @@
   "nationality": "American",
   "birthYear": 1801,
   "deathYear": 1848,
-  "bio": "American artist (1801–1848). Represented here by 2 works (painting) in the collections of Art Institute and The Met.",
+  "bio": "American artist (1801–1848). Represented here by 1 work (painting) in the collection of The Met.",
   "image": "https://images.metmuseum.org/CRDImages/ad/mobile-large/DP-12550-001.jpg",
   "imageCredit": "The Metropolitan Museum of Art · CC0 — a work by the artist, not a portrait"
  },
@@ -615,7 +615,7 @@
   "nationality": "French",
   "birthYear": 1864,
   "deathYear": 1901,
-  "bio": "French artist (1864–1901). Represented here by 4 works (drawing, painting, prints) in the collections of Art Institute and Cleveland and The Met.",
+  "bio": "French artist (1864–1901). Represented here by 2 works (drawing, prints) in the collections of Cleveland and The Met.",
   "image": "https://images.metmuseum.org/CRDImages/dp/mobile-large/DP-42747-001.jpg",
   "imageCredit": "The Metropolitan Museum of Art · CC0 — a work by the artist, not a portrait"
  },
@@ -651,886 +651,726 @@
  },
  {
   "id": 66,
-  "name": "Vincent van Gogh",
-  "nationality": "Dutch",
-  "birthYear": 1853,
-  "deathYear": 1890,
-  "bio": "Dutch artist (1853–1890). Represented here by 3 works (painting) in the collections of Art Institute and Cleveland.",
-  "image": "https://www.artic.edu/iiif/2/6644829f-f292-c5c4-a73c-0356a6fdbf0d/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Mogens Ballin",
+  "nationality": "Danish",
+  "birthYear": 1871,
+  "deathYear": 1914,
+  "bio": "Danish artist (1871–1914). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/gf06g715p_kms8914.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 67,
-  "name": "Gustave Caillebotte",
-  "nationality": "French",
-  "birthYear": 1848,
-  "deathYear": 1894,
-  "bio": "French artist (1848–1894). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "L.A. Ring",
+  "nationality": "Danish",
+  "birthYear": 1854,
+  "deathYear": 1933,
+  "bio": "Danish artist (1854–1933). Represented here by 2 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/1544bs13w_kms3716.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 68,
-  "name": "Georges Seurat",
-  "nationality": "French",
-  "birthYear": 1859,
-  "deathYear": 1891,
-  "bio": "French artist (1859–1891). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "El Greco",
+  "nationality": "Greek",
+  "birthYear": 1541,
+  "deathYear": 1614,
+  "bio": "Greek artist (1541–1614). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/6t053k067_KMSKMSsp146.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 69,
-  "name": "Domenico Theotokópoulos, called El Greco",
-  "nationality": "Doménikos Theotokópoulos; Greek",
-  "birthYear": 1541,
-  "deathYear": 1614,
-  "bio": "Doménikos Theotokópoulos; Greek artist (1541–1614). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/47fd1564-93f5-f30b-7786-013421133b4a/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Martinus Rørbye",
+  "nationality": "Danish",
+  "birthYear": 1803,
+  "deathYear": 1848,
+  "bio": "Danish artist (1803–1848). Represented here by 2 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/tt44ps41w_kms8884.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 70,
-  "name": "Claude Monet",
-  "nationality": "French",
-  "birthYear": 1840,
-  "deathYear": 1926,
-  "bio": "French artist (1840–1926). Represented here by 6 works (painting) in the collections of Art Institute and Cleveland.",
-  "image": "https://www.artic.edu/iiif/2/a38e2828-ec6f-ece1-a30f-70243449197b/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Kristian Zahrtmann",
+  "nationality": "Danish",
+  "birthYear": 1843,
+  "deathYear": 1917,
+  "bio": "Danish artist (1843–1917). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/xp68km230_kms1231.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 71,
-  "name": "Pierre-Auguste Renoir",
-  "nationality": "French",
-  "birthYear": 1841,
-  "deathYear": 1919,
-  "bio": "French artist (1841–1919). Represented here by 3 works (painting) in the collections of Art Institute and Cleveland.",
-  "image": "https://www.artic.edu/iiif/2/3a608f55-d76e-fa96-d0b1-0789fbc48f1e/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Elisabeth Jerichau Baumann",
+  "nationality": "Danish",
+  "birthYear": 1819,
+  "deathYear": 1881,
+  "bio": "Danish artist (1819–1881). Represented here by 2 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/0z709032g_kms8791-cropped.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 72,
-  "name": "Paul Cezanne",
+  "name": "Henri Matisse",
   "nationality": "French",
-  "birthYear": 1839,
-  "deathYear": 1906,
-  "bio": "French artist (1839–1906). Represented here by 3 works (painting) in the collections of Art Institute and Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/1958.21/1958.21_web.jpg",
-  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+  "birthYear": 1869,
+  "deathYear": 1954,
+  "bio": "French artist (1869–1954). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/kd17cx80w_KMSr171-crop.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 73,
-  "name": "Berthe Morisot",
-  "nationality": "French",
-  "birthYear": 1841,
-  "deathYear": 1895,
-  "bio": "French artist (1841–1895). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/78c80988-6524-cec7-c661-a4c0a706d06f/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Christen Købke",
+  "nationality": "Danish",
+  "birthYear": 1810,
+  "deathYear": 1848,
+  "bio": "Danish artist (1810–1848). Represented here by 3 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/cj82kb687_kms445.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 74,
-  "name": "Bernat Martorell",
-  "nationality": "Spanish",
-  "birthYear": 1427,
-  "deathYear": 1452,
-  "bio": "Spanish artist (1427–1452). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/8a0e4ac9-43ea-bc3e-884b-ee27f8a10501/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Vilhelm Hammershøi",
+  "nationality": "Danish",
+  "birthYear": 1864,
+  "deathYear": 1916,
+  "bio": "Danish artist (1864–1916). Represented here by 12 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/b8515r46k_KMSKMS8415.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 75,
-  "name": "Francisco de Zurbarán",
-  "nationality": "Spanish",
-  "birthYear": 1598,
-  "deathYear": 1664,
-  "bio": "Spanish artist (1598–1664). Represented here by 2 works (painting) in the collections of Art Institute and Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/1960.117/1960.117_web.jpg",
-  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+  "name": "André Derain",
+  "nationality": "French",
+  "birthYear": 1880,
+  "deathYear": 1954,
+  "bio": "French artist (1880–1954). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/cj82kb35p_KMSr14.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 76,
-  "name": "Edvard Munch",
-  "nationality": "Norwegian",
-  "birthYear": 1863,
-  "deathYear": 1944,
-  "bio": "Norwegian artist (1863–1944). Represented here by 2 works (painting, print) in the collections of Art Institute and Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/1959.82/1959.82_web.jpg",
-  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+  "name": "Lucas Cranach (I)",
+  "nationality": "German",
+  "birthYear": 1472,
+  "deathYear": 1553,
+  "bio": "German artist (1472–1553). Represented here by 3 works (painting, woodcut) in the collections of Cleveland and SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/8336h5032_KMSsp722.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 77,
-  "name": "Bartolomeo Manfredi",
-  "nationality": "Italian",
-  "birthYear": 1582,
-  "deathYear": 1622,
-  "bio": "Italian artist (1582–1622). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/0f951635-312c-0829-451b-553f461c5518/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Cornelis Cornelisz. van Haarlem",
+  "nationality": "Dutch",
+  "birthYear": 1562,
+  "deathYear": 1638,
+  "bio": "Dutch artist (1562–1638). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/9g54xm869_KMS1-cropped.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 78,
-  "name": "Meindert Hobbema",
-  "nationality": "Dutch",
-  "birthYear": 1638,
-  "deathYear": 1709,
-  "bio": "Dutch artist (1638–1709). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/237c25a2-6051-a8e7-1610-a01938d4deab/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Michiel Sittow",
+  "nationality": null,
+  "birthYear": 1468,
+  "deathYear": 1525,
+  "bio": "Artist (1468–1525). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/6108vf877_KMSsp789.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 79,
-  "name": "Nicolas Poussin",
-  "nationality": "French",
-  "birthYear": 1594,
-  "deathYear": 1665,
-  "bio": "French artist (1594–1665). Represented here by 2 works (painting) in the collections of Art Institute and Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/1981.18/1981.18_web.jpg",
-  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+  "name": "P.S. Krøyer",
+  "nationality": "Danish",
+  "birthYear": 1851,
+  "deathYear": 1909,
+  "bio": "Danish artist (1851–1909). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/jq085p34x_KMS3605.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 80,
-  "name": "Joseph Mallord William Turner",
-  "nationality": "English",
-  "birthYear": 1775,
-  "deathYear": 1851,
-  "bio": "English artist (1775–1851). Represented here by 2 works (painting) in the collections of Art Institute and Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/1942.647/1942.647_web.jpg",
-  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+  "name": "Wilhelm Bendz",
+  "nationality": "Danish",
+  "birthYear": 1804,
+  "deathYear": 1832,
+  "bio": "Danish artist (1804–1832). Represented here by 2 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/6t053k74c_KMS4081_crop.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 81,
-  "name": "Hilaire Germain Edgar Degas",
-  "nationality": "French",
-  "birthYear": 1834,
-  "deathYear": 1917,
-  "bio": "French artist (1834–1917). Represented here by 2 works (drawing and watercolor, painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/cb34b0a8-bc51-d063-aab1-47c7debf3a7b/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "name": "Cornelius Norbertus Gijsbrechts",
+  "nationality": "Flemish",
+  "birthYear": 1625,
+  "deathYear": 1675,
+  "bio": "Flemish artist (1625–1675). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/6682x6271_KMSKMSst537.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 82,
+  "name": "Andrea Mantegna",
+  "nationality": "Italian",
+  "birthYear": 1429,
+  "deathYear": 1506,
+  "bio": "Italian artist (1429–1506). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/0z7090740_KMSsp69_crop.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 83,
+  "name": "Valdemar Schønheyder Møller",
+  "nationality": "Danish",
+  "birthYear": 1864,
+  "deathYear": 1905,
+  "bio": "Danish artist (1864–1905). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/rv042x29x_KMSKMS8079.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 84,
+  "name": "C.G. Pilo",
+  "nationality": "Swedish",
+  "birthYear": 1711,
+  "deathYear": 1793,
+  "bio": "Swedish artist (1711–1793). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/nc580q51v_kms8856.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 85,
+  "name": "Emil Ditlev Bærentzen",
+  "nationality": "Danish",
+  "birthYear": 1799,
+  "deathYear": 1868,
+  "bio": "Danish artist (1799–1868). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/n009w532p_KMS8588.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 86,
+  "name": "Anna Ancher",
+  "nationality": "Danish",
+  "birthYear": 1859,
+  "deathYear": 1935,
+  "bio": "Danish artist (1859–1935). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/g445ch47r_KMS8654.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 87,
+  "name": "C.W. Eckersberg",
+  "nationality": "Danish",
+  "birthYear": 1783,
+  "deathYear": 1853,
+  "bio": "Danish artist (1783–1853). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/gt54kr53q_KMS8847_crop.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 88,
+  "name": "Wilhelm Marstrand",
+  "nationality": "Danish",
+  "birthYear": 1810,
+  "deathYear": 1873,
+  "bio": "Danish artist (1810–1873). Represented here by 4 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/41687m95d_kms2071.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 89,
+  "name": "Jørgen V. Sonne",
+  "nationality": "Danish",
+  "birthYear": 1801,
+  "deathYear": 1890,
+  "bio": "Danish artist (1801–1890). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/5999n649x_KMSKMS7485.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 90,
+  "name": "Constantin Hansen",
+  "nationality": "Danish",
+  "birthYear": 1804,
+  "deathYear": 1880,
+  "bio": "Danish artist (1804–1880). Represented here by 2 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/dr26z1531_KMS3388.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 91,
+  "name": "Nicolai Abildgaard",
+  "nationality": "Danish",
+  "birthYear": 1743,
+  "deathYear": 1809,
+  "bio": "Danish artist (1743–1809). Represented here by 3 works (drawing, painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/dr26z1549_KMS3397.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 92,
+  "name": "C.A. Lorentzen",
+  "nationality": "Danish",
+  "birthYear": 1746,
+  "deathYear": 1828,
+  "bio": "Danish artist (1746–1828). Represented here by 2 works (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/3x816q875_KMS274_-_version.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 93,
+  "name": "Thorald Læssøe",
+  "nationality": "Danish",
+  "birthYear": 1816,
+  "deathYear": 1878,
+  "bio": "Danish artist (1816–1878). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/qr46r396q_KMSKMS4951.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 94,
+  "name": "Christen Dalsgaard",
+  "nationality": "Danish",
+  "birthYear": 1824,
+  "deathYear": 1907,
+  "bio": "Danish artist (1824–1907). Represented here by 1 work (painting) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/bz60d047v_KMSKMS3684.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 95,
+  "name": "Astrid Noack",
+  "nationality": "Danish",
+  "birthYear": 1888,
+  "deathYear": 1954,
+  "bio": "Danish artist (1888–1954). Represented here by 2 works (statue) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/1831cq73s_kms7007.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 96,
+  "name": "Svend Rathsack",
+  "nationality": "Danish",
+  "birthYear": 1885,
+  "deathYear": 1941,
+  "bio": "Danish artist (1885–1941). Represented here by 1 work (statue) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/6t053k40j_KMS5742.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 97,
+  "name": "Anne Marie Carl Nielsen",
+  "nationality": "Danish",
+  "birthYear": 1863,
+  "deathYear": 1945,
+  "bio": "Danish artist (1863–1945). Represented here by 1 work (statue) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/0v838389c_KMS5781_-_.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 98,
+  "name": "Ubekendt",
+  "nationality": null,
+  "birthYear": 1498,
+  "deathYear": 1513,
+  "bio": "Artist (1498–1513). Represented here by 1 work (statue) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/jd473213r_kms5487.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 99,
+  "name": "Ubekendt fransk begyndelsen af 1500-tallet",
+  "nationality": "French",
+  "birthYear": 1450,
+  "deathYear": 1515,
+  "bio": "French artist (1450–1515). Represented here by 1 work (statue) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/6w924h28p_kms6344.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 100,
+  "name": "J.A. Jerichau (I)",
+  "nationality": "Danish",
+  "birthYear": 1816,
+  "deathYear": 1883,
+  "bio": "Danish artist (1816–1883). Represented here by 1 work (statue) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/np193d193_KMSKMS5025.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 101,
+  "name": "August Saabye",
+  "nationality": "Danish",
+  "birthYear": 1823,
+  "deathYear": 1916,
+  "bio": "Danish artist (1823–1916). Represented here by 1 work (statue) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/d791sk08n_KMS5263.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 102,
+  "name": "Giovanni Lorenzo Bernini",
+  "nationality": "Italian",
+  "birthYear": 1598,
+  "deathYear": 1680,
+  "bio": "Italian artist (1598–1680). Represented here by 2 works (bust) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/gx41mn78t_dep44.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 103,
+  "name": "Domenico da Salò",
+  "nationality": "Italian",
+  "birthYear": 1552,
+  "deathYear": 1571,
+  "bio": "Italian artist (1552–1571). Represented here by 1 work (bust) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/gt54kr184_DEP42.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 104,
+  "name": "Alessandro Vittoria",
+  "nationality": "Italian",
+  "birthYear": 1525,
+  "deathYear": 1608,
+  "bio": "Italian artist (1525–1608). Represented here by 1 work (bust) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/0p096c572_DEP61.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 105,
+  "name": "Ubekendt italiensk",
+  "nationality": "Italian",
+  "birthYear": null,
+  "deathYear": null,
+  "bio": "Italian artist. Represented here by 1 work (bust) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/ht24wq232_DEP45.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 106,
+  "name": "Lorenzo Ottoni",
+  "nationality": "Italian",
+  "birthYear": 1648,
+  "deathYear": 1736,
+  "bio": "Italian artist (1648–1736). Represented here by 1 work (bust) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/g158bn829_DEP46.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 107,
+  "name": "Georg Saleman",
+  "nationality": "Danish",
+  "birthYear": 1670,
+  "deathYear": 1729,
+  "bio": "Danish artist (1670–1729). Represented here by 1 work (miniature) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/s7526j42x_KMS4652.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 108,
+  "name": "Ubekendt omkring 1700",
+  "nationality": "French",
+  "birthYear": null,
+  "deathYear": null,
+  "bio": "French artist. Represented here by 1 work (miniature) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/2j62s9503_KMS4349.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 109,
+  "name": "Anna Maria van Schurman",
+  "nationality": "German",
+  "birthYear": 1607,
+  "deathYear": 1678,
+  "bio": "German artist (1607–1678). Represented here by 1 work (miniature) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/tb09j905r_kms1988.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 110,
+  "name": "Rosalba Carriera",
+  "nationality": "Italian",
+  "birthYear": 1673,
+  "deathYear": 1757,
+  "bio": "Italian artist (1673–1757). Represented here by 1 work (miniature) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/n583z077p_kms4837.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 111,
+  "name": "Cornelius Høyer",
+  "nationality": "Danish",
+  "birthYear": 1741,
+  "deathYear": 1804,
+  "bio": "Danish artist (1741–1804). Represented here by 1 work (miniature) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/8s45qf37x_kms4819.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 112,
+  "name": "Pieter Holsteyn (I)",
+  "nationality": "Netherlandish",
+  "birthYear": 1580,
+  "deathYear": 1662,
+  "bio": "Netherlandish artist (1580–1662). Represented here by 1 work (watercolour) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/h415pg326_kksgb16521.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 113,
+  "name": "Willem Panneels",
+  "nationality": "Flemish",
+  "birthYear": 1600,
+  "deathYear": 1634,
+  "bio": "Flemish artist (1600–1634). Represented here by 2 works (drawing) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/f7623d918_kksgb5315.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 114,
+  "name": "Maarten van Heemskerck",
+  "nationality": "Netherlandish",
+  "birthYear": 1498,
+  "deathYear": 1574,
+  "bio": "Netherlandish artist (1498–1574). Represented here by 1 work (drawing) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/73666767r_kksgb9156.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 115,
+  "name": "P.C. Skovgaard",
+  "nationality": "Danish",
+  "birthYear": 1817,
+  "deathYear": 1875,
+  "bio": "Danish artist (1817–1875). Represented here by 1 work (drawing) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/fx719q002_pc4-15-11-04_-_030.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 116,
+  "name": "Johan Thomas Lundbye",
+  "nationality": "Danish",
+  "birthYear": 1818,
+  "deathYear": 1848,
+  "bio": "Danish artist (1818–1848). Represented here by 3 works (drawing) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/3n204210z_pc4-14-12-04_-_056.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 117,
+  "name": "Ubekendt KKS",
+  "nationality": "unknown",
+  "birthYear": null,
+  "deathYear": null,
+  "bio": "unknown artist. Represented here by 2 works (drawing, watercolour) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/pr76f8514_kksgb13594.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 118,
+  "name": "A. Wolf",
+  "nationality": "German",
+  "birthYear": null,
+  "deathYear": 1800,
+  "bio": "German artist. Represented here by 1 work (drawing) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/f1881r09n_kksgb16842.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 119,
+  "name": "A. Burg",
+  "nationality": "German",
+  "birthYear": 1730,
+  "deathYear": 1830,
+  "bio": "German artist (1730–1830). Represented here by 1 work (drawing) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/gf06g6570_kksgb16841.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 120,
+  "name": "Bartolommeo Letterini",
+  "nationality": "Italian",
+  "birthYear": 1669,
+  "deathYear": 1745,
+  "bio": "Italian artist (1669–1745). Represented here by 1 work (drawing) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/gx41mn82d_kks11137.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 121,
+  "name": "Gerard van Honthorst",
+  "nationality": "Dutch",
+  "birthYear": 1592,
+  "deathYear": 1656,
+  "bio": "Dutch artist (1592–1656). Represented here by 1 work (drawing) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/7d278z62d_kksgb11569.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 122,
+  "name": "Peter Cramer",
+  "nationality": "Danish",
+  "birthYear": 1726,
+  "deathYear": 1782,
+  "bio": "Danish artist (1726–1782). Represented here by 1 work (watercolour) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/b2773z84h_kksgb21766.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 123,
+  "name": "H.G.F. Holm",
+  "nationality": "Danish",
+  "birthYear": 1803,
+  "deathYear": 1861,
+  "bio": "Danish artist (1803–1861). Represented here by 1 work (watercolour) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/w3763b937_kksgb20565.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 124,
+  "name": "Niels Larsen Stevns",
+  "nationality": "Danish",
+  "birthYear": 1864,
+  "deathYear": 1941,
+  "bio": "Danish artist (1864–1941). Represented here by 2 works (watercolour) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/9z9033565_kks1971_373_9.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 125,
+  "name": "Sigmund Ferdinand Ritter von Perger",
+  "nationality": "Austrian",
+  "birthYear": 1778,
+  "deathYear": 1841,
+  "bio": "Austrian artist (1778–1841). Represented here by 1 work (watercolour) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/ws859k68q_kksgb18206.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 126,
   "name": "Rembrandt van Rijn",
   "nationality": "Dutch",
   "birthYear": 1606,
   "deathYear": 1669,
-  "bio": "Dutch artist (1606–1669). Represented here by 2 works (drawing and watercolor, painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/6fa39eac-ad97-a247-920f-210a370a3f52/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "bio": "Dutch artist (1606–1669). Represented here by 1 work (etching) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/ff365819q_pc4_-_09-12-05_-_001.tif.reconstructed.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 83,
-  "name": "Gustave Moreau",
+  "id": 127,
+  "name": "Matthias Zündt",
+  "nationality": "German",
+  "birthYear": 1498,
+  "deathYear": 1572,
+  "bio": "German artist (1498–1572). Represented here by 4 works (etching) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/6d570178m_kksgb22352.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 128,
+  "name": "Marcus de Bye",
+  "nationality": null,
+  "birthYear": 1639,
+  "deathYear": 1690,
+  "bio": "Artist (1639–1690). Represented here by 2 works (etching) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/7h149v026_kksgb1256.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 129,
+  "name": "Albrecht Dürer",
+  "nationality": "German",
+  "birthYear": 1471,
+  "deathYear": 1528,
+  "bio": "German artist (1471–1528). Represented here by 1 work (woodcut) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/n870zv458_kksgb9087_7.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 130,
+  "name": "Markus Lynge",
+  "nationality": "Greenland",
+  "birthYear": 1816,
+  "deathYear": 1892,
+  "bio": "Greenland artist (1816–1892). Represented here by 2 works (woodcut) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/t435gj38r_kks13358d.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 131,
+  "name": "Aron fra Kangeq",
+  "nationality": "Greenland",
+  "birthYear": 1822,
+  "deathYear": 1869,
+  "bio": "Greenland artist (1822–1869). Represented here by 1 work (woodcut) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/q811kq25n_kks13358h.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 132,
+  "name": "Cornelis Cort",
+  "nationality": "Netherlandish",
+  "birthYear": 1533,
+  "deathYear": 1578,
+  "bio": "Netherlandish artist (1533–1578). Represented here by 1 work (copper engraving) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/9p290d823_kksgb9904_7.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 133,
+  "name": "Willem van Swanenburgh",
+  "nationality": "Netherlandish",
+  "birthYear": 1610,
+  "deathYear": 1674,
+  "bio": "Netherlandish artist (1610–1674). Represented here by 1 work (copper engraving) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/bc386p50w_kksgb22235.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 134,
+  "name": "Jan Saenredam",
+  "nationality": "Dutch",
+  "birthYear": 1565,
+  "deathYear": 1607,
+  "bio": "Dutch artist (1565–1607). Represented here by 3 works (copper engraving) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/4f16c739h_kksgb1404.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 135,
+  "name": "Fortuné Ferogio",
   "nationality": "French",
-  "birthYear": 1826,
-  "deathYear": 1898,
-  "bio": "French artist (1826–1898). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/2ae64c8a-266d-470a-a25a-c83127564636/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "birthYear": 1805,
+  "deathYear": 1888,
+  "bio": "French artist (1805–1888). Represented here by 1 work (lithograph) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/9z9034243_kksgb13549.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
-  "id": 84,
+  "id": 136,
+  "name": "Lars Møller",
+  "nationality": "Greenland",
+  "birthYear": 1842,
+  "deathYear": 1926,
+  "bio": "Greenland artist (1842–1926). Represented here by 1 work (lithograph) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/ns064b24d_kks13404.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
+ },
+ {
+  "id": 137,
   "name": "Édouard Manet",
   "nationality": "French",
   "birthYear": 1832,
   "deathYear": 1883,
-  "bio": "French artist (1832–1883). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/4d03ba14-a01a-d003-404a-cf3f9fb40ede/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 85,
-  "name": "Juan Sánchez Cotán",
-  "nationality": "Spanish",
-  "birthYear": 1560,
-  "deathYear": 1627,
-  "bio": "Spanish artist (1560–1627). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/f2021182-1302-f76f-97f1-4e7850030e3b/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 86,
-  "name": "Paul Gauguin",
-  "nationality": "French",
-  "birthYear": 1848,
-  "deathYear": 1903,
-  "bio": "French artist (1848–1903). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/ae6ac285-6887-dd76-4570-d379c786dfae/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 87,
-  "name": "John Philip Simpson",
-  "nationality": "English",
-  "birthYear": 1782,
-  "deathYear": 1847,
-  "bio": "English artist (1782–1847). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/5490fd49-dd52-4fd7-7d41-d871dcffae55/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 88,
-  "name": "Mexica (Aztec)",
-  "nationality": "Mexica",
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Mexica artist. Represented here by 1 work (sculpture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/ea8c5d62-6ce8-88e8-feb1-e0053cf534c5/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 89,
-  "name": "Mary Cassatt",
-  "nationality": "American",
-  "birthYear": 1844,
-  "deathYear": 1926,
-  "bio": "American artist (1844–1926). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/3b885ae0-4d46-5fe4-d70a-00474827f02c/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 90,
-  "name": "Winslow Homer",
-  "nationality": "American",
-  "birthYear": 1836,
-  "deathYear": 1910,
-  "bio": "American artist (1836–1910). Represented here by 4 works (drawing, drawing and watercolor, painting) in the collections of Art Institute and Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/1954.128/1954.128_web.jpg",
-  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 91,
-  "name": "John Singer Sargent",
-  "nationality": "American",
-  "birthYear": 1856,
-  "deathYear": 1925,
-  "bio": "American artist (1856–1925). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/3f9aa9db-61e1-7060-fdb0-bfd7e41ddd08/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 92,
-  "name": "James McNeill Whistler",
-  "nationality": "American",
-  "birthYear": 1834,
-  "deathYear": 1903,
-  "bio": "American artist (1834–1903). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/50034c7f-ce51-00f1-430e-a6f7efc233fc/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 93,
-  "name": "George Wesley Bellows",
-  "nationality": "American",
-  "birthYear": 1882,
-  "deathYear": 1925,
-  "bio": "American artist (1882–1925). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/18ab0c35-e35c-0216-9afd-f93357920db1/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 94,
-  "name": "William James Glackens",
-  "nationality": "American",
-  "birthYear": 1870,
-  "deathYear": 1938,
-  "bio": "American artist (1870–1938). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/b146368d-a855-63ac-6115-04b835c60bb0/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 95,
-  "name": "George Inness",
-  "nationality": "American",
-  "birthYear": 1825,
-  "deathYear": 1894,
-  "bio": "American artist (1825–1894). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/0f2d999d-0173-2935-a6d0-0175bb97b2a9/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 96,
-  "name": "Frederic Remington",
-  "nationality": "American",
-  "birthYear": 1861,
-  "deathYear": 1909,
-  "bio": "American artist (1861–1909). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/f1e03813-f9c7-f4f8-fbe8-a5eeae84fda4/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 97,
-  "name": "Chimú",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 2 works (metalwork, textile) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/801ac46f-ead4-a77a-8523-34dfade43877/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 98,
-  "name": "Moche",
-  "nationality": "Moche",
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Moche artist. Represented here by 1 work (ceramics) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/239e0072-de08-cb26-1484-4776fc27b0fb/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 99,
-  "name": "Martin Johnson Heade",
-  "nationality": "American",
-  "birthYear": 1819,
-  "deathYear": 1904,
-  "bio": "American artist (1819–1904). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/0729fbba-51e3-a2d7-6d4d-61c2be62af3f/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 100,
-  "name": "John Henry Twachtman",
-  "nationality": "American",
-  "birthYear": 1853,
-  "deathYear": 1902,
-  "bio": "American artist (1853–1902). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/3ae75415-0551-ae17-c478-3b8687a6f246/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 101,
-  "name": "Raphaelle Peale",
-  "nationality": "American",
-  "birthYear": 1774,
-  "deathYear": 1825,
-  "bio": "American artist (1774–1825). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/1cddae1c-99d5-462f-4aa6-128c0732ac11/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 102,
-  "name": "Horace Pippin",
-  "nationality": "American",
-  "birthYear": 1888,
-  "deathYear": 1946,
-  "bio": "American artist (1888–1946). Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/18dd28cc-ae57-b852-cbc4-d184c6f0555d/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 103,
-  "name": "Katsushika Hokusai",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (print) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/2fa24f36-cc26-41b6-4b49-12bba2a6c1c8/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 104,
-  "name": "Tosa Mitsuoki",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/86e919b9-d366-b3ca-d26f-4c16880474a3/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 105,
-  "name": "Japan",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 2 works (sculpture, textile) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/1d30ac4e-c91c-d91d-705f-acdce9e6efb4/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 106,
-  "name": "China",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 4 works (funerary object, metalwork, sculpture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/fa3a6e30-09ce-5c9e-5cba-a682ca4d56e7/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 107,
-  "name": "Ghasi",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/9f08b895-4960-4bc6-5871-dc9bfab4c655/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 108,
-  "name": "Basawan",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/c3c4fa77-ae12-1e5e-cc8a-0bde4f1be2ca/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 109,
-  "name": "Ike Taiga",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/637a65fa-a6f2-8a9f-a6f4-98fcffe2ec92/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 110,
-  "name": "Tōshūsai Sharaku",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (print) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/ea632771-07fe-0c80-a565-ef1624b28465/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 111,
-  "name": "Rosalba Carriera",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (drawing and watercolor) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/2d9fb8b5-b9a3-3e41-270e-3c480f7b317b/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 112,
-  "name": "Odilon Redon",
-  "nationality": "French",
-  "birthYear": 1840,
-  "deathYear": 1916,
-  "bio": "French artist (1840–1916). Represented here by 2 works (drawing, drawing and watercolor) in the collections of Art Institute and Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/1926.25/1926.25_web.jpg",
-  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 113,
-  "name": "Caspar David Friedrich",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (drawing and watercolor) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/444f3e95-b21f-c821-e6af-00fe9560fb95/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 114,
-  "name": "Giovanni Benedetto Castiglione",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (print) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/413a9edf-ee27-ee07-5b51-88712143cb89/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 115,
-  "name": "Albrecht Dürer",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (drawing and watercolor) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/d2529576-bbf0-c631-6f8c-659e825c552d/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 116,
-  "name": "Joseph Wright of Derby",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (drawing and watercolor) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/f656efb0-b800-1f80-f087-0d21f1a0ee5f/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 117,
-  "name": "Narcissa Niblack Thorne",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (miniature room) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/0a2d277c-34e2-8c29-e142-4daea2546217/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 118,
-  "name": "Manufacture nationale de Sèvres",
-  "nationality": null,
-  "birthYear": 1756,
-  "deathYear": null,
-  "bio": "Artist (born 1756). Represented here by 1 work (ceramics) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/b6a9355f-aca4-b264-772f-a86ec22731e5/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 119,
-  "name": "Johann Joachim Kändler",
-  "nationality": null,
-  "birthYear": 1710,
-  "deathYear": null,
-  "bio": "Artist (born 1710). Represented here by 1 work (ceramics) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/4216354e-9c12-4129-a43f-a5c114fb95f1/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 120,
-  "name": "León, Spain",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (metalwork) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/e1ac9f2d-591e-6063-ae1b-d0cd1c66a3a3/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 121,
-  "name": "Edward William Godwin",
-  "nationality": "English",
-  "birthYear": 1833,
-  "deathYear": 1886,
-  "bio": "English artist (1833–1886). Represented here by 1 work (furniture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/2bc4d353-e61a-7589-8585-2000a23689bb/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 122,
-  "name": "Francesco Durantino",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (ceramics) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/a69557c8-2883-6634-5cf0-93f060ec280a/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 123,
-  "name": "Cabinet: Augsburg",
-  "nationality": "now Germany",
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "now Germany artist. Represented here by 1 work (furniture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/9acc00ff-c587-6af5-978c-ce3d0655c80d/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 124,
-  "name": "André Charles Boulle",
-  "nationality": "born France",
-  "birthYear": 1642,
-  "deathYear": 1732,
-  "bio": "born France artist (1642–1732). Represented here by 1 work (furniture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/be169735-ea1c-7440-c438-bafd24021119/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 125,
-  "name": "Jean Pierre Latz",
-  "nationality": "born Cologne [now Germany]",
-  "birthYear": 1691,
-  "deathYear": 1754,
-  "bio": "born Cologne [now Germany] artist (1691–1754). Represented here by 1 work (furniture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/ce583554-7fac-705e-2130-ec94c1abb2e2/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 126,
-  "name": "Hans Ludwig Kienle",
-  "nationality": "born Ulm [now Germany]",
-  "birthYear": 1591,
-  "deathYear": 1653,
-  "bio": "born Ulm [now Germany] artist (1591–1653). Represented here by 1 work (metalwork) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/1dcb1fd9-8254-8098-586c-e5b117c00871/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 127,
-  "name": "Egypt",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (textile) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/548e0a34-6043-2fea-628e-97f46484d3f5/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 128,
-  "name": "Guy-Louis Vernansal",
-  "nationality": "French",
-  "birthYear": 1648,
-  "deathYear": 1729,
-  "bio": "French artist (1648–1729). Represented here by 1 work (textile) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/17455fc4-14ec-b892-93d2-ebf89c7c689e/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 129,
-  "name": "Bukhara, Uzbekistan",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (costume and accessories) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/899c5368-d920-d493-05b3-43c875bcce95/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 130,
-  "name": "Jean-Demosthene Dugourc",
-  "nationality": "French",
-  "birthYear": 1749,
-  "deathYear": 1825,
-  "bio": "French artist (1749–1825). Represented here by 1 work (textile) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/02738f67-3be4-4a69-0d80-ec33b7e6429c/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 131,
-  "name": "England",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (religious/ritual object) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/a80e815d-aebd-a6cc-49c4-8741734ba640/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 132,
-  "name": "Koloman (Kolo) Moser",
-  "nationality": "Austrian",
-  "birthYear": 1868,
-  "deathYear": 1918,
-  "bio": "Austrian artist (1868–1918). Represented here by 1 work (textile) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/71550262-862a-d19a-680b-f50a2e284901/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 133,
-  "name": "Olowe of Ise",
-  "nationality": null,
-  "birthYear": 1938,
-  "deathYear": null,
-  "bio": "Artist (born 1938). Represented here by 1 work (sculpture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/fec5d023-0b46-45df-eb57-cbf64e24121d/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 134,
-  "name": "Ancient Egyptian",
-  "nationality": "now Luxor",
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "now Luxor artist. Represented here by 2 works (architectural fragment, funerary object) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/93270aaf-16a5-1604-c6c8-0f3c003eb7a1/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 135,
-  "name": "Vili",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (sculpture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/c3f36398-eee0-77a9-17f4-204f3252f6f9/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 136,
-  "name": "Swahili",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (furniture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/6f071f3a-a59e-ee80-6528-ed1fa8670090/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 137,
-  "name": "Fang",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (sculpture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/73e4f1d9-97a2-1742-5235-72bfcaef9473/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
+  "bio": "French artist (1832–1883). Represented here by 2 works (lithograph) in the collection of SMK.",
+  "image": "https://iip.smk.dk/iiif/jp2/br86b781w_kks20164_crop.tif.jp2/full/!400,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain — a work by the artist, not a portrait"
  },
  {
   "id": 138,
-  "name": "Samuel J. Miller",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (photograph) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/68597cf9-01aa-7c1f-1179-d4b8811e1c05/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 139,
-  "name": "Alfred Stieglitz",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 2 works (photograph) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/62fdbcae-4491-91c3-6fdc-728e1cf4b547/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 140,
-  "name": "Carleton Watkins",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (photograph) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/0ac9663b-e17e-471d-e4e3-6c60fc800704/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 141,
-  "name": "William Henry Fox Talbot",
-  "nationality": "British",
-  "birthYear": 1800,
-  "deathYear": 1877,
-  "bio": "British artist (1800–1877). Represented here by 2 works (photograph) in the collections of Art Institute and Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/2006.4/2006.4_web.jpg",
-  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 142,
-  "name": "Julia Margaret Cameron",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 2 works (photograph) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/a50be06e-0072-24a5-9fa5-3e172c638fee/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 143,
-  "name": "David Octavius Hill",
-  "nationality": "Scottish",
-  "birthYear": 1802,
-  "deathYear": 1870,
-  "bio": "Scottish artist (1802–1870). Represented here by 1 work (photograph) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/34dc6d7b-0201-bd9d-687d-06993555700b/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 144,
-  "name": "Vasily Kandinsky",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/b5bc6b66-9e6e-fe57-dcec-fc49e820e904/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 145,
-  "name": "Piet Mondrian",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/25f660ee-f1db-d13b-42a5-56df97c98ba7/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 146,
-  "name": "Henri Matisse",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 2 works (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/d0e36029-27fc-bf4e-357a-55cfbaf7bdfd/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 147,
-  "name": "Amedeo Modigliani",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (painting) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/7e649536-b186-c3f5-3e6d-0d22d5d798ef/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 148,
-  "name": "Ancient Roman",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (sculpture) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/34133244-99a5-246f-c72f-76f32e55d253/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 149,
-  "name": "Mattinata Painter",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (vessel) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/44abac03-4d36-aac6-f44e-ffe1d57dfb03/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 150,
-  "name": "Penthesilea Painter",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (vessel) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/9312601d-c20c-289e-c026-eafc676c5116/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 151,
-  "name": "Ancient Greek",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 3 works (sculpture, vessel) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/38ea638d-c8f7-f916-da08-ac7730b6ed5a/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 152,
-  "name": "Adler & Sullivan, Architects",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (installation) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/47b28b55-ced6-502d-f111-fbe0033f8dc8/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 153,
-  "name": "Daniel Hudson Burnham",
-  "nationality": null,
-  "birthYear": null,
-  "deathYear": null,
-  "bio": "Artist. Represented here by 1 work (architectural drawing) in the collection of Art Institute.",
-  "image": "https://www.artic.edu/iiif/2/db2379de-daa1-6def-087b-c1e9d8185531/full/400,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0 — a work by the artist, not a portrait"
- },
- {
-  "id": 154,
   "name": "Lorenzo Lotto",
   "nationality": "Italian",
   "birthYear": 1480,
@@ -1540,7 +1380,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 155,
+  "id": 139,
   "name": "Frans Hals",
   "nationality": "Dutch",
   "birthYear": 1581,
@@ -1550,7 +1390,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 156,
+  "id": 140,
   "name": "Andrea del Sarto",
   "nationality": "Italian",
   "birthYear": 1486,
@@ -1560,17 +1400,17 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 157,
-  "name": "Lucas Cranach",
-  "nationality": "German",
-  "birthYear": 1472,
-  "deathYear": 1553,
-  "bio": "German artist (1472–1553). Represented here by 1 work (painting) in the collection of Cleveland.",
-  "image": "https://openaccess-cdn.clevelandart.org/1958.425/1958.425_web.jpg",
+  "id": 141,
+  "name": "Nicolas Poussin",
+  "nationality": "French",
+  "birthYear": 1594,
+  "deathYear": 1665,
+  "bio": "French artist (1594–1665). Represented here by 1 work (painting) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1981.18/1981.18_web.jpg",
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 158,
+  "id": 142,
   "name": "Georges de La Tour",
   "nationality": "French",
   "birthYear": 1593,
@@ -1580,7 +1420,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 159,
+  "id": 143,
   "name": "Orazio Gentileschi",
   "nationality": "Italian",
   "birthYear": 1563,
@@ -1590,7 +1430,17 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 160,
+  "id": 144,
+  "name": "Francisco de Zurbarán",
+  "nationality": "Spanish",
+  "birthYear": 1598,
+  "deathYear": 1664,
+  "bio": "Spanish artist (1598–1664). Represented here by 1 work (painting) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1960.117/1960.117_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 145,
   "name": "Peter Paul Rubens",
   "nationality": "Flemish",
   "birthYear": 1577,
@@ -1600,7 +1450,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 161,
+  "id": 146,
   "name": "Diego Velázquez",
   "nationality": "Spanish",
   "birthYear": 1599,
@@ -1610,7 +1460,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 162,
+  "id": 147,
   "name": "Mino da Fiesole",
   "nationality": "Italian",
   "birthYear": 1430,
@@ -1620,7 +1470,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 163,
+  "id": 148,
   "name": "Thomas Lawrence",
   "nationality": "British",
   "birthYear": 1769,
@@ -1630,7 +1480,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 164,
+  "id": 149,
   "name": "Johann Zoffany",
   "nationality": "German",
   "birthYear": 1733,
@@ -1640,7 +1490,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 165,
+  "id": 150,
   "name": "Nicholas Hilliard",
   "nationality": "English",
   "birthYear": 1547,
@@ -1650,7 +1500,17 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 166,
+  "id": 151,
+  "name": "Claude Monet",
+  "nationality": "French",
+  "birthYear": 1840,
+  "deathYear": 1926,
+  "bio": "French artist (1840–1926). Represented here by 2 works (painting) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1960.81/1960.81_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 152,
   "name": "Jacques-Louis David",
   "nationality": "French",
   "birthYear": 1748,
@@ -1660,7 +1520,27 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 167,
+  "id": 153,
+  "name": "Joseph Mallord William Turner",
+  "nationality": "British",
+  "birthYear": 1775,
+  "deathYear": 1851,
+  "bio": "British artist (1775–1851). Represented here by 1 work (painting) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1942.647/1942.647_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 154,
+  "name": "Vincent van Gogh",
+  "nationality": "Dutch",
+  "birthYear": 1853,
+  "deathYear": 1890,
+  "bio": "Dutch artist (1853–1890). Represented here by 1 work (painting) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 155,
   "name": "Ernst Ludwig Kirchner",
   "nationality": "German",
   "birthYear": 1880,
@@ -1670,7 +1550,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 168,
+  "id": 156,
   "name": "Jean Baptiste Camille Corot",
   "nationality": "French",
   "birthYear": 1796,
@@ -1680,7 +1560,27 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 169,
+  "id": 157,
+  "name": "Paul Cezanne",
+  "nationality": "French",
+  "birthYear": 1839,
+  "deathYear": 1906,
+  "bio": "French artist (1839–1906). Represented here by 1 work (painting) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1958.21/1958.21_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 158,
+  "name": "Pierre-Auguste Renoir",
+  "nationality": "French",
+  "birthYear": 1841,
+  "deathYear": 1919,
+  "bio": "French artist (1841–1919). Represented here by 1 work (painting) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1942.1065/1942.1065_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 159,
   "name": "George Bellows",
   "nationality": "American",
   "birthYear": 1882,
@@ -1690,7 +1590,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 170,
+  "id": 160,
   "name": "Thomas Eakins",
   "nationality": "American",
   "birthYear": 1844,
@@ -1700,7 +1600,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 171,
+  "id": 161,
   "name": "Albert Pinkham Ryder",
   "nationality": "American",
   "birthYear": 1847,
@@ -1710,7 +1610,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 172,
+  "id": 162,
   "name": "Benjamin West",
   "nationality": "American",
   "birthYear": 1738,
@@ -1720,7 +1620,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 173,
+  "id": 163,
   "name": "William Sidney Mount",
   "nationality": "American",
   "birthYear": 1807,
@@ -1730,7 +1630,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 174,
+  "id": 164,
   "name": "Edmonia Lewis",
   "nationality": "American",
   "birthYear": 1844,
@@ -1740,7 +1640,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 175,
+  "id": 165,
   "name": "Katsushika Ōi",
   "nationality": "Japanese",
   "birthYear": 1800,
@@ -1750,7 +1650,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 176,
+  "id": 166,
   "name": "Sesson Shūkei",
   "nationality": "Japanese",
   "birthYear": 1492,
@@ -1760,7 +1660,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 177,
+  "id": 167,
   "name": "Zhu Bishan",
   "nationality": "Chinese",
   "birthYear": 1300,
@@ -1770,7 +1670,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 178,
+  "id": 168,
   "name": "Yi Taek-gyun",
   "nationality": "Korean",
   "birthYear": 1808,
@@ -1780,7 +1680,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 179,
+  "id": 169,
   "name": "Aniko",
   "nationality": "Nepalese",
   "birthYear": 1200,
@@ -1790,7 +1690,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 180,
+  "id": 170,
   "name": "Policoro Painter",
   "nationality": "South Italian",
   "birthYear": 400,
@@ -1800,7 +1700,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 181,
+  "id": 171,
   "name": "Antimenes Painter",
   "nationality": "Greek",
   "birthYear": 530,
@@ -1810,7 +1710,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 182,
+  "id": 172,
   "name": "Douris",
   "nationality": "Greek",
   "birthYear": 500,
@@ -1820,7 +1720,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 183,
+  "id": 173,
   "name": "Berlin Painter",
   "nationality": "Greek",
   "birthYear": -540,
@@ -1830,7 +1730,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 184,
+  "id": 174,
   "name": "Claus de Werve",
   "nationality": "Netherlandish",
   "birthYear": 1380,
@@ -1840,7 +1740,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 185,
+  "id": 175,
   "name": "Jean de la Huerta",
   "nationality": "Spanish",
   "birthYear": 1431,
@@ -1850,7 +1750,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 186,
+  "id": 176,
   "name": "Master of the First Prayerbook of Maximillian",
   "nationality": "Flemish",
   "birthYear": 1444,
@@ -1860,7 +1760,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 187,
+  "id": 177,
   "name": "Filippino Lippi",
   "nationality": "Italian",
   "birthYear": 1457,
@@ -1870,7 +1770,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 188,
+  "id": 178,
   "name": "Angelos Akotantos",
   "nationality": "Cretan",
   "birthYear": 1450,
@@ -1880,7 +1780,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 189,
+  "id": 179,
   "name": "Tilman Riemenschneider",
   "nationality": "German",
   "birthYear": 1460,
@@ -1890,7 +1790,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 190,
+  "id": 180,
   "name": "Juan de Flandes",
   "nationality": "Netherlandish",
   "birthYear": 1460,
@@ -1900,7 +1800,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 191,
+  "id": 181,
   "name": "Carlo Bugatti",
   "nationality": "Italian",
   "birthYear": 1856,
@@ -1910,7 +1810,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 192,
+  "id": 182,
   "name": "Joseph Alexis Bailly",
   "nationality": "American",
   "birthYear": 1825,
@@ -1920,7 +1820,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 193,
+  "id": 183,
   "name": "Pierre-François Bonnestrenne",
   "nationality": "French",
   "birthYear": null,
@@ -1930,7 +1830,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 194,
+  "id": 184,
   "name": "Tiffany Glass & Decorating Company",
   "nationality": "America",
   "birthYear": 1892,
@@ -1940,7 +1840,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 195,
+  "id": 185,
   "name": "René Lalique",
   "nationality": "French",
   "birthYear": 1860,
@@ -1950,7 +1850,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 196,
+  "id": 186,
   "name": "House of Fabergé",
   "nationality": "Russian",
   "birthYear": 1842,
@@ -1960,7 +1860,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 197,
+  "id": 187,
   "name": "John Townsend",
   "nationality": "American",
   "birthYear": 1732,
@@ -1970,7 +1870,17 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 198,
+  "id": 188,
+  "name": "Odilon Redon",
+  "nationality": "French",
+  "birthYear": 1840,
+  "deathYear": 1916,
+  "bio": "French artist (1840–1916). Represented here by 1 work (drawing) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1926.25/1926.25_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 189,
   "name": "Charles Burchfield",
   "nationality": "American",
   "birthYear": 1893,
@@ -1980,7 +1890,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 199,
+  "id": 190,
   "name": "Hendrick Goltzius",
   "nationality": "Dutch",
   "birthYear": 1558,
@@ -1990,7 +1900,17 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 200,
+  "id": 191,
+  "name": "Winslow Homer",
+  "nationality": "American",
+  "birthYear": 1836,
+  "deathYear": 1910,
+  "bio": "American artist (1836–1910). Represented here by 1 work (drawing) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1954.128/1954.128_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 192,
   "name": "Michelangelo Buonarroti",
   "nationality": "Italian",
   "birthYear": 1475,
@@ -2000,7 +1920,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 201,
+  "id": 193,
   "name": "Giulio Campagnola",
   "nationality": "Italian",
   "birthYear": 1482,
@@ -2010,7 +1930,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 202,
+  "id": 194,
   "name": "Antonio del Pollaiuolo",
   "nationality": "Italian",
   "birthYear": 1431,
@@ -2020,7 +1940,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 203,
+  "id": 195,
   "name": "Hans Burgkmair",
   "nationality": "German",
   "birthYear": 1473,
@@ -2030,7 +1950,17 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 204,
+  "id": 196,
+  "name": "Edvard Munch",
+  "nationality": "Norwegian",
+  "birthYear": 1863,
+  "deathYear": 1944,
+  "bio": "Norwegian artist (1863–1944). Represented here by 1 work (print) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/1959.82/1959.82_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 197,
   "name": "K’in Lakam Chahk",
   "nationality": null,
   "birthYear": null,
@@ -2040,7 +1970,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 205,
+  "id": 198,
   "name": "Sahkulu",
   "nationality": "Turkish",
   "birthYear": 1526,
@@ -2050,7 +1980,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 206,
+  "id": 199,
   "name": "Mir Musavvir",
   "nationality": "Iranian",
   "birthYear": 1510,
@@ -2060,7 +1990,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 207,
+  "id": 200,
   "name": "Guillaume-Benjamin-Amand Duchenne",
   "nationality": "de Boulogne",
   "birthYear": 1806,
@@ -2070,7 +2000,17 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 208,
+  "id": 201,
+  "name": "William Henry Fox Talbot",
+  "nationality": "British",
+  "birthYear": 1800,
+  "deathYear": 1877,
+  "bio": "British artist (1800–1877). Represented here by 1 work (photograph) in the collection of Cleveland.",
+  "image": "https://openaccess-cdn.clevelandart.org/2006.4/2006.4_web.jpg",
+  "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
+ },
+ {
+  "id": 202,
   "name": "Antonio Missaglia",
   "nationality": "Italian",
   "birthYear": 1416,
@@ -2080,7 +2020,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 209,
+  "id": 203,
   "name": "Jaspar Bongen the Younger",
   "nationality": "German",
   "birthYear": 1600,
@@ -2090,7 +2030,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 210,
+  "id": 204,
   "name": "Nadar",
   "nationality": "French",
   "birthYear": 1820,
@@ -2100,7 +2040,7 @@
   "imageCredit": "Cleveland Museum of Art · CC0 — a work by the artist, not a portrait"
  },
  {
-  "id": 211,
+  "id": 205,
   "name": "Charles Marville",
   "nationality": "French",
   "birthYear": 1813,

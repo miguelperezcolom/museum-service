@@ -17,8 +17,8 @@
     <artifactId>museum-service</artifactId>
     <version>0.1.0</version>
     <name>museum-service</name>
-    <description>Several art museums behind one writable API: public-domain artworks of the Met, the
-        Art Institute of Chicago and the Cleveland Museum of Art (CC0 records, linked to the museums'
+    <description>Several art museums behind one writable API: public-domain artworks of the Met,
+        Statens Museum for Kunst and the Cleveland Museum of Art (CC0 / public-domain records, linked to the museums'
         own images), plus synthetic exhibitions, loans, conservation tasks and daily visits, over H2
         seeded at boot. Exists so a Mateu app can demonstrate a complete UI — search, filters,
         writes, references, boards, calendars, maps and charts — against a real backend.</description>

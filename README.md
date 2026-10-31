@@ -13,7 +13,7 @@ licence) and follows the same conventions — same query grammar, same envelope,
 | Museum | Open-access API | What is kept | Licence |
 |---|---|---|---|
 | The Metropolitan Museum of Art | `collectionapi.metmuseum.org` | objects with `isPublicDomain: true` and an image | [CC0](https://www.metmuseum.org/hubs/open-access) — data and images |
-| Art Institute of Chicago | `api.artic.edu` (images through its IIIF server) | `is_public_domain: true` with an `image_id` | [CC0](https://www.artic.edu/open-access/open-access-images) — data and images, **except** the API's `description` field (CC BY), which is never read |
+| Statens Museum for Kunst (SMK, Copenhagen) | `api.smk.dk` (images through its IIIF server, `iip.smk.dk`) | `public_domain: true` with an image | [SMK Open](https://open.smk.dk): images of public-domain works under the [Public Domain Mark](https://creativecommons.org/publicdomain/mark/1.0/), metadata CC0 |
 | Cleveland Museum of Art | `openaccess-api.clevelandart.org` | `share_license_status: CC0` with an image | [CC0](https://www.clevelandart.org/open-access) — data and images |
 
 - The records were fetched **once** by [`scripts/build-seed.py`](scripts/build-seed.py) and committed
@@ -23,9 +23,12 @@ licence) and follows the same conventions — same query grammar, same envelope,
   museums publish them for exactly this use: a small one (`imageSmall`) for lists and cards and a large
   one (`imageLarge`) for a detail page — and a link to the work's page on the museum's site
   (`sourceUrl`).
-- CC0 asks for nothing, but the museums ask for a courtesy credit, so every artwork carries
-  `imageCredit` (`"The Metropolitan Museum of Art · CC0"`), [`/api/credits`](http://localhost:8121/api/credits)
+- Neither licence asks for anything, but the museums ask for a courtesy credit, so every artwork carries
+  `imageCredit` (`"The Metropolitan Museum of Art · CC0"`, `"Statens Museum for Kunst · Public domain"`), [`/api/credits`](http://localhost:8121/api/credits)
   lists them all, and [`CREDITS.md`](CREDITS.md) is the same list on paper.
+- **Why not the Art Institute of Chicago?** It was the first choice — its data is CC0 — but its
+  IIIF image server sits behind a Cloudflare challenge that refuses image requests from other sites,
+  even from a real browser, so its pictures cannot be linked from a demo page. SMK's can.
 - The museums' names say where a work is held. This project is not affiliated with or endorsed by any
   of them.
 
@@ -41,8 +44,8 @@ over records in a fixed order; running the script twice over the same cache writ
   budgets and visitor counts;
 - the loans between museums, spread over the whole workflow;
 - the conservation tasks (a board per museum);
-- the daily visits (1 Jan → 31 Oct 2026, open days only — the Met closes on Wednesdays, the Art
-  Institute on Tuesdays and Wednesdays, Cleveland on Mondays; Cleveland is free);
+- the daily visits (1 Jan → 31 Oct 2026, open days only — the Met closes on Wednesdays, SMK and
+  Cleveland on Mondays; Cleveland is free);
 - every person's name, and the artists' one-line bios (built from the records, not copied);
 - each artist's `image`, which is **a work by the artist, not a portrait** (CC0 portraits are rare),
   and says so in its credit.
@@ -59,23 +62,23 @@ Museum ──1:N── Department ──1:N── Artwork ──N:1── Artist
 | collection | rows | owns |
 |---|---|---|
 | `/api/museums` | 3 | — |
-| `/api/departments` | 41 | `museum` |
-| `/api/artists` | 211 | — |
-| `/api/artworks` | 401 (Met 132, Art Institute 124, Cleveland 145) | `artist`, `museum`, `department` |
+| `/api/departments` | 33 | `museum` |
+| `/api/artists` | 205 | — |
+| `/api/artworks` | 399 (Met 132, SMK 122, Cleveland 145) | `artist`, `museum`, `department` |
 | `/api/exhibitions` | 18 | `museum`, `artworks` (M:N) |
 | `/api/loans` | 53 | `artwork`, `fromMuseum`, `toMuseum`, `exhibition` |
 | `/api/conservation-tasks` | 72 | `artwork` |
-| `/api/visits` | 740 | `museum` |
+| `/api/visits` | 783 | `museum` |
 
 Plus two read-only aggregates:
 
 - `GET /api/stats` — the numbers a dashboard opens with (totals, per museum, by status, visitors by
   month), computed from the live tables, with the big numbers also pre-formatted (`visitorsYtdLabel`:
-  `"6.52 M"`) because a UI template interpolates; it does not format.
+  `"5.72 M"`) because a UI template interpolates; it does not format.
 - `GET /api/collection-tree` — museum → department → gallery, as rows with `children`, in the same
   `{content, totalElements}` envelope, for a tree view.
 
-**Artists are shared across museums**: Van Gogh is one row with works in Chicago and Cleveland, so
+**Artists are shared across museums**: Rodin is one row with works in New York and Cleveland, so
 "by artist" is a real join. `classification` is folded into one short vocabulary (Painting,
 Sculpture, Photograph, Arms and Armor…) so it filters as a pick; the museum's own term stays in
 `objectType`.
@@ -106,7 +109,7 @@ GET /api/artworks?sort=museumName&page=2&size=50        # sort by the name a row
 Every condition is evaluated **by the database**. The response is an envelope:
 
 ```json
-{ "content": [ … ], "totalElements": 401, "totalPages": 21, "page": 0, "size": 20 }
+{ "content": [ … ], "totalElements": 399, "totalPages": 20, "page": 0, "size": 20 }
 ```
 
 A **filter the collection does not declare is a 400**, never a silently unfiltered page; so is an
@@ -114,13 +117,13 @@ unknown sort key and an unparseable value. References come back as ids plus the 
 single-valued ones:
 
 ```json
-{ "id": 133, "title": "The Bedroom", "artistId": 66, "artistName": "Vincent van Gogh",
-  "museumId": 2, "museumName": "Art Institute of Chicago", "classification": "Painting",
-  "estimatedValue": 17000000.0, "onView": true, "gallery": "Gallery 241",
-  "imageSmall": "https://www.artic.edu/iiif/2/…/full/400,/0/default.jpg",
-  "imageLarge": "https://www.artic.edu/iiif/2/…/full/843,/0/default.jpg",
-  "imageCredit": "Art Institute of Chicago · CC0",
-  "sourceUrl": "https://www.artic.edu/artworks/28560", "url": "/api/artworks/133" }
+{ "id": 133, "title": "Wood with Crooked Tree", "artistId": 66, "artistName": "Mogens Ballin",
+  "museumId": 2, "museumName": "Statens Museum for Kunst", "classification": "Painting",
+  "estimatedValue": 20000000.0, "onView": true, "gallery": "Room 225",
+  "imageSmall": "https://iip.smk.dk/iiif/jp2/gf06g715p_kms8914.tif.jp2/full/!400,/0/default.jpg",
+  "imageLarge": "https://iip.smk.dk/iiif/jp2/gf06g715p_kms8914.tif.jp2/full/!1200,/0/default.jpg",
+  "imageCredit": "Statens Museum for Kunst · Public domain",
+  "sourceUrl": "https://open.smk.dk/artwork/image/KMS8914", "url": "/api/artworks/133" }
 ```
 
 ## Writing

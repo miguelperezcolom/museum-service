@@ -73,174 +73,126 @@
  },
  {
   "id": 13,
-  "name": "Painting and Sculpture of Europe",
+  "name": "Royal Collection of Paintings and Sculptures",
   "museumId": 2,
-  "head": "Ximena Okafor"
+  "head": "Uma Castillo"
  },
  {
   "id": 14,
-  "name": "Arts of the Americas",
+  "name": "Royal Cast Collection",
   "museumId": 2,
-  "head": "Clara Quinn"
+  "head": "Ximena Rossi"
  },
  {
   "id": 15,
-  "name": "Arts of Asia",
+  "name": "Royal Collection of Graphic Art",
   "museumId": 2,
-  "head": "Nadia Rossi"
+  "head": "Omar Xu"
  },
  {
   "id": 16,
-  "name": "Prints and Drawings",
-  "museumId": 2,
-  "head": "Ximena Kowalski"
- },
- {
-  "id": 17,
-  "name": "Applied Arts of Europe",
-  "museumId": 2,
-  "head": "Isabel García"
- },
- {
-  "id": 18,
-  "name": "Textiles",
-  "museumId": 2,
-  "head": "Farid García"
- },
- {
-  "id": 19,
-  "name": "Arts of Africa",
-  "museumId": 2,
-  "head": "Marcus López"
- },
- {
-  "id": 20,
-  "name": "Photography and Media",
-  "museumId": 2,
-  "head": "Elena Varga"
- },
- {
-  "id": 21,
-  "name": "Modern Art",
-  "museumId": 2,
-  "head": "Victor Hoffman"
- },
- {
-  "id": 22,
-  "name": "Arts of Greece, Rome, and Byzantium",
-  "museumId": 2,
-  "head": "Wen Castillo"
- },
- {
-  "id": 23,
-  "name": "Architecture and Design",
-  "museumId": 2,
-  "head": "Laura Xu"
- },
- {
-  "id": 24,
   "name": "European Painting and Sculpture",
   "museumId": 3,
   "head": "Ben Nakamura"
  },
  {
-  "id": 25,
+  "id": 17,
   "name": "Modern European Painting and Sculpture",
   "museumId": 3,
   "head": "Omar Xu"
  },
  {
-  "id": 26,
+  "id": 18,
   "name": "American Painting and Sculpture",
   "museumId": 3,
   "head": "James Quinn"
  },
  {
-  "id": 27,
+  "id": 19,
   "name": "Japanese Art",
   "museumId": 3,
   "head": "Quentin Ibrahim"
  },
  {
-  "id": 28,
+  "id": 20,
   "name": "Chinese Art",
   "museumId": 3,
   "head": "Wen Park"
  },
  {
-  "id": 29,
+  "id": 21,
   "name": "Korean Art",
   "museumId": 3,
   "head": "Omar Ibrahim"
  },
  {
-  "id": 30,
+  "id": 22,
   "name": "Indian and Southeast Asian Art",
   "museumId": 3,
   "head": "Yusuf Zimmermann"
  },
  {
-  "id": 31,
+  "id": 23,
   "name": "Egyptian and Ancient Near Eastern Art",
   "museumId": 3,
   "head": "Omar García"
  },
  {
-  "id": 32,
+  "id": 24,
   "name": "Greek and Roman Art",
   "museumId": 3,
   "head": "Nadia Park"
  },
  {
-  "id": 33,
+  "id": 25,
   "name": "Medieval Art",
   "museumId": 3,
   "head": "Rosa Jensen"
  },
  {
-  "id": 34,
+  "id": 26,
   "name": "Decorative Art and Design",
   "museumId": 3,
   "head": "Ana Ueda"
  },
  {
-  "id": 35,
+  "id": 27,
   "name": "Drawings",
   "museumId": 3,
   "head": "Samuel Dubois"
  },
  {
-  "id": 36,
+  "id": 28,
   "name": "Prints",
   "museumId": 3,
   "head": "Omar Xu"
  },
  {
-  "id": 37,
+  "id": 29,
   "name": "African Art",
   "museumId": 3,
   "head": "Nadia Nakamura"
  },
  {
-  "id": 38,
+  "id": 30,
   "name": "Art of the Americas",
   "museumId": 3,
   "head": "Kenji Zimmermann"
  },
  {
-  "id": 39,
+  "id": 31,
   "name": "Textiles",
   "museumId": 3,
   "head": "Elena Ibrahim"
  },
  {
-  "id": 40,
+  "id": 32,
   "name": "Islamic Art",
   "museumId": 3,
   "head": "Victor Schmidt"
  },
  {
-  "id": 41,
+  "id": 33,
   "name": "Photography",
   "museumId": 3,
   "head": "Ben Abbott"

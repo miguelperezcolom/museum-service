@@ -1,66 +1,78 @@
 [
  {
   "id": 1,
-  "title": "Consolidation: Tile with Floral and Cloud-band Design",
-  "artworkId": 117,
-  "type": "Consolidation",
-  "priority": "low",
-  "status": "review",
-  "assignee": "Ximena Castillo",
-  "dueDate": "2026-10-29",
-  "estimatedHours": 2,
+  "title": "Inpainting: 'Lotto' Carpet",
+  "artworkId": 118,
+  "type": "Inpainting",
+  "priority": "high",
+  "status": "backlog",
+  "assignee": "Wen García",
+  "dueDate": "2027-01-10",
+  "estimatedHours": 6,
   "notes": null
  },
  {
   "id": 2,
-  "title": "Rehousing: The Harvesters",
-  "artworkId": 8,
-  "type": "Rehousing",
-  "priority": "low",
-  "status": "backlog",
+  "title": "Surface cleaning: Grapevine in the Wind",
+  "artworkId": 42,
+  "type": "Surface cleaning",
+  "priority": "medium",
+  "status": "done",
   "assignee": "Yusuf García",
-  "dueDate": "2026-11-16",
-  "estimatedHours": 24,
-  "notes": null
- },
- {
-  "id": 3,
-  "title": "Technical imaging: Daniel Crommelin Verplanck",
-  "artworkId": 104,
-  "type": "Technical imaging",
-  "priority": "high",
-  "status": "in_progress",
-  "assignee": "Paula López",
-  "dueDate": "2026-11-26",
-  "estimatedHours": 2,
-  "notes": null
- },
- {
-  "id": 4,
-  "title": "Technical imaging: Madonna and Child",
-  "artworkId": 3,
-  "type": "Technical imaging",
-  "priority": "high",
-  "status": "review",
-  "assignee": "Yusuf García",
-  "dueDate": "2026-11-22",
-  "estimatedHours": 40,
-  "notes": null
- },
- {
-  "id": 5,
-  "title": "Rehousing: Cubiculum (bedroom) from the Villa of P. Fannius Synistor at",
-  "artworkId": 74,
-  "type": "Rehousing",
-  "priority": "low",
-  "status": "backlog",
-  "assignee": "Wen García",
-  "dueDate": "2027-01-03",
+  "dueDate": "2026-07-06",
   "estimatedHours": 4,
   "notes": null
  },
  {
+  "id": 3,
+  "title": "Consolidation: God save us from such a bitter fate; a bandit threatening a ",
+  "artworkId": 126,
+  "type": "Consolidation",
+  "priority": "medium",
+  "status": "in_progress",
+  "assignee": "Yusuf García",
+  "dueDate": "2026-12-28",
+  "estimatedHours": 4,
+  "notes": null
+ },
+ {
+  "id": 4,
+  "title": "Pest inspection: Ear ornament with winged runner",
+  "artworkId": 132,
+  "type": "Pest inspection",
+  "priority": "low",
+  "status": "backlog",
+  "assignee": "Wen García",
+  "dueDate": "2027-02-03",
+  "estimatedHours": 12,
+  "notes": null
+ },
+ {
+  "id": 5,
+  "title": "Rehousing: At the Seaside",
+  "artworkId": 101,
+  "type": "Rehousing",
+  "priority": "high",
+  "status": "done",
+  "assignee": "Wen García",
+  "dueDate": "2026-10-16",
+  "estimatedHours": 6,
+  "notes": null
+ },
+ {
   "id": 6,
+  "title": "Technical imaging: King Sahure Accompanied by a Divine Figure",
+  "artworkId": 56,
+  "type": "Technical imaging",
+  "priority": "medium",
+  "status": "done",
+  "assignee": "Wen García",
+  "dueDate": "2026-09-28",
+  "estimatedHours": 4,
+  "notes": null
+ },
+ {
+  "id": 7,
   "title": "Inpainting: Fur Traders Descending the Missouri",
   "artworkId": 99,
   "type": "Inpainting",
@@ -72,7 +84,7 @@
   "notes": null
  },
  {
-  "id": 7,
+  "id": 8,
   "title": "Mount fabrication: The Town on the Hill, New Almaden",
   "artworkId": 82,
   "type": "Mount fabrication",
@@ -84,7 +96,7 @@
   "notes": null
  },
  {
-  "id": 8,
+  "id": 9,
   "title": "Varnish removal: View on the Columbia, Cascades",
   "artworkId": 76,
   "type": "Varnish removal",
@@ -96,7 +108,7 @@
   "notes": null
  },
  {
-  "id": 9,
+  "id": 10,
   "title": "Pest inspection: Seated Giant",
   "artworkId": 124,
   "type": "Pest inspection",
@@ -108,7 +120,7 @@
   "notes": null
  },
  {
-  "id": 10,
+  "id": 11,
   "title": "Mount fabrication: Woman with a Parrot",
   "artworkId": 23,
   "type": "Mount fabrication",
@@ -120,7 +132,7 @@
   "notes": null
  },
  {
-  "id": 11,
+  "id": 12,
   "title": "Consolidation: Édouard Manet, Seated, Holding His Hat",
   "artworkId": 121,
   "type": "Consolidation",
@@ -132,7 +144,7 @@
   "notes": null
  },
  {
-  "id": 12,
+  "id": 13,
   "title": "Consolidation: [The Great Wave, Sète]",
   "artworkId": 75,
   "type": "Consolidation",
@@ -144,7 +156,7 @@
   "notes": null
  },
  {
-  "id": 13,
+  "id": 14,
   "title": "Pest inspection: Limestone Herakles",
   "artworkId": 67,
   "type": "Pest inspection",
@@ -156,7 +168,7 @@
   "notes": null
  },
  {
-  "id": 14,
+  "id": 15,
   "title": "Condition report: The Toilette of Venus",
   "artworkId": 6,
   "type": "Condition report",
@@ -168,7 +180,7 @@
   "notes": null
  },
  {
-  "id": 15,
+  "id": 16,
   "title": "Frame repair: Plaque with the Descent from the Cross",
   "artworkId": 112,
   "type": "Frame repair",
@@ -180,7 +192,7 @@
   "notes": null
  },
  {
-  "id": 16,
+  "id": 17,
   "title": "Consolidation: The Connoisseur",
   "artworkId": 122,
   "type": "Consolidation",
@@ -192,7 +204,7 @@
   "notes": null
  },
  {
-  "id": 17,
+  "id": 18,
   "title": "Mount fabrication: Alfred Thompson Gobert",
   "artworkId": 84,
   "type": "Mount fabrication",
@@ -204,7 +216,7 @@
   "notes": null
  },
  {
-  "id": 18,
+  "id": 19,
   "title": "Inpainting: Box with Romance Scenes",
   "artworkId": 110,
   "type": "Inpainting",
@@ -216,7 +228,7 @@
   "notes": null
  },
  {
-  "id": 19,
+  "id": 20,
   "title": "Pest inspection: Penny Picture Display, Savannah",
   "artworkId": 78,
   "type": "Pest inspection",
@@ -228,7 +240,7 @@
   "notes": null
  },
  {
-  "id": 20,
+  "id": 21,
   "title": "Rehousing: Limestone head of a bearded man",
   "artworkId": 68,
   "type": "Rehousing",
@@ -240,7 +252,7 @@
   "notes": null
  },
  {
-  "id": 21,
+  "id": 22,
   "title": "Mount fabrication: Portrait of a Young Man",
   "artworkId": 7,
   "type": "Mount fabrication",
@@ -252,7 +264,7 @@
   "notes": null
  },
  {
-  "id": 22,
+  "id": 23,
   "title": "Rehousing: Libation Dish Depicting Ka-Arms Presenting an Ankh-Sign",
   "artworkId": 54,
   "type": "Rehousing",
@@ -264,7 +276,7 @@
   "notes": null
  },
  {
-  "id": 23,
+  "id": 24,
   "title": "Surface cleaning: Glass garland bowl",
   "artworkId": 71,
   "type": "Surface cleaning",
@@ -276,309 +288,309 @@
   "notes": null
  },
  {
-  "id": 24,
-  "title": "Varnish removal: [Large Figures on the North Porch, Chartres Cathedral]",
-  "artworkId": 83,
+  "id": 25,
+  "title": "Varnish removal: Prometheus Moulding Man from Clay",
+  "artworkId": 174,
   "type": "Varnish removal",
   "priority": "medium",
   "status": "done",
-  "assignee": "Paula López",
+  "assignee": "David Okafor",
   "dueDate": "2026-08-15",
   "estimatedHours": 24,
   "notes": null
  },
  {
-  "id": 25,
-  "title": "Rehousing: Karttikeya, Commander of the Divine Army, Seated on a Peacoc",
+  "id": 26,
+  "title": "Rehousing: Mermaid",
   "artworkId": 188,
   "type": "Rehousing",
   "priority": "high",
   "status": "done",
-  "assignee": "Farid Bianchi",
+  "assignee": "David Okafor",
   "dueDate": "2026-09-28",
   "estimatedHours": 40,
   "notes": null
  },
  {
-  "id": 26,
-  "title": "Condition report: View of Cotopaxi",
+  "id": 27,
+  "title": "Condition report: The Waagepetersen Family",
   "artworkId": 175,
   "type": "Condition report",
   "priority": "low",
   "status": "review",
-  "assignee": "Samuel Zimmermann",
+  "assignee": "Zoe Hoffman",
   "dueDate": "2026-11-09",
   "estimatedHours": 4,
   "notes": null
  },
  {
-  "id": 27,
-  "title": "Technical imaging: The Millinery Shop",
+  "id": 28,
+  "title": "Technical imaging: Sunset. Fontainebleau",
   "artworkId": 155,
   "type": "Technical imaging",
   "priority": "medium",
   "status": "in_progress",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2026-10-17",
   "estimatedHours": 12,
   "notes": null
  },
  {
-  "id": 28,
-  "title": "Technical imaging: The Girl by the Window",
+  "id": 29,
+  "title": "Technical imaging: Portrait of the Danish King Christian II",
   "artworkId": 148,
   "type": "Technical imaging",
   "priority": "medium",
   "status": "done",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2026-08-10",
   "estimatedHours": 40,
   "notes": null
  },
  {
-  "id": 29,
-  "title": "Frame repair: Shiva as Lord of the Dance (Nataraja)",
+  "id": 30,
+  "title": "Frame repair: Standing Female Nude",
   "artworkId": 185,
   "type": "Frame repair",
   "priority": "medium",
   "status": "review",
-  "assignee": "Samuel Zimmermann",
+  "assignee": "Zoe Hoffman",
   "dueDate": "2027-01-09",
   "estimatedHours": 8,
   "notes": null
  },
  {
-  "id": 30,
-  "title": "Consolidation: King Vulture",
+  "id": 31,
+  "title": "Consolidation: Gravrelief. Mands- og kvindebuste i niche. Publius Aiedius A",
   "artworkId": 213,
   "type": "Consolidation",
   "priority": "medium",
   "status": "in_progress",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2026-10-31",
   "estimatedHours": 40,
   "notes": null
  },
  {
-  "id": 31,
-  "title": "Inpainting: Self-Portrait with a Visor",
+  "id": 32,
+  "title": "Inpainting: Knælende mand, niobide eller bryder, med løftet h. arm",
   "artworkId": 209,
   "type": "Inpainting",
   "priority": "medium",
   "status": "review",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2027-01-28",
   "estimatedHours": 8,
   "notes": null
  },
  {
-  "id": 32,
-  "title": "Consolidation: Chicago Stock Exchange Trading Room: Reconstruction at the A",
-  "artworkId": 255,
-  "type": "Consolidation",
-  "priority": "medium",
-  "status": "in_progress",
-  "assignee": "Samuel Zimmermann",
-  "dueDate": "2026-11-04",
-  "estimatedHours": 12,
-  "notes": null
- },
- {
   "id": 33,
-  "title": "Inpainting: Portrait Vessel",
-  "artworkId": 178,
-  "type": "Inpainting",
+  "title": "Mount fabrication: View of Christiansborg Palace. Late Autumn",
+  "artworkId": 163,
+  "type": "Mount fabrication",
   "priority": "medium",
   "status": "done",
-  "assignee": "Ana Zimmermann",
-  "dueDate": "2026-09-23",
-  "estimatedHours": 8,
+  "assignee": "Clara Castillo",
+  "dueDate": "2026-08-16",
+  "estimatedHours": 16,
   "notes": null
  },
  {
   "id": 34,
-  "title": "Mount fabrication: Kylix (Drinking Cup)",
+  "title": "Frame repair: Fortællingen om Akigssiak: Sælhundeboldspillet, hvor bedstef",
+  "artworkId": 243,
+  "type": "Frame repair",
+  "priority": "high",
+  "status": "done",
+  "assignee": "David Okafor",
+  "dueDate": "2026-07-30",
+  "estimatedHours": 8,
+  "notes": null
+ },
+ {
+  "id": 35,
+  "title": "Mount fabrication: En mand vander heste ved en brønd, mens en kvinde henter van",
   "artworkId": 251,
   "type": "Mount fabrication",
   "priority": "low",
   "status": "review",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2027-01-08",
   "estimatedHours": 2,
   "notes": null
  },
  {
-  "id": 35,
-  "title": "Condition report: Big River, from the Rancherie, Mendocino, California",
+  "id": 36,
+  "title": "Condition report: Louis III de Bourbon, prins af Condé",
   "artworkId": 238,
   "type": "Condition report",
   "priority": "low",
   "status": "review",
-  "assignee": "James Rossi",
+  "assignee": "Clara Zimmermann",
   "dueDate": "2027-01-24",
   "estimatedHours": 6,
   "notes": null
  },
  {
-  "id": 36,
-  "title": "Pest inspection: Fishing Boats with Hucksters Bargaining for Fish",
+  "id": 37,
+  "title": "Pest inspection: Christ as the Suffering Redeemer",
   "artworkId": 154,
   "type": "Pest inspection",
   "priority": "high",
   "status": "in_progress",
-  "assignee": "James Rossi",
+  "assignee": "Clara Zimmermann",
   "dueDate": "2027-01-06",
   "estimatedHours": 12,
   "notes": null
  },
  {
-  "id": 37,
-  "title": "Pest inspection: Equestrienne",
+  "id": 38,
+  "title": "Pest inspection: Bust of Pope Paul V Borghese (1552; Pope 1605-1621)",
   "artworkId": 194,
   "type": "Pest inspection",
   "priority": "high",
   "status": "review",
-  "assignee": "Farid Bianchi",
+  "assignee": "David Okafor",
   "dueDate": "2026-09-18",
   "estimatedHours": 16,
   "notes": null
  },
  {
-  "id": 38,
-  "title": "Pest inspection: The Home of the Heron",
+  "id": 39,
+  "title": "Pest inspection: View from Dosseringen near the Sortedam Lake Looking Towards",
   "artworkId": 173,
   "type": "Pest inspection",
   "priority": "medium",
   "status": "backlog",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2026-11-11",
   "estimatedHours": 24,
   "notes": null
  },
  {
-  "id": 39,
-  "title": "Consolidation: Acrobats at the Cirque Fernando (Francisca and Angelina Wart",
+  "id": 40,
+  "title": "Consolidation: Trompe l'oeil with Studio Wall and Vanitas Still Life",
   "artworkId": 152,
   "type": "Consolidation",
   "priority": "high",
   "status": "in_progress",
-  "assignee": "Farid Bianchi",
+  "assignee": "David Okafor",
   "dueDate": "2027-01-15",
   "estimatedHours": 6,
   "notes": null
  },
  {
-  "id": 40,
-  "title": "Varnish removal: Ballet at the Paris Opéra",
+  "id": 41,
+  "title": "Varnish removal: Portræt af Jean Labadie",
   "artworkId": 201,
   "type": "Varnish removal",
   "priority": "medium",
   "status": "in_progress",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2026-11-24",
   "estimatedHours": 40,
   "notes": null
  },
  {
-  "id": 41,
-  "title": "Pest inspection: At the Moulin Rouge",
+  "id": 42,
+  "title": "Pest inspection: Portrait of Madame Matisse. The Green Line",
   "artworkId": 141,
   "type": "Pest inspection",
   "priority": "low",
   "status": "review",
-  "assignee": "Farid Bianchi",
+  "assignee": "David Okafor",
   "dueDate": "2027-02-07",
   "estimatedHours": 40,
   "notes": null
  },
  {
-  "id": 42,
-  "title": "Mount fabrication: Nocturne: Blue and Gold—Southampton Water",
+  "id": 43,
+  "title": "Mount fabrication: The Artist's Mother Ane Hedvig Brøndum in the Red Room",
   "artworkId": 168,
   "type": "Mount fabrication",
   "priority": "high",
   "status": "review",
-  "assignee": "Ana Zimmermann",
+  "assignee": "Clara Castillo",
   "dueDate": "2026-11-22",
   "estimatedHours": 6,
   "notes": null
  },
  {
-  "id": 43,
-  "title": "Mount fabrication: Maharana Bhim Singh in Procession",
+  "id": 44,
+  "title": "Mount fabrication: Saint Catherine of Alexandria",
   "artworkId": 190,
   "type": "Mount fabrication",
   "priority": "high",
   "status": "backlog",
-  "assignee": "Ana Zimmermann",
+  "assignee": "Clara Castillo",
   "dueDate": "2026-11-07",
   "estimatedHours": 12,
   "notes": null
  },
  {
-  "id": 44,
-  "title": "Consolidation: Cupid Chastised",
+  "id": 45,
+  "title": "Consolidation: A Young Artist (Ditlev Blunck) Examining a Sketch in a Mirro",
   "artworkId": 150,
   "type": "Consolidation",
   "priority": "low",
   "status": "review",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2026-10-15",
   "estimatedHours": 40,
   "notes": null
  },
  {
-  "id": 45,
-  "title": "Mount fabrication: Incense Burner in the Form of a Duck",
+  "id": 46,
+  "title": "Mount fabrication: A Bishop Saint",
   "artworkId": 189,
   "type": "Mount fabrication",
   "priority": "high",
   "status": "in_progress",
-  "assignee": "Farid Bianchi",
+  "assignee": "David Okafor",
   "dueDate": "2026-11-19",
   "estimatedHours": 12,
   "notes": null
  },
  {
-  "id": 46,
-  "title": "Rehousing: Equestrienne (At the Cirque Fernando)",
+  "id": 47,
+  "title": "Rehousing: Seated Female Nude",
   "artworkId": 158,
   "type": "Rehousing",
   "priority": "medium",
   "status": "review",
-  "assignee": "Farid Weiss",
+  "assignee": "Teresa Okafor",
   "dueDate": "2026-10-07",
   "estimatedHours": 24,
   "notes": null
  },
  {
-  "id": 47,
-  "title": "Condition report: King Vulture",
+  "id": 48,
+  "title": "Condition report: Gravrelief. Mands- og kvindebuste i niche. Publius Aiedius A",
   "artworkId": 213,
   "type": "Condition report",
   "priority": "medium",
   "status": "done",
-  "assignee": "James Rossi",
+  "assignee": "Clara Zimmermann",
   "dueDate": "2026-09-27",
   "estimatedHours": 16,
   "notes": null
  },
  {
-  "id": 48,
-  "title": "Technical imaging: Coronation Stone of Moctezuma Xocoyotzin",
-  "artworkId": 163,
+  "id": 49,
+  "title": "Technical imaging: Brahma-Shiva",
+  "artworkId": 315,
   "type": "Technical imaging",
   "priority": "low",
   "status": "in_progress",
-  "assignee": "James Rossi",
+  "assignee": "Marcus Okafor",
   "dueDate": "2026-09-28",
   "estimatedHours": 8,
   "notes": null
  },
  {
-  "id": 49,
+  "id": 50,
   "title": "Inpainting: Torso of Amenpayom",
-  "artworkId": 324,
+  "artworkId": 322,
   "type": "Inpainting",
   "priority": "low",
   "status": "in_progress",
@@ -588,9 +600,9 @@
   "notes": null
  },
  {
-  "id": 50,
+  "id": 51,
   "title": "Frame repair: Mountain Market, Clear with Rising Mist",
-  "artworkId": 312,
+  "artworkId": 310,
   "type": "Frame repair",
   "priority": "low",
   "status": "review",
@@ -600,9 +612,9 @@
   "notes": null
  },
  {
-  "id": 51,
+  "id": 52,
   "title": "Varnish removal: Danaë",
-  "artworkId": 264,
+  "artworkId": 262,
   "type": "Varnish removal",
   "priority": "medium",
   "status": "done",
@@ -612,9 +624,9 @@
   "notes": null
  },
  {
-  "id": 52,
+  "id": 53,
   "title": "Mount fabrication: Equestrian Portrait of the Emperor Maximilian",
-  "artworkId": 365,
+  "artworkId": 363,
   "type": "Mount fabrication",
   "priority": "low",
   "status": "backlog",
@@ -624,9 +636,9 @@
   "notes": null
  },
  {
-  "id": 53,
+  "id": 54,
   "title": "Surface cleaning: Winter Trees Reflected in a Pond",
-  "artworkId": 389,
+  "artworkId": 387,
   "type": "Surface cleaning",
   "priority": "medium",
   "status": "done",
@@ -636,9 +648,9 @@
   "notes": null
  },
  {
-  "id": 54,
+  "id": 55,
   "title": "Mount fabrication: The Power of Music",
-  "artworkId": 289,
+  "artworkId": 287,
   "type": "Mount fabrication",
   "priority": "urgent",
   "status": "done",
@@ -648,9 +660,9 @@
   "notes": null
  },
  {
-  "id": 55,
+  "id": 56,
   "title": "Varnish removal: Sleep and Death Cista Handle",
-  "artworkId": 336,
+  "artworkId": 334,
   "type": "Varnish removal",
   "priority": "high",
   "status": "done",
@@ -660,9 +672,9 @@
   "notes": null
  },
  {
-  "id": 56,
+  "id": 57,
   "title": "Mount fabrication: The Wade Cup with Animated Script",
-  "artworkId": 382,
+  "artworkId": 380,
   "type": "Mount fabrication",
   "priority": "high",
   "status": "in_progress",
@@ -672,9 +684,9 @@
   "notes": null
  },
  {
-  "id": 57,
+  "id": 58,
   "title": "Mount fabrication: Pair of Candelabra",
-  "artworkId": 354,
+  "artworkId": 352,
   "type": "Mount fabrication",
   "priority": "high",
   "status": "done",
@@ -684,9 +696,9 @@
   "notes": null
  },
  {
-  "id": 58,
+  "id": 59,
   "title": "Rehousing: Amitabha Triad",
-  "artworkId": 309,
+  "artworkId": 307,
   "type": "Rehousing",
   "priority": "medium",
   "status": "in_progress",
@@ -696,9 +708,9 @@
   "notes": null
  },
  {
-  "id": 59,
+  "id": 60,
   "title": "Surface cleaning: The Crucifixion of Saint Andrew",
-  "artworkId": 262,
+  "artworkId": 260,
   "type": "Surface cleaning",
   "priority": "high",
   "status": "in_progress",
@@ -708,9 +720,9 @@
   "notes": null
  },
  {
-  "id": 60,
+  "id": 61,
   "title": "Consolidation: Figure 45: Contraction électrique forte des triangulaires de",
-  "artworkId": 388,
+  "artworkId": 386,
   "type": "Consolidation",
   "priority": "high",
   "status": "review",
@@ -720,9 +732,9 @@
   "notes": null
  },
  {
-  "id": 61,
+  "id": 62,
   "title": "Consolidation: Bill",
-  "artworkId": 397,
+  "artworkId": 395,
   "type": "Consolidation",
   "priority": "medium",
   "status": "review",
@@ -732,9 +744,9 @@
   "notes": null
  },
  {
-  "id": 62,
+  "id": 63,
   "title": "Varnish removal: Fata Morgana",
-  "artworkId": 271,
+  "artworkId": 269,
   "type": "Varnish removal",
   "priority": "high",
   "status": "review",
@@ -744,9 +756,9 @@
   "notes": null
  },
  {
-  "id": 63,
+  "id": 64,
   "title": "Surface cleaning: Elizabeth Shewell West and Her Son, Raphael",
-  "artworkId": 288,
+  "artworkId": 286,
   "type": "Surface cleaning",
   "priority": "high",
   "status": "review",
@@ -756,9 +768,9 @@
   "notes": null
  },
  {
-  "id": 64,
+  "id": 65,
   "title": "Consolidation: Dragon in foliage with lion and phoenix heads",
-  "artworkId": 384,
+  "artworkId": 382,
   "type": "Consolidation",
   "priority": "medium",
   "status": "in_progress",
@@ -768,9 +780,9 @@
   "notes": null
  },
  {
-  "id": 65,
+  "id": 66,
   "title": "Rehousing: Christ and the Virgin in the House at Nazareth",
-  "artworkId": 265,
+  "artworkId": 263,
   "type": "Rehousing",
   "priority": "high",
   "status": "in_progress",
@@ -780,9 +792,9 @@
   "notes": null
  },
  {
-  "id": 66,
+  "id": 67,
   "title": "Rehousing: Portrait of Catherine Grey, Lady Manners",
-  "artworkId": 269,
+  "artworkId": 267,
   "type": "Rehousing",
   "priority": "medium",
   "status": "review",
@@ -792,9 +804,9 @@
   "notes": null
  },
  {
-  "id": 67,
+  "id": 68,
   "title": "Frame repair: Portrait of Isabella Brant",
-  "artworkId": 266,
+  "artworkId": 264,
   "type": "Frame repair",
   "priority": "medium",
   "status": "in_progress",
@@ -804,9 +816,9 @@
   "notes": null
  },
  {
-  "id": 68,
+  "id": 69,
   "title": "Frame repair: Boy with Anchor",
-  "artworkId": 361,
+  "artworkId": 359,
   "type": "Frame repair",
   "priority": "medium",
   "status": "done",
@@ -816,9 +828,9 @@
   "notes": null
  },
  {
-  "id": 69,
+  "id": 70,
   "title": "Mount fabrication: Ivory Plaque with Enthroned Mother of God (\"The Stroganoff I",
-  "artworkId": 348,
+  "artworkId": 346,
   "type": "Mount fabrication",
   "priority": "medium",
   "status": "review",
@@ -828,9 +840,9 @@
   "notes": null
  },
  {
-  "id": 70,
+  "id": 71,
   "title": "Frame repair: Torso of Amenpayom",
-  "artworkId": 324,
+  "artworkId": 322,
   "type": "Frame repair",
   "priority": "medium",
   "status": "review",
@@ -840,27 +852,15 @@
   "notes": null
  },
  {
-  "id": 71,
+  "id": 72,
   "title": "Mount fabrication: Books and Scholars’ Accoutrements",
-  "artworkId": 314,
+  "artworkId": 312,
   "type": "Mount fabrication",
   "priority": "medium",
   "status": "done",
   "assignee": "Rosa Castillo",
   "dueDate": "2026-09-11",
   "estimatedHours": 40,
-  "notes": null
- },
- {
-  "id": 72,
-  "title": "Surface cleaning: Coffin of Bakenmut",
-  "artworkId": 322,
-  "type": "Surface cleaning",
-  "priority": "low",
-  "status": "review",
-  "assignee": "Ben Kowalski",
-  "dueDate": "2027-01-06",
-  "estimatedHours": 12,
   "notes": null
  }
 ]
