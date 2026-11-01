@@ -92,6 +92,13 @@ Status vocabularies, as stored:
 | `conservation-tasks.status` | `backlog` · `in_progress` · `review` · `done` |
 | `conservation-tasks.priority` | `low` · `medium` · `high` · `urgent` |
 
+**Board order.** Each conservation task carries `boardOrder`, a decimal giving its place in its board
+column (ascending). The seed numbers every column by due date, 1000 apart; a board move writes the
+midpoint of the card's new neighbours (e.g. `1500.5`), so nothing is renumbered. `GET
+/api/conservation-tasks?sort=boardOrder` returns a column in board order. A write that sends no
+`boardOrder` (an edit form) keeps the card where it is; a new card goes to the end of its column.
+This is what Mateu's Kanban `orderField` reads and writes.
+
 ## Reading
 
 ```bash

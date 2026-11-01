@@ -37,4 +37,10 @@ public class ConservationTask {
 
   @Column(length = 4000)
   private String notes;
+
+  /**
+   * The card's place in its board column: ascending, decimal so a move can land between two cards
+   * (the board sends the midpoint of its new neighbours) without renumbering the column.
+   */
+  private Double boardOrder;
 }
