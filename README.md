@@ -152,6 +152,26 @@ A write pointing at a row that does not exist is a **400**; deleting a row other
 (`museum.max-rows-per-collection`, 3000) is a **507**. **The database is in memory and re-seeded on
 every restart**, so anything written here is demo data with a short life.
 
+### A loan's documents
+
+A loan carries files — its agreement, condition reports, receipts:
+
+```bash
+# upload: the file as a base64 data URI (what a browser's FileReader produces); `name` is optional —
+# without it the URI's `name=` parameter is used (`data:application/pdf;name=agreement.pdf;base64,…`)
+curl -X POST http://localhost:8121/api/loans/1/documents \
+  -H 'Content-Type: application/json' -H 'X-Api-Key: localdev' \
+  -d "{\"name\":\"agreement.pdf\",\"content\":\"data:application/pdf;base64,$(base64 < agreement.pdf | tr -d '\n')\"}"
+curl http://localhost:8121/api/loans/1/documents          # {content:[{id,name,contentType,size,uploadedAt,url}], totalElements}
+curl -O -J http://localhost:8121/api/loans/1/documents/1  # the bytes, with their type and name
+curl -X DELETE -H 'X-Api-Key: localdev' http://localhost:8121/api/loans/1/documents/1
+```
+
+Kept: PDF, PNG/JPEG/GIF/WebP, plain text and CSV, Word/Excel/PowerPoint and OpenDocument — never
+HTML, SVG or anything a browser would run, since the bytes are served from this origin. At most 5 MB
+each and `museum.max-documents-per-loan` (20) per loan; anything else is a **400** that says why. Each
+`url` is absolute, so a UI can open it in a new tab. Deleting a loan deletes its documents.
+
 ## Running it
 
 ```bash

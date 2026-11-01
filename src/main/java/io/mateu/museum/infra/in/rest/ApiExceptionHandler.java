@@ -24,7 +24,8 @@ public class ApiExceptionHandler {
   }
 
   @ExceptionHandler({
-    BadReferenceException.class, UnknownFilterException.class, TooManyValuesException.class
+    BadReferenceException.class, UnknownFilterException.class, TooManyValuesException.class,
+    InvalidDocumentException.class
   })
   public ResponseEntity<Map<String, Object>> badRequest(RuntimeException e) {
     return body(HttpStatus.BAD_REQUEST, e.getMessage());
