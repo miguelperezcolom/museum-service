@@ -165,6 +165,7 @@ curl -X POST http://localhost:8121/api/loans/1/documents \
 curl http://localhost:8121/api/loans/1/documents          # {content:[{id,name,contentType,size,uploadedAt,url}], totalElements}
 curl -O -J http://localhost:8121/api/loans/1/documents/1  # the bytes, with their type and name
 curl -X DELETE -H 'X-Api-Key: localdev' http://localhost:8121/api/loans/1/documents/1
+curl -X DELETE -H 'X-Api-Key: localdev' http://localhost:8121/api/loan-documents/2   # by its id alone
 ```
 
 Kept: PDF, PNG/JPEG/GIF/WebP, plain text and CSV, Word/Excel/PowerPoint and OpenDocument — never

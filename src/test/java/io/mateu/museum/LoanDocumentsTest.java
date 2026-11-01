@@ -129,6 +129,16 @@ class LoanDocumentsTest {
   }
 
   @Test
+  @DisplayName("a document can be deleted by its id alone (a list deleting its selected rows)")
+  void deleteById() throws Exception {
+    Number id = JsonPath.read(upload(4, body("a.pdf", dataUri("application/pdf", null, PDF))), "$.id");
+    mvc.perform(delete("/api/loan-documents/" + id)).andExpect(status().isUnauthorized());
+    mvc.perform(delete("/api/loan-documents/" + id).header(KEY, "testkey")).andExpect(status().isNoContent());
+    mvc.perform(delete("/api/loan-documents/" + id).header(KEY, "testkey")).andExpect(status().isNotFound());
+    mvc.perform(get("/api/loans/4/documents")).andExpect(jsonPath("$.totalElements").value(0));
+  }
+
+  @Test
   @DisplayName("deleting a loan deletes its documents")
   void cascade() throws Exception {
     String created = mvc.perform(post("/api/loans").header(KEY, "testkey").contentType(MediaType.APPLICATION_JSON)
