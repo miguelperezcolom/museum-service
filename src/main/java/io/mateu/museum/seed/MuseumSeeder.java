@@ -88,6 +88,7 @@ public class MuseumSeeder implements ApplicationRunner {
     forEach("exhibitions", n -> exhibitionById.put(id(n), exhibitions.save(exhibition(n))));
     forEach("loans", n -> loans.save(loan(n)));
     forEach("conservation-tasks", n -> tasks.save(task(n)));
+    numberBoardColumns();
     forEach("visits", n -> visits.save(visit(n)));
 
     log.info(
@@ -201,6 +202,26 @@ public class MuseumSeeder implements ApplicationRunner {
     l.setCourier(text(n, "courier"));
     l.setNotes(text(n, "notes"));
     return l;
+  }
+
+  /**
+   * Each board column numbered by due date (then id), 1000 apart, so a dropped card can always land
+   * between two neighbours. Deterministic: the same seed gives the same board.
+   */
+  private void numberBoardColumns() {
+    var byStatus = new java.util.TreeMap<String, java.util.List<ConservationTask>>();
+    for (ConservationTask t : tasks.findAll()) {
+      byStatus.computeIfAbsent(String.valueOf(t.getStatus()), k -> new java.util.ArrayList<>()).add(t);
+    }
+    for (var column : byStatus.values()) {
+      column.sort(java.util.Comparator.comparing(ConservationTask::getDueDate,
+              java.util.Comparator.nullsLast(java.util.Comparator.naturalOrder()))
+          .thenComparing(ConservationTask::getId));
+      for (int i = 0; i < column.size(); i++) {
+        column.get(i).setBoardOrder((i + 1) * io.mateu.museum.infra.in.rest.ConservationTasksController.ORDER_STEP);
+      }
+      tasks.saveAll(column);
+    }
   }
 
   private ConservationTask task(JsonNode n) {

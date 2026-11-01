@@ -47,6 +47,7 @@ public class ConservationTasksController extends CrudController<ConservationTask
         .filter("museumId", "artwork.museum.id", FilterKind.REF)
         .filter("dueDate", FilterKind.DATE)
         .filter("estimatedHours", FilterKind.NUMBER)
+        .filter("boardOrder", FilterKind.NUMBER)
         .searchable("title", "assignee", "type")
         .defaultSort("dueDate")
         .build();
@@ -86,6 +87,7 @@ public class ConservationTasksController extends CrudController<ConservationTask
         t.getDueDate(),
         t.getEstimatedHours(),
         t.getNotes(),
+        t.getBoardOrder(),
         urlOf(t.getId()));
   }
 
@@ -100,5 +102,16 @@ public class ConservationTasksController extends CrudController<ConservationTask
     t.setDueDate(dto.dueDate());
     t.setEstimatedHours(dto.estimatedHours());
     t.setNotes(dto.notes());
+    // a write that names no order (an edit form) keeps the card where it is; a new card goes last
+    if (dto.boardOrder() != null) {
+      t.setBoardOrder(dto.boardOrder());
+    } else if (t.getBoardOrder() == null) {
+      t.setBoardOrder(tasks.findAll().stream()
+          .filter(o -> o != t && java.util.Objects.equals(o.getStatus(), t.getStatus()) && o.getBoardOrder() != null)
+          .mapToDouble(ConservationTask::getBoardOrder).max().orElse(0) + ORDER_STEP);
+    }
   }
+
+  /** The gap between neighbouring cards when a column is numbered (seed, a new card). */
+  public static final double ORDER_STEP = 1000;
 }

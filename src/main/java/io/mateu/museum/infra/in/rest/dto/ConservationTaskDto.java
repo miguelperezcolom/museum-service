@@ -24,4 +24,6 @@ public record ConservationTaskDto(
     LocalDate dueDate,
     Integer estimatedHours,
     String notes,
+    /** The card's place in its board column (ascending, decimal). Absent on a write = unchanged. */
+    Double boardOrder,
     String url) {}
