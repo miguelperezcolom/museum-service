@@ -134,6 +134,10 @@ single-valued ones:
   "sourceUrl": "https://open.smk.dk/artwork/image/KMS8914", "url": "/api/artworks/133" }
 ```
 
+**Neighbours.** `GET /api/<collection>/{id}` also returns `previousId` and `nextId`: the rows beside it
+in the list's default order (the same one a list with no `sort` returns), null at either end. They
+ignore any filter, because a single read knows nothing about one.
+
 ## Writing
 
 Reads are open. **Writes need the `X-Api-Key` header** — not authentication, but the difference
